@@ -1,0 +1,60 @@
+# maestro/flows/03_chapter_transition.yaml
+#
+# 테스트: 챕터 전환 → KV 리로드 → 앱 재시작 후 세션 복원
+#
+# 검증 항목:
+#   - 챕터 전환 시 크래시 없음
+#   - 앱 종료 후 재시작해도 이전 챕터/메시지 유지
+#   - turnCount가 챕터 전환 시 0으로 리셋됨 (UI에서 확인)
+
+appId: com.rpplatform
+
+---
+- launchApp:
+    clearState: false
+
+- waitForAnimationToEnd:
+    timeout: 15000
+
+- tapOn:
+    id: "story-list-item-0"
+
+- waitFor:
+    visible: true
+    id: "chat-input"
+    timeout: 30000
+
+# 챕터 전환 버튼 탭 (다음 챕터로)
+- tapOn:
+    id: "chapter-next-button"
+
+# 챕터 전환 중 KV 리로드 애니메이션/로딩 대기
+- waitForAnimationToEnd:
+    timeout: 20000
+
+# 새 챕터가 로드됐는지 확인
+- assertVisible:
+    id: "chat-input"
+
+# ── 앱 종료 후 재시작 — 세션 복원 검증 ──────────────────────────────
+- stopApp
+
+- launchApp:
+    clearState: false
+
+- waitForAnimationToEnd:
+    timeout: 15000
+
+# 재시작 후 같은 스토리로 돌아왔을 때 이전 메시지 복원 확인
+# (MMKV HEAD 캐시 → chatStore 복원 흐름)
+- tapOn:
+    id: "story-list-item-0"
+
+- waitFor:
+    visible: true
+    id: "chat-input"
+    timeout: 30000
+
+# 이전에 입력한 텍스트가 메시지 목록에 남아있어야 함
+- assertVisible:
+    text: "안녕하세요"

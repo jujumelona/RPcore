@@ -1,0 +1,21 @@
+{
+  "adminAnnouncementTitle": "Duyuru oluştur",
+  "adminAnnouncementSourceStep": "1. Orijinal duyuruyu yaz",
+  "adminAnnouncementTranslateStep": "2. Harici bir modelle çevir",
+  "adminAnnouncementValidateStep": "3. JSON'u yapıştır ve doğrula",
+  "adminAnnouncementSourceTitle": "Başlık",
+  "adminAnnouncementSourceBody": "İçerik",
+  "adminAnnouncementTitlePlaceholder": "Orijinal başlık",
+  "adminAnnouncementBodyPlaceholder": "Orijinal içerik",
+  "adminAnnouncementCopyPrompt": "Çeviri istemini kopyala",
+  "adminAnnouncementPromptCopied": "İstem kopyalandı. Çeviri modeline yapıştırın.",
+  "adminAnnouncementPromptHint": "İstemi kopyalayın, harici olarak çevirin ve JSON sonucunu aşağıya yapıştırın.",
+  "adminAnnouncementValidateJson": "JSON'u doğrula",
+  "adminAnnouncementValidJson": "Tüm dil blokları geçerli.",
+  "adminAnnouncementSubmit": "Duyuruyu yayınla",
+  "adminAnnouncementCreated": "Duyuru oluşturuldu.",
+  "adminAnnouncementPreview": "Çeviri önizlemesi",
+  "adminAnnouncementReady": "Yayınlamadan önce JSON'u doğrulayın.",
+  "adminAnnouncementParseFailed": "JSON ayrıştırılamadı. Lütfen modelin döndürdüğü temiz JSON'u yapıştırın.",
+  "adminAnnouncementMissingBlocks": "Eksik dil blokları: {codes}"
+}

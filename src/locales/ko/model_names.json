@@ -1,0 +1,8 @@
+{
+  "modelNameMini": "미니 모델 (270M)",
+  "modelNameLight": "라이트 모델",
+  "modelNameStandard": "스탠다드 모델",
+  "modelNamePro": "프로 모델",
+  "modelNameReasoning": "추론 모델 (E2B)",
+  "modelNameEmergency": "비상 모델 (270M)"
+}

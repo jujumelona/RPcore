@@ -1,0 +1,193 @@
+{
+  "title": "Veri politikasi",
+  "lastUpdatedLabel": "Son guncelleme",
+  "sensitive": "Hassas",
+  "dataCollectionTitle": "Veri toplama ve amac",
+  "dataIntro": "Uygulamayi calistirmak ve hesabinizi cihazlar arasinda kullanilabilir halde tutmak icin yalnizca gerekli en az veriyi toplariz.",
+  "dataLocalOnly": "Konusma gecmisi ve indirilen dosyalar, bir senkronizasyon ozelligi secmediginiz surece cihazinizda kalabilir.",
+  "dataGroups": [
+    {
+      "category": "Hesap bilgileri",
+      "items": [
+        {
+          "name": "E-posta adresi",
+          "purpose": "Giris ve hesap kurtarma icin kullanilir.",
+          "retention": "Hesap silindiginde silinir.",
+          "sensitive": false
+        },
+        {
+          "name": "Takma ad ve profil resmi",
+          "purpose": "Profilinizde ve topluluk ozelliklerinde gosterilir.",
+          "retention": "Hesap silindiginde silinir.",
+          "sensitive": false
+        }
+      ]
+    },
+    {
+      "category": "Okuma ve sohbet verileri",
+      "items": [
+        {
+          "name": "Sohbet ve okuma gecmisi",
+          "purpose": "Konusmalari, yer imlerini ve okuma ilerlemesini geri yukler.",
+          "retention": "Hesabi sildiginizde veya yerel verileri temizlediginizde kaldirilir.",
+          "sensitive": true
+        },
+        {
+          "name": "Kutuphane etkinligi",
+          "purpose": "Favorileri, takipleri ve onerileri senkronize tutar.",
+          "retention": "Hesap silindiginde silinir.",
+          "sensitive": false
+        }
+      ]
+    },
+    {
+      "category": "Cihaz verileri",
+      "items": [
+        {
+          "name": "Cihaz isletim sistemi ve uygulama surumu",
+          "purpose": "Uyumluluk kontrolleri ve destek icin kullanilir.",
+          "retention": "Destek ve tanilama icin gerekli oldugu surece saklanir.",
+          "sensitive": false
+        },
+        {
+          "name": "Yerel onbellek",
+          "purpose": "Yukleme ve devam etmeyi hizlandirir.",
+          "retention": "Bir sure kullanilmadiginda otomatik olarak temizlenir.",
+          "sensitive": true
+        }
+      ]
+    }
+  ],
+  "permissionsTitle": "Uygulama izinleri",
+  "permissionsIntro": "Asagidaki izinler yalnizca ilgili bir ozellik kullanildiginda istenir.",
+  "permissionsDeniedNote": "Istege bagli bir izni reddederseniz temel hizmet calismaya devam eder, ancak ilgili ozellik sinirlanabilir.",
+  "permissions": [
+    {
+      "permission": "INTERNET",
+      "android": true,
+      "ios": false,
+      "reason": "Hikayeleri yuklemek, kutuphanenizi senkronize etmek ve ag hizmetlerine erismek icin gerekir.",
+      "sensitive": false
+    },
+    {
+      "permission": "Photos / Storage",
+      "android": true,
+      "ios": true,
+      "reason": "Yalnizca dosya sectiginizde veya bir gorsel yuklediginizde istenir.",
+      "sensitive": true
+    },
+    {
+      "permission": "Notifications",
+      "android": true,
+      "ios": true,
+      "reason": "Duyurular ve takip edilen icerik guncellemeleri icin kullanilir.",
+      "sensitive": false
+    },
+    {
+      "permission": "Camera (optional)",
+      "android": true,
+      "ios": true,
+      "reason": "Yalnizca uygulama icinde profil fotografi cektiginizde veya gorsel yuklediginizde istenir.",
+      "sensitive": true
+    }
+  ],
+  "retentionTitle": "Veri saklama",
+  "retentionRows": [
+    {
+      "label": "Sohbet gecmisi",
+      "value": "Cihazda tutulur veya hesap silindiginde kaldirilir."
+    },
+    {
+      "label": "Hesap bilgisi (sunucu)",
+      "value": "Dogrulanmis silme isleminden sonraki 30 gun icinde kaldirilir."
+    },
+    {
+      "label": "Analitik kayitlar",
+      "value": "Toplanmis veya anonimlestirilmis bicimde en fazla 12 ay tutulur."
+    },
+    {
+      "label": "Yerel onbellek",
+      "value": "Hareketsizlikten sonra veya uygulama kaldirildiginda otomatik olarak silinir."
+    },
+    {
+      "label": "Sifreleme",
+      "value": "Sunucuda AES-256 ve mumkun oldugunda cihazda guvenli depolama kullanilir."
+    }
+  ],
+  "legalRetention": "Yasal, muhasebesel veya dolandiriciligi onleme nedenleriyle tutulmasi gereken kayitlar gerekli sure boyunca saklanir ve ardindan silinir.",
+  "childPrivacyTitle": "Cocuk gizliligi",
+  "ageRestriction": "13 yas altindaki kullanicilar icin tasarlanmamistir",
+  "childPrivacyIntro": "Bu hizmet 13 yas ve uzeri kullanicilar icindir. Uygulanabilir asgari yasin altindaki cocuklardan bilerek kisisel veri toplamiyoruz.",
+  "childPrivacyLawNote": "Bir cocuga ait verilerin bize yanlislikla gonderildigini dusunuyorsaniz inceleyip kaldirabilmemiz icin asagidaki adresten bizimle iletisime gecin.",
+  "coppaRequestSubject": "Cocuk verisi silme talebi",
+  "applicableLawsLabel": "Gecerli yasalar",
+  "applicableLawsValue": "COPPA (ABD), GDPR Madde 8 (AB) ve uygulanabildigi yerlerde yerel cocuk gizliligi kurallari.",
+  "thirdPartyTitle": "Ucuncu taraf paylasimi",
+  "thirdPartyIntro": "Sinirli verileri yalnizca hizmeti isletmemize, kararliligi olcmemize veya rizaya dayali reklam sunmamiza yardimci olan ortaklarla paylasiriz.",
+  "thirdParties": [
+    {
+      "name": "Firebase",
+      "purpose": "Kimlik dogrulama, bildirimler ve temel bulut teslimi.",
+      "policy": "https://firebase.google.com/support/privacy",
+      "transfers": "Kuresel bulut bolgeleri"
+    },
+    {
+      "name": "Google AdMob",
+      "purpose": "Rizaya dayali reklam sunumu.",
+      "policy": "https://policies.google.com/privacy",
+      "transfers": "Kuresel bulut bolgeleri"
+    },
+    {
+      "name": "Sentry",
+      "purpose": "Hata raporlama ve kararlilik izleme.",
+      "policy": "https://sentry.io/privacy/",
+      "transfers": "Kuresel bulut bolgeleri"
+    }
+  ],
+  "transferRegionLabel": "Isleme bolgesi",
+  "privacyPolicyLabel": "Gizlilik politikasi",
+  "deletionTitle": "Silme ve ayrilma",
+  "deletionIntro": "Silme talebinde bulundugunuzda hesap verileri, okuma ilerlemesi, yer imleri ve senkronize gecmis kaldirilir veya kaldirilmak uzere planlanir.",
+  "deletionBackupNote": "Sifreli yedekler talep tamamlandiktan sonra saglayicinin saklama takvimine gore silinir.",
+  "method1": "Yontem 1 - E-posta talebi",
+  "method1Desc": "E-posta ile bir silme talebi gonderin; hesabi dogruladiktan sonra isleyecegiz.",
+  "method2": "Yontem 2 - Uygulama icinden sil",
+  "method2Desc": "Giris yaptiysaniz asagidaki dugme yerel verileri hemen temizler ve hesap silme islemini baslatir.",
+  "deleteAccount": "Hesabi ve verileri kalici olarak sil",
+  "deleteRequestSubject": "Veri silme talebi",
+  "deleteConfirmTitle": "Hesabi ve verileri sil",
+  "deleteConfirmMessage": "Hesabi sildiginizde senkronize veriler, okuma ilerlemesi ve yerel gecmis de kaldirilir.\nBu islem geri alinamaz.\n\nDevam etmek istiyor musunuz?",
+  "deleteConfirmAction": "Kalici olarak sil",
+  "cancelAction": "Iptal",
+  "okAction": "Tamam",
+  "deleteErrorTitle": "Silme basarisiz",
+  "deleteError": "Hesap silinirken bir sorun olustu. Lutfen destekle iletisime gecin.",
+  "deleteProcessingAnnouncement": "Hesap silme talebi isleniyor.",
+  "deleteCompletedAnnouncement": "Hesap silme tamamlandi.",
+  "rightsTitle": "Haklariniz",
+  "rights": [
+    {
+      "title": "Erisim",
+      "desc": "Hakkinizda tuttugumuz verilerin bir kopyasini isteyebilirsiniz."
+    },
+    {
+      "title": "Duzeltme",
+      "desc": "Yanlis veya eksik verilerin duzeltilmesini isteyebilirsiniz."
+    },
+    {
+      "title": "Silme",
+      "desc": "Hesap verilerinizin ve senkronize gecmisinizin silinmesini isteyebilirsiniz."
+    },
+    {
+      "title": "Tasinabilirlik",
+      "desc": "Uygunsa verilerinizi tasinabilir bir formatta isteyebilirsiniz."
+    }
+  ],
+  "rightsNote": "Bu haklari kullanmak icin fdje0303@gmail.com ile iletisime gecin. Normalde 30 gun icinde yanit veririz.",
+  "dpoTitle": "Veri koruma gorevlisi",
+  "dpoEmailLabel": "E-posta",
+  "dpoPolicyWebsiteLabel": "Politika sitesi",
+  "dpoResponseTimeLabel": "Yanit suresi",
+  "dpoResponseTimeValue": "3 is gunu icinde",
+  "footerLastUpdated": "Veri politikasi son guncelleme: {date}"
+}

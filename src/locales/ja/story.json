@@ -1,0 +1,20 @@
+{
+  "story": "ストーリー",
+  "storyLoading": "ストーリー読み込み中...",
+  "storyCreating": "ストーリー生成中...",
+  "startStory": "ストーリー開始",
+  "continueHere": "ここから続ける",
+  "chapter": "チャプター",
+  "characters": "登場人物",
+  "character": "キャラクター",
+  "myStories": "マイストーリー",
+  "ongoingStories": "進行中のストーリー",
+  "recommendedStories": "おすすめストーリー",
+  "reportStory": "ストーリーを報告",
+  "blockStory": "ストーリーをブロック",
+  "storyProgress": "進行状況",
+  "progressRate": "進行率",
+  "endingsFound": "発見したエンディング",
+  "messageCount": "会話数",
+  "visitedChapters": "訪れた章"
+}

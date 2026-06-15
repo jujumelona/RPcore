@@ -1,0 +1,8 @@
+{
+  "modelNameMini": "Modelo Mini (270M)",
+  "modelNameLight": "Modelo Light",
+  "modelNameStandard": "Modelo Standard",
+  "modelNamePro": "Modelo Pro",
+  "modelNameReasoning": "Modelo de Raciocínio (E2B)",
+  "modelNameEmergency": "Modelo de Emergência (270M)"
+}

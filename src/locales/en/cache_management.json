@@ -1,0 +1,16 @@
+{
+  "cacheTitle": "Cache Management",
+  "totalCache": "Total Cache",
+  "cache_images": "Image Cache",
+  "cache_chapters": "Chapter Cache",
+  "cache_temp": "Temp Files",
+  "cache_logs": "Logs",
+  "cacheClearTitle": "Clear Cache",
+  "cacheClearMsg": "will be deleted. Continue?",
+  "cacheClearAllTitle": "Clear All",
+  "cacheClearAllMsg": "Delete all cache? This cannot be undone.",
+  "delete": "Delete",
+  "deleteAll": "Delete All",
+  "cancel": "Cancel",
+  "clearAllCache": "Clear All Cache"
+}

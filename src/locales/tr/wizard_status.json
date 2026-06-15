@@ -1,0 +1,15 @@
+{
+  "wizardInitStatus": "Model başlatılıyor...",
+  "wizardLoadingStatus": "Model yükleniyor...",
+  "wizardReadyStatus": "Hazır",
+  "wizardModuleError": "Yerel modül kullanılamıyor",
+  "wizardInitFail": "Başlatma başarısız",
+  "wizardNoModel": "İndirilmiş AI modeli yok. Lütfen Sayfam'a gidip önce bir tane indirin.",
+  "wizardGenTitle": "Hikaye oluşturuluyor...",
+  "wizardGenSub": "AI hikaye editörünü dolduruyor",
+  "wizardGenSubLong": "Yüksek token sayısı biraz zaman alabilir",
+  "wizardGenSubWait": "Lütfen bir süre bekleyin",
+  "wizardErrTitle": "Hata Oluştu",
+  "wizardErrRetry": "Tekrar Dene",
+  "wizardPctComplete": "% tamamlandı"
+}

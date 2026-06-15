@@ -1,0 +1,66 @@
+{
+  "statusLabels": {
+    "open": "접수",
+    "reviewing": "검토 중",
+    "resolved": "해결됨",
+    "rejected": "반려",
+    "auto_hidden": "자동 숨김"
+  },
+  "priorityLabels": {
+    "critical": "긴급",
+    "high": "높음",
+    "medium": "보통",
+    "low": "낮음"
+  },
+  "targetTypeLabels": {
+    "story": "스토리",
+    "post": "게시물",
+    "user": "유저",
+    "comment": "댓글"
+  },
+  "filterActionable": "처리 필요",
+  "filterAll": "전체",
+  "hintLabels": {
+    "immediate_escalation": "즉시 에스컬레이션이 필요한 신고입니다.",
+    "already_hidden_pending_review": "이미 숨김 처리되었고 검토만 남아 있습니다.",
+    "high_risk_reason": "고위험 사유로 운영자 검토 대기 중입니다.",
+    "aged_unresolved_report": "장시간 미해결 상태로 남아 있는 신고입니다.",
+    "needs_follow_up_soon": "빠른 후속 조치가 필요한 신고입니다.",
+    "standard_moderation_review": "일반 검토 흐름으로 처리하면 됩니다."
+  },
+  "systemResolutionNotes": {
+    "open": "모바일 관리자가 신고를 재오픈했습니다.",
+    "reviewing": "모바일 관리자가 검토를 시작했습니다.",
+    "resolved": "모바일 관리자가 신고를 해결했습니다.",
+    "rejected": "모바일 관리자가 신고를 반려했습니다.",
+    "auto_hidden": "모바일 관리자가 콘텐츠를 숨김 처리했습니다."
+  },
+  "noReportDetail": "신고 상세 설명이 없습니다.",
+  "reportPrefix": "신고",
+  "reporterPrefix": "신고자",
+  "assigneePrefix": "담당",
+  "resolutionLabel": "처리 메모",
+  "actionReview": "검토",
+  "actionHide": "숨김",
+  "actionResolve": "해결",
+  "actionReject": "반려",
+  "actionReopen": "재오픈",
+  "changingStatus": "상태 변경 중...",
+  "reportQueueTitle": "신고 큐",
+  "actionableLabel": "처리 필요",
+  "criticalLabel": "중요",
+  "autoHiddenLabel": "자동 숨김",
+  "moderationQueueSummaryTitle": "모더레이션 큐 요약",
+  "immediateActionLabel": "즉시 처리 필요",
+  "importantReportsLabel": "중요 신고",
+  "totalReportsLabel": "전체 신고",
+  "currentResultsLabel": "현재 결과",
+  "reportSearchPlaceholder": "신고 제목, ID, 사유, 메모 검색",
+  "noReports": "현재 검토할 신고가 없습니다.",
+  "noMatchingReports": "선택한 조건에 맞는 신고가 없습니다.",
+  "statusChangeTitle": "신고 상태 변경",
+  "statusChangeMessage": "\"{target}\" 신고를 \"{status}\" 상태로 변경하시겠습니까?",
+  "statusChangeConfirm": "변경",
+  "statusChangeFailedTitle": "변경 실패",
+  "statusChangeFailedBody": "신고 상태를 업데이트하지 못했습니다. 다시 시도해 주세요."
+}

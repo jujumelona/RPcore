@@ -1,0 +1,17 @@
+{
+  "worldSetting": "세계관 설정",
+  "worldSettingHint": "어느 챕터에서도 변하지 않는 불변의 설정만 작성하세요.\n챕터마다 바뀌는 정보는 챕터 탭의 추가 정보 칸에 작성하세요.",
+  "personality": "성격",
+  "speechPattern": "말투/행동",
+  "habit": "습관/버릇",
+  "currentSituation": "현재 상황",
+  "initialEmotion": "유저에 대한 초기 감정 상태",
+  "chapterGoal": "챕터별 목적",
+  "triggerCondition": "전환 조건",
+  "background": "배경",
+  "additionalInfo": "추가 정보",
+  "gender": "성별",
+  "genderMale": "남성",
+  "genderFemale": "여성",
+  "genderOther": "기타"
+}

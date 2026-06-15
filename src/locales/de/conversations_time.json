@@ -1,0 +1,7 @@
+{
+  "timeJustNowShort": "Jetzt",
+  "timeMinAgoShort": "{n} Min.",
+  "timeHourAgoShort": "{n} Std.",
+  "timeDayAgoShort": "{n} T.",
+  "timeWeekAgoShort": "{n} Wo."
+}

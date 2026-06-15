@@ -1,0 +1,12 @@
+{
+  "emoE1Neg": "Nefret(-100)",
+  "emoE1Pos": "Sempati(+100)",
+  "emoE2Neg": "Güvensizlik(-100)",
+  "emoE2Pos": "Güven(+100)",
+  "emoE3Neg": "Aşağı/Boyun Eğen(-100)",
+  "emoE3Pos": "Üstün/Baskın(+100)",
+  "emoE4Neg": "Sakin/Uyuşuk(-100)",
+  "emoE4Pos": "Yoğun/Patlayıcı(+100)",
+  "emoE5Neg": "Uzak(-100)",
+  "emoE5Pos": "Bağlı/Takıntılı(+100)"
+}

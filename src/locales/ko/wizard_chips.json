@@ -1,0 +1,12 @@
+{
+  "wizardChipGenre": "장르",
+  "wizardChipPlot": "줄거리",
+  "wizardChipChar": "인물",
+  "wizardChipWorld": "세계관",
+  "wizardChipTone": "분위기",
+  "wizardChipChapter": "챕터",
+  "wizardChipFlow": "흐름",
+  "wizardChipBranch": "분기",
+  "wizardChipTokens": "토큰",
+  "wizardChipChapterUnit": "챕터"
+}

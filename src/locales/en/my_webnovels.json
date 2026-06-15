@@ -1,0 +1,17 @@
+{
+  "numSaved": "{n} saved",
+  "numDeleted": "{n} deleted",
+  "numShared": "Sharing {n} items",
+  "novelDeleteTitle": "Delete Web Novel",
+  "novelDeleteMsg": "Delete {n} item(s)? This cannot be undone.",
+  "noWebNovels": "Saved Web Novels",
+  "selectAll": "Select All",
+  "deselectAll": "Deselect All",
+  "searchResults": "Search Results",
+  "returnToOriginal": "Return to Original Position",
+  "resumeReading": "Resume at {n}%",
+  "resumeMove": "Go",
+  "resumeClose": "Close",
+  "chapterPrefix": "Chapter {n}",
+  "chapterAlt": "Chapter {n}"
+}

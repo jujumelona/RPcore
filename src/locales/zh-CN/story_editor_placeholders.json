@@ -1,0 +1,21 @@
+{
+  "phStoryTitle": "输入故事标题",
+  "phStoryDesc": "输入故事简介",
+  "phStoryHashtag": "#浪漫 #奇幻 #执着",
+  "phCharName": "角色名",
+  "phPersonality": "详细描述性格、口癖、特征",
+  "phCoreKeyword": "魔法学院, academy",
+  "phCoreContent": "出现该关键词时传给AI的信息",
+  "phWorldSetting": "写出故事的世界观、背景、绝对规则。",
+  "phChapterName": "章节名",
+  "phAiGoal": "本章AI应引导的整体方向",
+  "phCharGoal": "本章目标",
+  "phChapterInfo": "AI需了解的变更（章节切换时重置）",
+  "phPrevSummary0": "第1章开始前有背景事件或序章请在此填写。",
+  "phPrevSummary": "摘要上一章AI必须记住的关键事件/情感变化。",
+  "phIntroInput": "输入内容...",
+  "phBgName": "背景名称",
+  "phCharGender": "例：女性、男性、非二元",
+  "phPersonalityDeep": "以内在动机和情感模式为重点进行写作",
+  "phCharExample": "用2-3行对话清楚地展示角色语气"
+}

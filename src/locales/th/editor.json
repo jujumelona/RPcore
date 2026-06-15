@@ -1,0 +1,17 @@
+{
+  "worldSetting": "การตั้งค่าโลก",
+  "worldSettingHint": "เขียนเฉพาะการตั้งค่าที่ไม่เปลี่ยนแปลงในทุกบท\nข้อมูลที่เปลี่ยนต่อบทให้ใส่ในช่องข้อมูลเพิ่มเติมของบท",
+  "personality": "บุคลิกภาพ",
+  "speechPattern": "วิธีพูด/การกระทำ",
+  "habit": "นิสัย",
+  "currentSituation": "สถานการณ์ปัจจุบัน",
+  "initialEmotion": "ความรู้สึกเริ่มต้นต่อผู้ใช้",
+  "chapterGoal": "เป้าหมายบท",
+  "triggerCondition": "เงื่อนไขการเปลี่ยน",
+  "background": "พื้นหลัง",
+  "additionalInfo": "ข้อมูลเพิ่มเติม",
+  "gender": "เพศ",
+  "genderMale": "ชาย",
+  "genderFemale": "หญิง",
+  "genderOther": "อื่นๆ"
+}

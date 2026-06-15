@@ -1,0 +1,12 @@
+{
+  "wizardStepGenre": "類型 / 主題",
+  "wizardStepPremise": "核心前提",
+  "wizardStepCharCount": "角色數量",
+  "wizardStepCharDetail": "角色詳情",
+  "wizardStepWorld": "世界設定",
+  "wizardStepTone": "基調",
+  "wizardStepChapter": "章節數量",
+  "wizardStepFlow": "故事走向",
+  "wizardStepBranch": "分支頻率",
+  "wizardStepTokens": "生成長度"
+}

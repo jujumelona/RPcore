@@ -1,0 +1,21 @@
+{
+  "adminAnnouncementTitle": "สร้างประกาศ",
+  "adminAnnouncementSourceStep": "1. เขียนประกาศต้นฉบับ",
+  "adminAnnouncementTranslateStep": "2. แปลด้วยโมเดลภายนอก",
+  "adminAnnouncementValidateStep": "3. วางและตรวจสอบ JSON",
+  "adminAnnouncementSourceTitle": "หัวข้อ",
+  "adminAnnouncementSourceBody": "เนื้อหา",
+  "adminAnnouncementTitlePlaceholder": "หัวข้อต้นฉบับ",
+  "adminAnnouncementBodyPlaceholder": "เนื้อหาต้นฉบับ",
+  "adminAnnouncementCopyPrompt": "คัดลอกพรอมป์แปลภาษา",
+  "adminAnnouncementPromptCopied": "คัดลอกพรอมป์แล้ว กรุณานำไปวางในโมเดลแปลภาษาของคุณ",
+  "adminAnnouncementPromptHint": "คัดลอกพรอมป์ ไปแปลภายนอก แล้ววางผลลัพธ์ JSON ด้านล่าง",
+  "adminAnnouncementValidateJson": "ตรวจสอบ JSON",
+  "adminAnnouncementValidJson": "บล็อกภาษาทั้งหมดถูกต้อง",
+  "adminAnnouncementSubmit": "เผยแพร่ประกาศ",
+  "adminAnnouncementCreated": "สร้างประกาศแล้ว",
+  "adminAnnouncementPreview": "ตัวอย่างการแปล",
+  "adminAnnouncementReady": "กรุณาตรวจสอบ JSON ก่อนเผยแพร่",
+  "adminAnnouncementParseFailed": "แยกวิเคราะห์ JSON ไม่สำเร็จ กรุณาวางเฉพาะ JSON ที่โมเดลส่งกลับมา",
+  "adminAnnouncementMissingBlocks": "บล็อกภาษาที่ขาดหาย: {codes}"
+}

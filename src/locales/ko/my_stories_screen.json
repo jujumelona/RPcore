@@ -1,0 +1,10 @@
+{
+  "myStoriesTotal": "전체",
+  "myStoriesPublished": "게시됨",
+  "myStoriesViews": "조회수",
+  "myStoriesLikes": "좋아요",
+  "myStoriesDraftCount": "초안 {n}",
+  "deleteSelectedTitle": "스토리 삭제",
+  "deleteSelectedConfirm": "{n}개의 스토리를 삭제할까요?\n삭제된 스토리는 복구할 수 없습니다.",
+  "deleteFailed": "삭제하지 못했습니다."
+}

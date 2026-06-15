@@ -1,0 +1,20 @@
+{
+  "story": "История",
+  "storyLoading": "Загрузка истории...",
+  "storyCreating": "Создание истории...",
+  "startStory": "Начать историю",
+  "continueHere": "Продолжить здесь",
+  "chapter": "Глава",
+  "characters": "Персонажи",
+  "character": "Персонаж",
+  "myStories": "Мои истории",
+  "ongoingStories": "Текущие истории",
+  "recommendedStories": "Рекомендуемые истории",
+  "reportStory": "Пожаловаться на историю",
+  "blockStory": "Заблокировать историю",
+  "storyProgress": "Прогресс",
+  "progressRate": "Прогресс",
+  "endingsFound": "Найденные концовки",
+  "messageCount": "Сообщения",
+  "visitedChapters": "Посещённые главы"
+}

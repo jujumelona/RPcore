@@ -1,0 +1,16 @@
+{
+  "cacheTitle": "إدارة الذاكرة المؤقتة",
+  "totalCache": "إجمالي الذاكرة المؤقتة",
+  "cache_images": "ذاكرة الصور",
+  "cache_chapters": "ذاكرة الفصول",
+  "cache_temp": "ملفات مؤقتة",
+  "cache_logs": "السجلات",
+  "cacheClearTitle": "مسح الذاكرة",
+  "cacheClearMsg": "سيتم حذفه. متابعة؟",
+  "cacheClearAllTitle": "مسح الكل",
+  "cacheClearAllMsg": "حذف كل الذاكرة المؤقتة؟",
+  "delete": "حذف",
+  "deleteAll": "حذف الكل",
+  "cancel": "إلغاء",
+  "clearAllCache": "مسح كل الذاكرة المؤقتة"
+}

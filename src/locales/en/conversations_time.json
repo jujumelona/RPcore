@@ -1,0 +1,7 @@
+{
+    "timeJustNowShort":  "Just now",
+    "timeMinAgoShort":  "{n}m ago",
+    "timeHourAgoShort":  "{n}h ago",
+    "timeDayAgoShort":  "{n}d ago",
+    "timeWeekAgoShort":  "{n}w ago"
+}

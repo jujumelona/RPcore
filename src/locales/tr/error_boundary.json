@@ -1,0 +1,17 @@
+{
+  "engineErrorFatal": "AI motor hatası oluştu",
+  "engineErrorUnstable": "AI motoru geçici olarak kararsız",
+  "engineRestartHint": "Lütfen motoru yeniden başlatın.",
+  "engineMemoryHint": "Belleği temizlemeyi deneyin.",
+  "engineClearingMem": "Temizleniyor...",
+  "engineClearMemBtn": "Belleği temizle",
+  "engineRestartingBtn": "Yeniden başlatılıyor...",
+  "engineRestartBtn": "Motoru yeniden başlat",
+  "unexpectedError": "Beklenmedik bir hata oluştu",
+  "componentLabel": "Bileşen",
+  "errorMessageLabel": "Hata Mesajı",
+  "errorStackLabel": "Hata Stack Trace",
+  "componentErrorLabel": "Bileşen Hatası",
+  "retryWithCount": "Tekrar dene ({count})",
+  "maxRetriesExceeded": "Maksimum yeniden deneme sayısı aşıldı. Lütfen uygulamayı yeniden başlatın."
+}

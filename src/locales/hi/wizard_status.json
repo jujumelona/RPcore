@@ -1,0 +1,15 @@
+{
+  "wizardInitStatus": "मॉडल प्रारंभ हो रहा है...",
+  "wizardLoadingStatus": "मॉडल लोड हो रहा है...",
+  "wizardReadyStatus": "तैयार",
+  "wizardModuleError": "नेटिव मॉड्यूल अनुपलब्ध",
+  "wizardInitFail": "प्रारंभीकरण विफल",
+  "wizardNoModel": "कोई AI मॉडल डाउनलोड नहीं हुआ। कृपया My Page पर जाएं और पहले एक डाउनलोड करें।",
+  "wizardGenTitle": "कहानी बन रही है...",
+  "wizardGenSub": "AI कहानी संपादक भर रहा है",
+  "wizardGenSubLong": "अधिक टोकन संख्या में समय लग सकता है",
+  "wizardGenSubWait": "कृपया एक पल प्रतीक्षा करें",
+  "wizardErrTitle": "त्रुटि उत्पन्न हुई",
+  "wizardErrRetry": "पुनः प्रयास करें",
+  "wizardPctComplete": "% पूर्ण"
+}

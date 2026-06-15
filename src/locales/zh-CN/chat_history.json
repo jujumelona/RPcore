@@ -1,0 +1,12 @@
+{
+  "historySearchTitle": "历史搜索",
+  "searchPlaceholder": "搜索聊天记录...",
+  "filterAll": "全部",
+  "resultCount": "{n}条结果",
+  "noSearchResult": "无搜索结果",
+  "noSearchResultHint": "试试其他关键词",
+  "noHistory": "暂无聊天记录",
+  "roleUser": "我",
+  "multiCharTitle": "角色管理",
+  "multiCharEmpty": "暂无注册角色"
+}

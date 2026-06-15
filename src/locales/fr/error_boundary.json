@@ -1,0 +1,17 @@
+{
+  "engineErrorFatal": "Une erreur de moteur AI est survenue",
+  "engineErrorUnstable": "Le moteur AI est temporairement instable",
+  "engineRestartHint": "Veuillez redémarrer le moteur.",
+  "engineMemoryHint": "Essayez de vider la mémoire.",
+  "engineClearingMem": "Nettoyage...",
+  "engineClearMemBtn": "Vider la mémoire",
+  "engineRestartingBtn": "Redémarrage...",
+  "engineRestartBtn": "Redémarrer le moteur",
+  "unexpectedError": "Une erreur inattendue est survenue",
+  "componentLabel": "Composant",
+  "errorMessageLabel": "Message d'Erreur",
+  "errorStackLabel": "Pile d'Erreur",
+  "componentErrorLabel": "Erreur de Composant",
+  "retryWithCount": "Réessayer ({count})",
+  "maxRetriesExceeded": "Nombre maximum de tentatives dépassé. Veuillez redémarrer l'application."
+}

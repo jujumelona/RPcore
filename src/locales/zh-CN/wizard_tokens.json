@@ -1,0 +1,10 @@
+{
+  "wizardTokenQ": "选择AI生成长度",
+  "wizardTokenHint": "1个token约等于0.5-1个字符。更多token=更多细节但等待时间更长。",
+  "wizardTokenFastDesc": "快速、简短",
+  "wizardTokenNormalDesc": "普通、均衡",
+  "wizardTokenDetailDesc": "详细、生动的描述",
+  "wizardTokenFullDesc": "非常详细，耗时较长",
+  "wizardTokenUnit": "代币",
+  "wizardTokenDirect": "或直接输入（512-8192）"
+}

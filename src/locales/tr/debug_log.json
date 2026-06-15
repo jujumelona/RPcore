@@ -1,0 +1,6 @@
+{
+  "debugLogTitle": "Hata ayıklama günlüğü",
+  "logLines": "{n} sat?r",
+  "autoScrollOn": "Otomatik kayd?rma A?IK",
+  "autoScrollOff": "Otomatik kayd?rma KAPALI"
+}

@@ -1,0 +1,12 @@
+{
+  "wizardBranchQ": "ควรมีตัวเลือกบ่อยแค่ไหน?",
+  "wizardBranchHint": "ตัวเลือกช่วยให้ผู้อ่านกำหนดทิศทางเรื่อง แต่ละตัวเลือกเปลี่ยนเส้นทางและอารมณ์",
+  "wizardBranchNoneLabel": "แทบไม่มี",
+  "wizardBranchNoneDesc": "เรื่องเส้นตรง ไม่มีตัวเลือก",
+  "wizardBranchRareLabel": "นานๆ ครั้ง",
+  "wizardBranchRareDesc": "ตัวเลือกสำคัญหนึ่งครั้งทุก 2-3 บท",
+  "wizardBranchModLabel": "ปานกลาง",
+  "wizardBranchModDesc": "อย่างน้อยหนึ่งตัวเลือกต่อบท",
+  "wizardBranchFreqLabel": "บ่อยครั้ง",
+  "wizardBranchFreqDesc": "ตัวเลือกปรากฏบ่อยระหว่างการสนทนา"
+}

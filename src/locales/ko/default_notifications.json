@@ -1,0 +1,14 @@
+{
+  "defaultNotif1Title": "환영합니다! ",
+  "defaultNotif1Body": "RPcore에 오신 걸 환영해요. 스토리를 시작해보세요!",
+  "defaultNotif2Title": "새 스토리가 업데이트됐어요",
+  "defaultNotif2Body": "팔로우한 작가의 새 스토리가 올라왔어요.",
+  "defaultNotif3Title": "인기 스토리 추천",
+  "defaultNotif3Body": "지금 가장 인기 있는 스토리들을 확인해보세요!",
+  "defaultAnnounce1Title": "RPcore Beta 서비스 안내",
+  "defaultAnnounce1Body": "현재 RPcore는 베타 서비스 중입니다. 다양한 기능들이 계속 업데이트될 예정이에요.",
+  "defaultAnnounce2Title": "언어 지원 확대 안내",
+  "defaultAnnounce2Body": "이제 15개 언어를 지원합니다. 설정 > 언어 설정에서 앱 언어와 AI 응답 언어를 별도로 설정할 수 있어요.",
+  "defaultAnnounce3Title": "커뮤니티 이용 규칙",
+  "defaultAnnounce3Body": "커뮤니티는 언어별로 분리 운영됩니다. 다른 언어 커뮤니티도 방문할 수 있으나, 해당 언어로 작성해주세요."
+}

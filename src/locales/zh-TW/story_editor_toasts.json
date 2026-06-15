@@ -1,0 +1,12 @@
+{
+  "toastTitleRequired": "請輸入標題",
+  "toastSaveOk": "已儲存 ",
+  "toastSaveFail": "儲存失敗：",
+  "toastMaxChars": "最多允許10個字元",
+  "toastChapterMin": "網路小說摘要至少需要2章",
+  "toastNoStory": "請輸入你想要的故事",
+  "toastAiApplied": "AI建議已套用 ",
+  "toastAiFail": "AI生成失敗：",
+  "toastServerErr": "伺服器錯誤 ",
+  "selectStylePresetRequired": "請選擇文體預設。"
+}

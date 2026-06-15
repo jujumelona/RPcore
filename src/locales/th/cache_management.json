@@ -1,0 +1,16 @@
+{
+  "cacheTitle": "จัดการแคช",
+  "totalCache": "แคชทั้งหมด",
+  "cache_images": "แคชรูปภาพ",
+  "cache_chapters": "แคชบท",
+  "cache_temp": "ไฟล์ชั่วคราว",
+  "cache_logs": "บันทึก",
+  "cacheClearTitle": "ล้างแคช",
+  "cacheClearMsg": "จะถูกลบ ดำเนินการต่อ?",
+  "cacheClearAllTitle": "ล้างทั้งหมด",
+  "cacheClearAllMsg": "ลบแคชทั้งหมด?",
+  "delete": "ลบ",
+  "deleteAll": "ลบทั้งหมด",
+  "cancel": "ยกเลิก",
+  "clearAllCache": "ล้างแคชทั้งหมด"
+}

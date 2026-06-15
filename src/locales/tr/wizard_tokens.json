@@ -1,0 +1,10 @@
+{
+  "wizardTokenQ": "AI üretim uzunluğunu seçin",
+  "wizardTokenHint": "1 token yaklaşık 0,5-1 karakter. Daha fazla token = daha fazla detay ama daha uzun bekleme.",
+  "wizardTokenFastDesc": "Hızlı, kısa ve öz",
+  "wizardTokenNormalDesc": "Normal, dengeli",
+  "wizardTokenDetailDesc": "Detaylı, canlı açıklama",
+  "wizardTokenFullDesc": "Çok detaylı, daha uzun sürer",
+  "wizardTokenUnit": "token",
+  "wizardTokenDirect": "Veya doğrudan yazın (512-8192)"
+}

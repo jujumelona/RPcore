@@ -1,0 +1,21 @@
+{
+  "adminAnnouncementTitle": "建立公告",
+  "adminAnnouncementSourceStep": "1. 撰寫原始公告",
+  "adminAnnouncementTranslateStep": "2. 使用外部模型翻譯",
+  "adminAnnouncementValidateStep": "3. 貼上並驗證 JSON",
+  "adminAnnouncementSourceTitle": "標題",
+  "adminAnnouncementSourceBody": "內文",
+  "adminAnnouncementTitlePlaceholder": "原始標題",
+  "adminAnnouncementBodyPlaceholder": "原始內文",
+  "adminAnnouncementCopyPrompt": "複製翻譯提示詞",
+  "adminAnnouncementPromptCopied": "已複製提示詞。請貼到你的翻譯模型中。",
+  "adminAnnouncementPromptHint": "複製提示詞，在外部完成翻譯後，將 JSON 結果貼到下方。",
+  "adminAnnouncementValidateJson": "驗證 JSON",
+  "adminAnnouncementValidJson": "所有語言區塊都有效。",
+  "adminAnnouncementSubmit": "發布公告",
+  "adminAnnouncementCreated": "公告已建立。",
+  "adminAnnouncementPreview": "翻譯預覽",
+  "adminAnnouncementReady": "發布前請先驗證 JSON。",
+  "adminAnnouncementParseFailed": "JSON 解析失敗。請只貼上模型回傳的純淨 JSON。",
+  "adminAnnouncementMissingBlocks": "缺少的語言區塊: {codes}"
+}

@@ -1,0 +1,20 @@
+{
+  "story": "قصة",
+  "storyLoading": "جار تحميل القصة...",
+  "storyCreating": "جار إنشاء القصة...",
+  "startStory": "ابدأ القصة",
+  "continueHere": "تابع من هنا",
+  "chapter": "الفصل",
+  "characters": "الشخصيات",
+  "character": "شخصية",
+  "myStories": "قصصي",
+  "ongoingStories": "القصص الجارية",
+  "recommendedStories": "القصص المقترحة",
+  "reportStory": "الإبلاغ عن قصة",
+  "blockStory": "حظر القصة",
+  "storyProgress": "التقدم",
+  "progressRate": "نسبة التقدم",
+  "endingsFound": "النهايات المكتشفة",
+  "messageCount": "عدد الرسائل",
+  "visitedChapters": "الفصول المزارة"
+}

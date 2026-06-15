@@ -1,0 +1,7 @@
+{
+  "aiModalTitle": "◎ KI-Geschichtenassistent",
+  "aiModalHint": "Beschreibe frei die gewünschte Geschichte oder das Genre.\nDie KI füllt die Erstellungsseite automatisch aus.",
+  "aiModalPlaceholder": "Bsp.) Romantasy mit obsessivem Herzog.\nKalter, aber mir gegenüber hingebungsvoller Charakter.",
+  "aiModalBtn": "✦ Auto-Ausfüllen starten",
+  "aiModalBtnLoading": "KI generiert..."
+}

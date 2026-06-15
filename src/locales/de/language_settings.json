@@ -1,0 +1,18 @@
+{
+  "languageSettings": "Spracheinstellungen",
+  "appLanguage": "App-Sprache",
+  "aiLanguage": "KI-Antwortsprache",
+  "languageChanged": "Sprache geändert",
+  "syncLanguages": "App- und KI-Sprache synchronisieren",
+  "syncDone": "Sprachen synchronisiert!",
+  "alsoChangeAI": "Auch KI-Sprache ändern?",
+  "aiWillRespond": "KI antwortet auf",
+  "languageTip": "Tipp: Sie können App-Sprache und KI-Sprache separat einstellen.",
+  "languageSystemTitle": "Sprachdurchsetzungssystem",
+  "langFeature1": "• KI antwortet nur in der gewählten Sprache",
+  "langFeature2": "• Funktioniert auch wenn Sie in einer anderen Sprache schreiben",
+  "langFeature3": "• 99%+ Genauigkeit garantiert",
+  "langFeature4": "• Echtzeit-Sprachverifizierung",
+  "autoDetected": "Automatisch anhand Ihres Standorts erkannt",
+  "rtlSupportLabel": "RTL-Unterstuetzung"
+}

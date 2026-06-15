@@ -1,0 +1,12 @@
+{
+  "wizardStepGenre": "النوع / الموضوع",
+  "wizardStepPremise": "الفكرة الأساسية",
+  "wizardStepCharCount": "عدد الشخصيات",
+  "wizardStepCharDetail": "تفاصيل الشخصية",
+  "wizardStepWorld": "إعداد العالم",
+  "wizardStepTone": "النبرة",
+  "wizardStepChapter": "عدد الفصول",
+  "wizardStepFlow": "تدفق القصة",
+  "wizardStepBranch": "تكرار التشعب",
+  "wizardStepTokens": "طول التوليد"
+}

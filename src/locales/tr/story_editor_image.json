@@ -1,0 +1,8 @@
+{
+  "imgPermTitle": "Resim Erişim İzni",
+  "imgPermMsg": "Galeri erişimi gereklidir.",
+  "imgPermAllow": "İzin Ver",
+  "imgPermDeny": "Reddet",
+  "imgPermNeeded": "Galeri erişim izni gereklidir.",
+  "imgPermLibrary": "react-native-image-picker gereklidir."
+}

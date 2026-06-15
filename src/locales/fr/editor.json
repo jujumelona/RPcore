@@ -1,0 +1,17 @@
+{
+  "worldSetting": "Paramètres du monde",
+  "worldSettingHint": "Écrivez uniquement les paramètres immuables de tous les chapitres.\nLes infos changeant par chapitre vont dans le champ d'info additionnelle.",
+  "personality": "Personnalité",
+  "speechPattern": "Façon de parler/agir",
+  "habit": "Habitudes",
+  "currentSituation": "Situation actuelle",
+  "initialEmotion": "Émotion initiale envers l'utilisateur",
+  "chapterGoal": "Objectif du chapitre",
+  "triggerCondition": "Condition d'activation",
+  "background": "Fond",
+  "additionalInfo": "Info additionnelle",
+  "gender": "Genre",
+  "genderMale": "Masculin",
+  "genderFemale": "Féminin",
+  "genderOther": "Autre"
+}

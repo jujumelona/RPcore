@@ -1,0 +1,16 @@
+{
+  "cacheTitle": "कैश प्रबंधन",
+  "totalCache": "कुल कैश",
+  "cache_images": "इमेज कैश",
+  "cache_chapters": "चैप्टर कैश",
+  "cache_temp": "अस्थायी फ़ाइलें",
+  "cache_logs": "लॉग",
+  "cacheClearTitle": "कैश साफ़ करें",
+  "cacheClearMsg": "हटाया जाएगा। जारी रखें?",
+  "cacheClearAllTitle": "सब साफ़ करें",
+  "cacheClearAllMsg": "सभी कैश हटाएँ?",
+  "delete": "हटाएँ",
+  "deleteAll": "सब हटाएँ",
+  "cancel": "रद्द करें",
+  "clearAllCache": "सभी कैश साफ़ करें"
+}

@@ -1,0 +1,20 @@
+{
+  "modelSummaryMini1": "RAM 3GB+ · For old/legacy devices only",
+  "modelSummaryMini2": "Very limited quality · Not recommended",
+  "modelSummaryMini3": "~270MB",
+  "modelSummaryLight1": "RAM 6GB+ · GPU/NPU acceleration",
+  "modelSummaryLight2": "Fast response · Good for basic chat",
+  "modelSummaryLight3": "~700MB",
+  "modelSummaryStandard1": "RAM 8GB+ recommended · GPU/NPU acceleration",
+  "modelSummaryStandard2": "Balance of speed & quality · Best for general use",
+  "modelSummaryStandard3": "~2GB",
+  "modelSummaryPro1": "RAM 12GB+ · GPU/NPU acceleration",
+  "modelSummaryPro2": "Highest quality inference",
+  "modelSummaryPro3": "~4GB",
+  "modelSummaryReasoning1": "RAM 8GB+ · HTP / GPU Accelerated",
+  "modelSummaryReasoning2": "Best Quality · Recommended",
+  "modelSummaryReasoning3": "~2.5GB · Context 8K",
+  "modelSummaryEmergency1": "RAM 4GB+ · CPU Mode",
+  "modelSummaryEmergency2": "Battery Efficient · Basic Quality",
+  "modelSummaryEmergency3": "~200MB · Context 4K"
+}

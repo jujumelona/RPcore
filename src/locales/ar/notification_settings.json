@@ -1,0 +1,17 @@
+{
+  "notifSettingsTitle": "إعدادات الإشعارات",
+  "notifGlobal": "جميع الإشعارات",
+  "notifCategories": "الفئات",
+  "notifCat_new_follower": "متابع جديد",
+  "notifCat_like": "إعجاب",
+  "notifCat_comment": "تعليق",
+  "notifCat_mention": "إشارة",
+  "notifCat_story_update": "تحديث القصة",
+  "notifCat_chapter_release": "فصل جديد",
+  "notifCat_system": "النظام",
+  "notifDND": "عدم الإزعاج",
+  "notifDNDEnable": "عدم الإزعاج",
+  "notifDNDStart": "البداية",
+  "notifDNDEnd": "النهاية",
+  "notifTimezone": "المنطقة الزمنية"
+}

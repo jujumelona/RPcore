@@ -1,0 +1,12 @@
+{
+  "wizardStepGenre": "แนว / ธีม",
+  "wizardStepPremise": "แกนเรื่อง",
+  "wizardStepCharCount": "จำนวนตัวละคร",
+  "wizardStepCharDetail": "รายละเอียดตัวละคร",
+  "wizardStepWorld": "การตั้งค่าโลก",
+  "wizardStepTone": "โทน",
+  "wizardStepChapter": "จำนวนบท",
+  "wizardStepFlow": "การดำเนินเรื่อง",
+  "wizardStepBranch": "ความถี่ของสาขา",
+  "wizardStepTokens": "ความยาวการสร้าง"
+}

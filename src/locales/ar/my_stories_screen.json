@@ -1,0 +1,10 @@
+{
+  "myStoriesTotal": "الإجمالي",
+  "myStoriesPublished": "منشور",
+  "myStoriesViews": "المشاهدات",
+  "myStoriesLikes": "الإعجابات",
+  "myStoriesDraftCount": "مسودات {n}",
+  "deleteSelectedTitle": "حذف القصص",
+  "deleteSelectedConfirm": "حذف {n} قصة؟\nلا يمكن استعادة القصص المحذوفة.",
+  "deleteFailed": "تعذر الحذف."
+}

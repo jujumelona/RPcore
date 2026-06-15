@@ -1,0 +1,19 @@
+{
+  "emotionState": "สถานะอารมณ์",
+  "innerState": "สภาพภายในปัจจุบันของตัวละคร",
+  "tapFullscreen": "แตะเพื่อเต็มหน้าจอ",
+  "representative": "ตัวแทน",
+  "basicInfo": "ข้อมูลพื้นฐาน",
+  "personality": "บุคลิกภาพ",
+  "habitsFeatures": "นิสัยและลักษณะ",
+  "currentSituation": "สถานการณ์ปัจจุบัน",
+  "like": "ถูกใจ",
+  "namePlaceholder": "ชื่อ",
+  "agePlaceholder": "อายุ",
+  "genderPlaceholder": "เพศ",
+  "jobPlaceholder": "อาชีพ",
+  "viewAll": "ดูทั้งหมด",
+  "player": "ผู้เล่น",
+  "aiCharacter": "ตัวละคร AI",
+  "photos": "รูปภาพ"
+}

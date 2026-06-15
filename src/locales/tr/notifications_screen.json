@@ -1,0 +1,15 @@
+{
+  "tabNotification": "Bildirimler",
+  "tabAnnouncement": "Duyurular",
+  "noNotifications": "Bildirim yok",
+  "noAnnouncements": "Duyuru yok",
+  "notifReadAll": "Tümünü okundu olarak işaretle",
+  "notifEmptySub": "Yeni etkinlikler burada görünecek",
+  "timeJustNow": "az önce",
+  "timeMinAgo": "{n} dk önce",
+  "timeHourAgo": "{n} sa önce",
+  "timeDayAgo": "{n} gün önce",
+  "noRecentSearches": "Son arama yok",
+  "noRecentSearchesSub": "Hikaye, yazar veya hashtag arayın",
+  "rtlLayout": "ltr"
+}

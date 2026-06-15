@@ -1,0 +1,12 @@
+{
+  "wizardStepGenre": "Tür / Tema",
+  "wizardStepPremise": "Ana Konu",
+  "wizardStepCharCount": "Karakter Sayısı",
+  "wizardStepCharDetail": "Karakter Detayı",
+  "wizardStepWorld": "Dünya Ayarı",
+  "wizardStepTone": "Ton",
+  "wizardStepChapter": "Bölüm Sayısı",
+  "wizardStepFlow": "Hikaye Akışı",
+  "wizardStepBranch": "Dal Sıklığı",
+  "wizardStepTokens": "Üretim Uzunluğu"
+}

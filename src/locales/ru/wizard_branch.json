@@ -1,0 +1,12 @@
+{
+  "wizardBranchQ": "Как часто должны появляться выборы?",
+  "wizardBranchHint": "Выборы позволяют читателям формировать историю. Каждый выбор меняет путь и эмоции.",
+  "wizardBranchNoneLabel": "Почти нет",
+  "wizardBranchNoneDesc": "Линейная история, без выборов",
+  "wizardBranchRareLabel": "Изредка",
+  "wizardBranchRareDesc": "Один важный выбор каждые 2-3 главы",
+  "wizardBranchModLabel": "Умеренно",
+  "wizardBranchModDesc": "Хотя бы один выбор в каждой главе",
+  "wizardBranchFreqLabel": "Часто",
+  "wizardBranchFreqDesc": "Выборы появляются часто в середине разговора"
+}

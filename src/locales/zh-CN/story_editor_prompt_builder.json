@@ -1,0 +1,10 @@
+{
+  "headerLangLabel": "翻译语言: ",
+  "headerRule": "规则: 在原始键前添加 LANG_{{语言代码}}_。禁止翻译 {U}/{u}。不要说明和 Markdown，只输出键:值。",
+  "ruleStory": "附加规则: TAGS 保留 # 符号，自然翻译",
+  "ruleCharacter": "附加规则: 姓名按目标语言地区本地化，年龄仅输出数字",
+  "ruleIntro": "附加规则: 区分旁白风格（第三人称描述）和角色风格（第一人称对话）",
+  "speakerNarrator": "旁白",
+  "speakerUser": "用户",
+  "speakerCharPrefix": "角色"
+}

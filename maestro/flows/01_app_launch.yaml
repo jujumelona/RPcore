@@ -1,0 +1,23 @@
+# maestro/flows/01_app_launch.yaml
+#
+# 테스트: 앱 실행 → 홈화면 로딩 확인
+# 전제: 이미 로그인된 계정이 있는 상태 (또는 게스트 모드)
+#
+# 실행 방법:
+#   maestro test maestro/flows/01_app_launch.yaml
+
+appId: com.rpplatform
+
+---
+- launchApp:
+    clearState: false    # 기존 로그인 세션 유지
+
+# 스플래시 화면이 사라질 때까지 대기 (모델 prewarm 포함, 최대 15초)
+- waitForAnimationToEnd:
+    timeout: 15000
+
+# 홈 화면 또는 대화 목록 화면이 표시됐는지 확인
+# testID가 없으면 텍스트로 fallback
+- assertTrue:
+    condition: ${visible("대화") || visible("홈") || visible("스토리") || visible("Conversations")}
+    label: "홈 또는 대화 목록 화면이 보여야 함"

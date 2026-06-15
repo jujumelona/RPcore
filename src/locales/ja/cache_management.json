@@ -1,0 +1,16 @@
+{
+  "cacheTitle": "キャッシュ管理",
+  "totalCache": "合計キャッシュ",
+  "cache_images": "画像キャッシュ",
+  "cache_chapters": "チャプターキャッシュ",
+  "cache_temp": "一時ファイル",
+  "cache_logs": "ログ",
+  "cacheClearTitle": "キャッシュ削除",
+  "cacheClearMsg": "を削除しますか？",
+  "cacheClearAllTitle": "全て削除",
+  "cacheClearAllMsg": "全てのキャッシュを削除しますか？",
+  "delete": "削除",
+  "deleteAll": "全て削除",
+  "cancel": "キャンセル",
+  "clearAllCache": "全キャッシュ削除"
+}

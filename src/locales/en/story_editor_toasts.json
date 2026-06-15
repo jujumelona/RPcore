@@ -1,0 +1,12 @@
+{
+  "toastTitleRequired": "Please enter a title",
+  "toastSaveOk": "Saved ",
+  "toastSaveFail": "Save failed: ",
+  "toastMaxChars": "Maximum 10 characters allowed",
+  "toastChapterMin": "You need at least 2 chapters to summarize as a web novel",
+  "toastNoStory": "Please enter the story you want",
+  "toastAiApplied": "AI suggestions applied ",
+  "toastAiFail": "AI generation failed: ",
+  "toastServerErr": "Server error ",
+  "selectStylePresetRequired": "Please choose a style preset."
+}

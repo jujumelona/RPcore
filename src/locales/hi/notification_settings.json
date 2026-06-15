@@ -1,0 +1,17 @@
+{
+  "notifSettingsTitle": "सूचना सेटिंग",
+  "notifGlobal": "सभी सूचनाएँ",
+  "notifCategories": "श्रेणियाँ",
+  "notifCat_new_follower": "नया फ़ॉलोअर",
+  "notifCat_like": "लाइक",
+  "notifCat_comment": "टिप्पणी",
+  "notifCat_mention": "मेंशन",
+  "notifCat_story_update": "स्टोरी अपडेट",
+  "notifCat_chapter_release": "नया अध्याय",
+  "notifCat_system": "सिस्टम",
+  "notifDND": "परेशान न करें",
+  "notifDNDEnable": "परेशान न करें",
+  "notifDNDStart": "शुरू",
+  "notifDNDEnd": "समाप्त",
+  "notifTimezone": "समय क्षेत्र"
+}

@@ -1,0 +1,193 @@
+{
+  "title": "データポリシー",
+  "lastUpdatedLabel": "最終更新",
+  "sensitive": "機微",
+  "dataCollectionTitle": "収集するデータと目的",
+  "dataIntro": "アプリの運用と、複数の端末でアカウントを利用できる状態を保つために必要な最小限のデータのみを収集します。",
+  "dataLocalOnly": "会話履歴やダウンロード済みファイルは、同期機能を選択しない限り端末に残る場合があります。",
+  "dataGroups": [
+    {
+      "category": "アカウント情報",
+      "items": [
+        {
+          "name": "メールアドレス",
+          "purpose": "サインインとアカウント復旧に使用します。",
+          "retention": "アカウント削除時に削除されます。",
+          "sensitive": false
+        },
+        {
+          "name": "ニックネームとプロフィール画像",
+          "purpose": "プロフィールやコミュニティ機能に表示されます。",
+          "retention": "アカウント削除時に削除されます。",
+          "sensitive": false
+        }
+      ]
+    },
+    {
+      "category": "読書とチャットのデータ",
+      "items": [
+        {
+          "name": "チャットと読書の履歴",
+          "purpose": "会話、しおり、読書の進行状況を復元します。",
+          "retention": "アカウント削除またはローカルデータ消去時に削除されます。",
+          "sensitive": true
+        },
+        {
+          "name": "ライブラリ活動",
+          "purpose": "お気に入り、フォロー、推薦の同期を保ちます。",
+          "retention": "アカウント削除時に削除されます。",
+          "sensitive": false
+        }
+      ]
+    },
+    {
+      "category": "端末データ",
+      "items": [
+        {
+          "name": "端末OSとアプリのバージョン",
+          "purpose": "互換性確認とサポートに使用します。",
+          "retention": "サポートと診断に必要な期間のみ保持されます。",
+          "sensitive": false
+        },
+        {
+          "name": "ローカルキャッシュ",
+          "purpose": "読み込みと再開を高速化します。",
+          "retention": "一定期間利用がないと自動的に削除されます。",
+          "sensitive": true
+        }
+      ]
+    }
+  ],
+  "permissionsTitle": "アプリ権限",
+  "permissionsIntro": "以下の権限は、関連する機能を利用するときにのみ求められます。",
+  "permissionsDeniedNote": "任意の権限を拒否しても基本サービスは利用できますが、その機能は制限される場合があります。",
+  "permissions": [
+    {
+      "permission": "INTERNET",
+      "android": true,
+      "ios": false,
+      "reason": "ストーリーの読み込み、ライブラリの同期、ネットワークサービスへの接続に必要です。",
+      "sensitive": false
+    },
+    {
+      "permission": "Photos / Storage",
+      "android": true,
+      "ios": true,
+      "reason": "ファイルを選択する場合や画像をアップロードする場合にのみ求められます。",
+      "sensitive": true
+    },
+    {
+      "permission": "Notifications",
+      "android": true,
+      "ios": true,
+      "reason": "お知らせやフォロー中コンテンツの更新に使用されます。",
+      "sensitive": false
+    },
+    {
+      "permission": "Camera (optional)",
+      "android": true,
+      "ios": true,
+      "reason": "プロフィール写真を撮影する場合や、アプリ内で写真をアップロードする場合にのみ求められます。",
+      "sensitive": true
+    }
+  ],
+  "retentionTitle": "データ保持期間",
+  "retentionRows": [
+    {
+      "label": "チャット履歴",
+      "value": "端末に保存されるか、アカウント削除時に削除されます。"
+    },
+    {
+      "label": "アカウント情報（サーバー）",
+      "value": "確認済みの削除後30日以内に削除されます。"
+    },
+    {
+      "label": "分析ログ",
+      "value": "集計または匿名化された形で最大12か月保持されます。"
+    },
+    {
+      "label": "ローカルキャッシュ",
+      "value": "一定期間の非利用またはアプリ削除後に自動削除されます。"
+    },
+    {
+      "label": "暗号化",
+      "value": "サーバー側はAES-256、端末側は利用可能な場合に安全な保存を行います。"
+    }
+  ],
+  "legalRetention": "法的、会計上、または不正防止の理由で保持が必要な記録は、必要期間保管した後に削除されます。",
+  "childPrivacyTitle": "子どものプライバシー",
+  "ageRestriction": "13歳未満の利用者向けではありません",
+  "childPrivacyIntro": "このサービスは13歳以上の利用者を対象としています。適用される最低年齢未満の子どもの個人データを故意に収集することはありません。",
+  "childPrivacyLawNote": "子どもが誤って個人データを送信したと思われる場合は、確認と削除のため下記の連絡先までご連絡ください。",
+  "coppaRequestSubject": "子どものデータ削除依頼",
+  "applicableLawsLabel": "適用法令",
+  "applicableLawsValue": "COPPA（米国）、GDPR第8条（EU）、および該当する地域の子どものプライバシー規則。",
+  "thirdPartyTitle": "第三者提供",
+  "thirdPartyIntro": "サービス運営、安定性の測定、または同意に基づく広告配信を支援するパートナーとのみ、限定的なデータを共有します。",
+  "thirdParties": [
+    {
+      "name": "Firebase",
+      "purpose": "認証、通知、基本的なクラウド配信。",
+      "policy": "https://firebase.google.com/support/privacy",
+      "transfers": "グローバルクラウドリージョン"
+    },
+    {
+      "name": "Google AdMob",
+      "purpose": "同意に基づく広告配信。",
+      "policy": "https://policies.google.com/privacy",
+      "transfers": "グローバルクラウドリージョン"
+    },
+    {
+      "name": "Sentry",
+      "purpose": "エラー報告と安定性監視。",
+      "policy": "https://sentry.io/privacy/",
+      "transfers": "グローバルクラウドリージョン"
+    }
+  ],
+  "transferRegionLabel": "処理地域",
+  "privacyPolicyLabel": "プライバシーポリシー",
+  "deletionTitle": "削除と退会",
+  "deletionIntro": "削除を依頼すると、アカウントデータ、読書進行、しおり、同期履歴が削除されるか、削除予定となります。",
+  "deletionBackupNote": "暗号化バックアップは、依頼完了後に事業者の保持スケジュールに従って削除されます。",
+  "method1": "方法1 - メールで依頼",
+  "method1Desc": "メールで削除依頼を送信すると、アカウント確認後に処理します。",
+  "method2": "方法2 - アプリ内で削除",
+  "method2Desc": "サインイン済みの場合、下のボタンでローカルデータを即時削除し、アカウント削除を開始します。",
+  "deleteAccount": "アカウントとデータを完全に削除",
+  "deleteRequestSubject": "データ削除依頼",
+  "deleteConfirmTitle": "アカウントとデータを削除",
+  "deleteConfirmMessage": "アカウントを削除すると、同期データ、読書進行、ローカル履歴も削除されます。\nこの操作は元に戻せません。\n\n続行しますか？",
+  "deleteConfirmAction": "完全に削除",
+  "cancelAction": "キャンセル",
+  "okAction": "確認",
+  "deleteErrorTitle": "削除に失敗しました",
+  "deleteError": "アカウント削除中に問題が発生しました。サポートへお問い合わせください。",
+  "deleteProcessingAnnouncement": "アカウント削除依頼を処理しています。",
+  "deleteCompletedAnnouncement": "アカウント削除が完了しました。",
+  "rightsTitle": "あなたの権利",
+  "rights": [
+    {
+      "title": "開示",
+      "desc": "当社が保持するあなたのデータの写しを請求できます。"
+    },
+    {
+      "title": "訂正",
+      "desc": "不正確または不完全なデータの訂正を求めることができます。"
+    },
+    {
+      "title": "削除",
+      "desc": "アカウントデータと同期履歴の削除を求めることができます。"
+    },
+    {
+      "title": "データポータビリティ",
+      "desc": "適用される場合、データを持ち運び可能な形式で請求できます。"
+    }
+  ],
+  "rightsNote": "これらの権利を行使するには、fdje0303@gmail.com までご連絡ください。通常は30日以内に回答します。",
+  "dpoTitle": "データ保護責任者",
+  "dpoEmailLabel": "メール",
+  "dpoPolicyWebsiteLabel": "ポリシーサイト",
+  "dpoResponseTimeLabel": "回答時間",
+  "dpoResponseTimeValue": "3営業日以内",
+  "footerLastUpdated": "データポリシー最終更新: {date}"
+}

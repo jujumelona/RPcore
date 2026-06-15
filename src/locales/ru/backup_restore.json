@@ -1,0 +1,20 @@
+{
+  "backupRestoreTitle": "Резервная копия / Восстановление",
+  "selectSections": "Включить элементы",
+  "backup_settings": "Настройки",
+  "backup_readingStats": "Статистика",
+  "backup_contentFilterRules": "Фильтры",
+  "backup_notificationPrefs": "Уведомления",
+  "backup_drafts": "Черновики",
+  "backupBtn": "Экспорт",
+  "restoreBtn": "Восстановить",
+  "backupSuccess": "Копия сохранена",
+  "backupFailed": "Ошибка сохранения",
+  "restoreConfirmTitle": "Подтвердить восстановление",
+  "restoreConfirmMsg": "Выбранные данные будут перезаписаны. Продолжить?",
+  "restoreSuccess": "Восстановление завершено",
+  "noFileSelected": "Файл не выбран",
+  "invalidBackup": "Недопустимый файл",
+  "cancel": "Отмена",
+  "backupHint": "Копии сохраняются в папку загрузок."
+}

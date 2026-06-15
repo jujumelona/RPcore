@@ -1,0 +1,19 @@
+{
+  "emotionState": "Estado emocional",
+  "innerState": "Estado interior actual del personaje",
+  "tapFullscreen": "Toca para pantalla completa",
+  "representative": "Representativo",
+  "basicInfo": "Información básica",
+  "personality": "Personalidad",
+  "habitsFeatures": "Hábitos y rasgos",
+  "currentSituation": "Situación actual",
+  "like": "Me gusta",
+  "namePlaceholder": "Nombre",
+  "agePlaceholder": "Edad",
+  "genderPlaceholder": "Género",
+  "jobPlaceholder": "Trabajo",
+  "viewAll": "Ver todo",
+  "player": "Jugador",
+  "aiCharacter": "Personaje de IA",
+  "photos": "Fotos"
+}

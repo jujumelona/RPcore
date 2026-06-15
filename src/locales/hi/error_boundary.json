@@ -1,0 +1,17 @@
+{
+  "engineErrorFatal": "AI इंजन त्रुटि हुई",
+  "engineErrorUnstable": "AI इंजन अस्थायी रूप से अस्थिर है",
+  "engineRestartHint": "कृपया इंजन पुनः आरंभ करें।",
+  "engineMemoryHint": "मेमोरी साफ करने का प्रयास करें।",
+  "engineClearingMem": "साफ हो रहा है...",
+  "engineClearMemBtn": "मेमोरी साफ करें",
+  "engineRestartingBtn": "पुनः आरंभ हो रहा है...",
+  "engineRestartBtn": "इंजन पुनः आरंभ करें",
+  "unexpectedError": "एक अप्रत्याशित त्रुटि हुई",
+  "componentLabel": "घटक",
+  "errorMessageLabel": "त्रुटि संदेश",
+  "errorStackLabel": "त्रुटि स्टैकट्रेस",
+  "componentErrorLabel": "घटक त्रुटि",
+  "retryWithCount": "पुनः प्रयास करें ({count})",
+  "maxRetriesExceeded": "अधिकतम पुनः प्रयास सीमा पार हो गई। कृपया ऐप को पुनः प्रारंभ करें।"
+}

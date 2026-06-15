@@ -1,0 +1,8 @@
+{
+  "modelNameMini": "Мини-модель (270M)",
+  "modelNameLight": "Лёгкая модель",
+  "modelNameStandard": "Стандартная модель",
+  "modelNamePro": "Про-модель",
+  "modelNameReasoning": "Модель рассуждений (E2B)",
+  "modelNameEmergency": "Экстренная модель (270M)"
+}

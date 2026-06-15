@@ -1,0 +1,10 @@
+{
+  "myStoriesTotal": "Totale",
+  "myStoriesPublished": "Pubblicate",
+  "myStoriesViews": "Visualizzazioni",
+  "myStoriesLikes": "Mi piace",
+  "myStoriesDraftCount": "Bozze {n}",
+  "deleteSelectedTitle": "Elimina storie",
+  "deleteSelectedConfirm": "Eliminare {n} storie?\nLe storie eliminate non possono essere recuperate.",
+  "deleteFailed": "Eliminazione non riuscita."
+}

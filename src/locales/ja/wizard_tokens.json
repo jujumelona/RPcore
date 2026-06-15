@@ -1,0 +1,10 @@
+{
+  "wizardTokenQ": "AI生成分量を選んでください",
+  "wizardTokenHint": "1トークン約0.5〜1文字。トークンが多いほど詳細ですが時間がかかります。",
+  "wizardTokenFastDesc": "速い · 短く簡潔",
+  "wizardTokenNormalDesc": "普通 · バランス良い",
+  "wizardTokenDetailDesc": "詳細 · 細かい描写",
+  "wizardTokenFullDesc": "非常に詳細 · 時間がかかる",
+  "wizardTokenUnit": "トークン",
+  "wizardTokenDirect": "または直接数字を入力 (512〜8192)"
+}

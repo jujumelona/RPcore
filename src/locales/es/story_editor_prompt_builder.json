@@ -1,0 +1,10 @@
+{
+  "headerLangLabel": "Idiomas de traducción: ",
+  "headerRule": "Regla: Anteponer LANG_{{código_idioma}}_ a la clave original. No traducir {U}/{u}. Solo clave:valor, sin explicaciones ni markdown.",
+  "ruleStory": "Regla adicional: Conservar el símbolo # en TAGS, traducir de forma natural",
+  "ruleCharacter": "Regla adicional: Localizar el nombre según la región del idioma de destino, edad solo en número",
+  "ruleIntro": "Regla adicional: Distinguir el estilo del narrador (descripción en 3ª persona) del estilo del personaje (diálogo en 1ª persona)",
+  "speakerNarrator": "Narrador",
+  "speakerUser": "Usuario",
+  "speakerCharPrefix": "Personaje"
+}

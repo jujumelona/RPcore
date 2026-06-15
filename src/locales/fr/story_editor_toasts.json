@@ -1,0 +1,12 @@
+{
+  "toastTitleRequired": "Veuillez saisir un titre",
+  "toastSaveOk": "Enregistré ",
+  "toastSaveFail": "Échec de l'enregistrement : ",
+  "toastMaxChars": "Maximum 10 caractères autorisés",
+  "toastChapterMin": "Vous avez besoin d'au moins 2 chapitres pour résumer en roman web",
+  "toastNoStory": "Veuillez saisir l'histoire que vous souhaitez",
+  "toastAiApplied": "Suggestions IA appliquées ",
+  "toastAiFail": "Échec de la génération IA : ",
+  "toastServerErr": "Erreur serveur ",
+  "selectStylePresetRequired": "Choisissez un préréglage de style."
+}

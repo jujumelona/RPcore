@@ -1,0 +1,12 @@
+{
+  "toastTitleRequired": "タイトルを入力してください",
+  "toastSaveOk": "保存完了 ",
+  "toastSaveFail": "保存失敗: ",
+  "toastMaxChars": "最大10名まで追加できます",
+  "toastChapterMin": "Web小説にまとめるには2章以上必要です",
+  "toastNoStory": "作りたいストーリーを入力してください",
+  "toastAiApplied": "AI提案が適用されました ",
+  "toastAiFail": "AI生成失敗: ",
+  "toastServerErr": "サーバーエラー ",
+  "selectStylePresetRequired": "文体プリセットを選択してください。"
+}

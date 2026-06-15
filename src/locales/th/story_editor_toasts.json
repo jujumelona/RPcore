@@ -1,0 +1,12 @@
+{
+  "toastTitleRequired": "กรุณาใส่ชื่อเรื่อง",
+  "toastSaveOk": "บันทึกแล้ว ",
+  "toastSaveFail": "บันทึกล้มเหลว: ",
+  "toastMaxChars": "อนุญาตสูงสุด 10 ตัวอักษร",
+  "toastChapterMin": "ต้องมีอย่างน้อย 2 บทเพื่อสรุปเป็นนิยายเว็บ",
+  "toastNoStory": "กรุณาใส่เรื่องราวที่ต้องการ",
+  "toastAiApplied": "ใช้คำแนะนำ AI แล้ว ",
+  "toastAiFail": "การสร้าง AI ล้มเหลว: ",
+  "toastServerErr": "ข้อผิดพลาดเซิร์ฟเวอร์ ",
+  "selectStylePresetRequired": "กรุณาเลือกพรีเซ็ตสไตล์"
+}

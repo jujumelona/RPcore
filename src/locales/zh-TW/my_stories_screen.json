@@ -1,0 +1,10 @@
+{
+  "myStoriesTotal": "總計",
+  "myStoriesPublished": "已發布",
+  "myStoriesViews": "瀏覽數",
+  "myStoriesLikes": "讚數",
+  "myStoriesDraftCount": "草稿 {n}",
+  "deleteSelectedTitle": "刪除故事",
+  "deleteSelectedConfirm": "刪除 {n} 個故事嗎?\n已刪除的故事無法復原。",
+  "deleteFailed": "刪除失敗。"
+}

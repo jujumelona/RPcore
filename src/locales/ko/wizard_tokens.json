@@ -1,0 +1,10 @@
+{
+  "wizardTokenQ": "AI 스토리 생성 분량을 선택해 주세요",
+  "wizardTokenHint": "1토큰 약 0.5~1글자입니다. 토큰이 많을수록 더 세세하지만 시간이 걸릴 수 있습니다.",
+  "wizardTokenFastDesc": "빠름 · 짧고 간략한 내용",
+  "wizardTokenNormalDesc": "보통 · 균형 잡힌 분량",
+  "wizardTokenDetailDesc": "상세함 · 세세한 묘사",
+  "wizardTokenFullDesc": "매우 상세 · 시간 오래 걸림",
+  "wizardTokenUnit": "토큰",
+  "wizardTokenDirect": "또는 숫자로 직접 입력 (512 ~ 8192)"
+}

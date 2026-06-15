@@ -1,0 +1,10 @@
+{
+  "createTab": "创建",
+  "createTip": "自由描述您想要的故事或类型。\nAI将自动填写创建页面。",
+  "tempSave": "草稿",
+  "publish": "发布",
+  "title": "标题",
+  "description": "描述",
+  "tags": "标签",
+  "generate": "生成"
+}

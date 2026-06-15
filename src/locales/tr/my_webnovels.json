@@ -1,0 +1,17 @@
+{
+  "numSaved": "{n} kaydedildi",
+  "numDeleted": "{n} silindi",
+  "numShared": "{n} paylaşılıyor",
+  "novelDeleteTitle": "Romanı sil",
+  "novelDeleteMsg": "{n} silinsin mi? Geri alınamaz.",
+  "noWebNovels": "Kaydedilen romanlar",
+  "selectAll": "Tümünü seç",
+  "deselectAll": "Tümünün seçimini kaldır",
+  "searchResults": "Arama sonuçları",
+  "returnToOriginal": "Orijinal konuma dön",
+  "resumeReading": "{n}% noktasından devam et",
+  "resumeMove": "Git",
+  "resumeClose": "Kapat",
+  "chapterPrefix": "Bölüm {n}",
+  "chapterAlt": "Bölüm {n}"
+}

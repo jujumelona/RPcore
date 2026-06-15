@@ -1,0 +1,18 @@
+{
+  "languageSettings": "語言設定",
+  "appLanguage": "應用程式語言",
+  "aiLanguage": "AI回覆語言",
+  "languageChanged": "語言已變更",
+  "syncLanguages": "同步應用程式與AI語言",
+  "syncDone": "同步完成！",
+  "alsoChangeAI": "也變更AI語言？",
+  "aiWillRespond": "AI將使用以下語言回覆:",
+  "languageTip": "提示: 可以分別設定應用程式語言和AI回覆語言。",
+  "languageSystemTitle": "語言強制系統",
+  "langFeature1": "• AI僅用選定語言回覆",
+  "langFeature2": "• 即使輸入其他語言也會按設定語言回覆",
+  "langFeature3": "• 99%+精確度保證",
+  "langFeature4": "• 即時語言驗證與自動修正",
+  "autoDetected": "根據位置自動偵測",
+  "rtlSupportLabel": "RTL 支援"
+}

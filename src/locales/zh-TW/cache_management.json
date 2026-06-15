@@ -1,0 +1,16 @@
+{
+  "cacheTitle": "快取管理",
+  "totalCache": "總快取",
+  "cache_images": "圖片快取",
+  "cache_chapters": "章節快取",
+  "cache_temp": "暫存檔案",
+  "cache_logs": "日誌",
+  "cacheClearTitle": "清除快取",
+  "cacheClearMsg": "將被刪除，繼續嗎？",
+  "cacheClearAllTitle": "清除全部",
+  "cacheClearAllMsg": "刪除所有快取？",
+  "delete": "刪除",
+  "deleteAll": "全部刪除",
+  "cancel": "取消",
+  "clearAllCache": "清除所有快取"
+}

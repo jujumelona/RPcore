@@ -1,0 +1,18 @@
+{
+  "conversations2": "บทสนทนา",
+  "scraps": "สแครป",
+  "noScraps2": "ยังไม่มีบทสนทนาที่บันทึกไว้",
+  "searchPlaceholder": "ค้นหา",
+  "browseStories": "สำรวจสตอรี่",
+  "searchConversations": "ค้นหาบทสนทนา...",
+  "numUnreadMessages": "ยังไม่ได้อ่าน {n} รายการ",
+  "deleteConv": "ลบบทสนทนา",
+  "latestOrder": "ล่าสุด",
+  "noSearchResults2": "ไม่พบผลลัพธ์",
+  "swipeToDelete": "ปัดเพื่อลบ",
+  "searchNoResultsSubtitle": "ลองใช้คำค้นอื่น",
+  "homeToStartChat": "เลือกสตอรี่จากหน้าแรกเพื่อเริ่มบทสนทนาแรกของคุณ",
+  "exploreStories": "สำรวจสตอรี่",
+  "deletedConv": "ลบ \"{n}\" แล้ว",
+  "undo": "เลิกทำ"
+}

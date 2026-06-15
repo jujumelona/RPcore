@@ -1,0 +1,12 @@
+{
+  "historySearchTitle": "Pesquisar histórico",
+  "searchPlaceholder": "Pesquisar no chat...",
+  "filterAll": "Tudo",
+  "resultCount": "{n} resultados",
+  "noSearchResult": "Sem resultados",
+  "noSearchResultHint": "Tente outras palavras-chave",
+  "noHistory": "Sem histórico",
+  "roleUser": "Eu",
+  "multiCharTitle": "Gerenciar personagens",
+  "multiCharEmpty": "Nenhum personagem registrado"
+}

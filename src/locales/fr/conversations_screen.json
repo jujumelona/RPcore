@@ -1,0 +1,18 @@
+{
+  "conversations2": "Conversations",
+  "scraps": "Extraits",
+  "noScraps2": "Aucune conversation enregistrée",
+  "searchPlaceholder": "Rechercher",
+  "browseStories": "Parcourir les histoires",
+  "searchConversations": "Rechercher des conversations...",
+  "numUnreadMessages": "{n} non lus",
+  "deleteConv": "Supprimer la conversation",
+  "latestOrder": "Récentes",
+  "noSearchResults2": "Aucun résultat trouvé",
+  "swipeToDelete": "Faites glisser pour supprimer",
+  "searchNoResultsSubtitle": "Essayez un autre terme de recherche",
+  "homeToStartChat": "Sélectionnez une histoire depuis l'accueil pour commencer votre première conversation",
+  "exploreStories": "Explorer les histoires",
+  "deletedConv": "\"{n}\" supprimée",
+  "undo": "Annuler"
+}

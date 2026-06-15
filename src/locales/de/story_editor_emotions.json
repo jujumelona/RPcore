@@ -1,0 +1,12 @@
+{
+  "emoE1Neg": "Abneigung(-100)",
+  "emoE1Pos": "Zuneigung(+100)",
+  "emoE2Neg": "Misstrauen(-100)",
+  "emoE2Pos": "Vertrauen(+100)",
+  "emoE3Neg": "Unterlegen/Unterwürfig(-100)",
+  "emoE3Pos": "Überlegen/Dominant(+100)",
+  "emoE4Neg": "Ruhig/Apathisch(-100)",
+  "emoE4Pos": "Intensiv/Explosiv(+100)",
+  "emoE5Neg": "Distanziert(-100)",
+  "emoE5Pos": "Verbunden/Besessen(+100)"
+}

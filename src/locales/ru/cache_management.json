@@ -1,0 +1,16 @@
+{
+  "cacheTitle": "Управление кэшем",
+  "totalCache": "Всего кэш",
+  "cache_images": "Кэш изображений",
+  "cache_chapters": "Кэш глав",
+  "cache_temp": "Временные файлы",
+  "cache_logs": "Логи",
+  "cacheClearTitle": "Очистить кэш",
+  "cacheClearMsg": "будет удалён. Продолжить?",
+  "cacheClearAllTitle": "Очистить всё",
+  "cacheClearAllMsg": "Удалить весь кэш?",
+  "delete": "Удалить",
+  "deleteAll": "Удалить всё",
+  "cancel": "Отмена",
+  "clearAllCache": "Очистить весь кэш"
+}

@@ -1,0 +1,20 @@
+{
+  "backupRestoreTitle": "Backup / Restore",
+  "selectSections": "Include items",
+  "backup_settings": "Settings",
+  "backup_readingStats": "Reading Stats",
+  "backup_contentFilterRules": "Content Filters",
+  "backup_notificationPrefs": "Notification Prefs",
+  "backup_drafts": "Drafts",
+  "backupBtn": "Export Backup",
+  "restoreBtn": "Restore Backup",
+  "backupSuccess": "Backup saved",
+  "backupFailed": "Backup failed",
+  "restoreConfirmTitle": "Confirm Restore",
+  "restoreConfirmMsg": "Selected data will be overwritten. Continue?",
+  "restoreSuccess": "Restore complete",
+  "noFileSelected": "No file selected",
+  "invalidBackup": "Invalid backup file",
+  "cancel": "Cancel",
+  "backupHint": "Backups are saved to your Downloads folder. Only selected items are overwritten during restore."
+}

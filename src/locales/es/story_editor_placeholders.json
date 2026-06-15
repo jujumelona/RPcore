@@ -1,0 +1,21 @@
+{
+  "phStoryTitle": "Introduce el titulo de la historia",
+  "phStoryDesc": "Introduce la descripcion de la historia",
+  "phStoryHashtag": "#romance #fantasia #obsesion",
+  "phCharName": "Nombre del personaje",
+  "phPersonality": "Describe en detalle la personalidad, forma de hablar y rasgos",
+  "phCoreKeyword": "gremio_magico, academia",
+  "phCoreContent": "Info que se envia a la IA cuando aparece esta palabra clave",
+  "phWorldSetting": "Escribe la ambientacion, el trasfondo y las reglas absolutas del mundo.",
+  "phChapterName": "Nombre del capitulo",
+  "phAiGoal": "Direccion general que la IA debe guiar en este capitulo",
+  "phCharGoal": "Objetivo en este capitulo",
+  "phChapterInfo": "Cambios que la IA debe saber (se reinicia al cambiar de capitulo)",
+  "phPrevSummary0": "Si hay un prologo o trasfondo antes del capitulo 1, escribelo aqui.",
+  "phPrevSummary": "Resume eventos clave y cambios emocionales que la IA debe recordar del capitulo anterior.",
+  "phIntroInput": "Escribe contenido...",
+  "phBgName": "Nombre del fondo",
+  "phCharGender": "p. ej. Femenino, Masculino, No binario",
+  "phPersonalityDeep": "Motivacion interna y patrones emocionales...",
+  "phCharExample": "2-3 lineas de dialogo para mostrar el tono del personaje"
+}

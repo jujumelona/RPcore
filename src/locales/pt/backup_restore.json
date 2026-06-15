@@ -1,0 +1,20 @@
+{
+  "backupRestoreTitle": "Backup / Restaurar",
+  "selectSections": "Itens a incluir",
+  "backup_settings": "Configurações",
+  "backup_readingStats": "Estatísticas",
+  "backup_contentFilterRules": "Filtros",
+  "backup_notificationPrefs": "Notificações",
+  "backup_drafts": "Rascunhos",
+  "backupBtn": "Exportar backup",
+  "restoreBtn": "Restaurar",
+  "backupSuccess": "Backup salvo",
+  "backupFailed": "Falha ao salvar",
+  "restoreConfirmTitle": "Confirmar restauração",
+  "restoreConfirmMsg": "Os dados selecionados serão sobrescritos. Continuar?",
+  "restoreSuccess": "Restauração completa",
+  "noFileSelected": "Nenhum arquivo selecionado",
+  "invalidBackup": "Arquivo de backup inválido",
+  "cancel": "Cancelar",
+  "backupHint": "Backups são salvos na pasta de downloads."
+}

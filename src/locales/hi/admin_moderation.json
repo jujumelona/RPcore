@@ -1,0 +1,66 @@
+{
+  "statusLabels": {
+    "open": "खुला",
+    "reviewing": "समीक्षा में",
+    "resolved": "सुलझा",
+    "rejected": "अस्वीकृत",
+    "auto_hidden": "स्वतः छिपा"
+  },
+  "priorityLabels": {
+    "critical": "गंभीर",
+    "high": "उच्च",
+    "medium": "मध्यम",
+    "low": "निम्न"
+  },
+  "targetTypeLabels": {
+    "story": "स्टोरी",
+    "post": "पोस्ट",
+    "user": "उपयोगकर्ता",
+    "comment": "टिप्पणी"
+  },
+  "filterActionable": "कार्रवाई आवश्यक",
+  "filterAll": "सभी",
+  "hintLabels": {
+    "immediate_escalation": "तुरंत एस्केलेशन आवश्यक है",
+    "already_hidden_pending_review": "यह पहले से छिपा है और समीक्षा की प्रतीक्षा में है",
+    "high_risk_reason": "उच्च जोखिम कारण ऑपरेटर कतार में है",
+    "aged_unresolved_report": "पुरानी अनसुलझी रिपोर्ट",
+    "needs_follow_up_soon": "जल्द फॉलो-अप की आवश्यकता है",
+    "standard_moderation_review": "मानक मॉडरेशन समीक्षा"
+  },
+  "systemResolutionNotes": {
+    "open": "मोबाइल एडमिन ने रिपोर्ट को फिर से खोला।",
+    "reviewing": "मोबाइल एडमिन ने समीक्षा शुरू की।",
+    "resolved": "मोबाइल एडमिन ने रिपोर्ट सुलझा दी।",
+    "rejected": "मोबाइल एडमिन ने रिपोर्ट अस्वीकार कर दी।",
+    "auto_hidden": "मोबाइल एडमिन ने सामग्री छिपा दी।"
+  },
+  "noReportDetail": "विस्तृत रिपोर्ट नोट उपलब्ध नहीं है।",
+  "reportPrefix": "रिपोर्ट",
+  "reporterPrefix": "रिपोर्ट करने वाला",
+  "assigneePrefix": "जिम्मेदार",
+  "resolutionLabel": "समाधान नोट",
+  "actionReview": "समीक्षा",
+  "actionHide": "छिपाएँ",
+  "actionResolve": "हल करें",
+  "actionReject": "अस्वीकार करें",
+  "actionReopen": "फिर से खोलें",
+  "changingStatus": "स्थिति अपडेट की जा रही है...",
+  "reportQueueTitle": "रिपोर्ट कतार",
+  "actionableLabel": "कार्रवाई आवश्यक",
+  "criticalLabel": "गंभीर",
+  "autoHiddenLabel": "स्वतः छिपा",
+  "moderationQueueSummaryTitle": "मॉडरेशन कतार सारांश",
+  "immediateActionLabel": "तुरंत कार्रवाई",
+  "importantReportsLabel": "गंभीर रिपोर्ट",
+  "totalReportsLabel": "कुल रिपोर्ट",
+  "currentResultsLabel": "वर्तमान परिणाम",
+  "reportSearchPlaceholder": "रिपोर्ट शीर्षक, ID, कारण या नोट खोजें",
+  "noReports": "अभी समीक्षा के लिए कोई रिपोर्ट नहीं है।",
+  "noMatchingReports": "चुने गए फ़िल्टर से मेल खाने वाली कोई रिपोर्ट नहीं है।",
+  "statusChangeTitle": "रिपोर्ट स्थिति बदलें",
+  "statusChangeMessage": "\"{target}\" की रिपोर्ट को \"{status}\" में बदलना है?",
+  "statusChangeConfirm": "बदलें",
+  "statusChangeFailedTitle": "बदलाव विफल",
+  "statusChangeFailedBody": "रिपोर्ट की स्थिति अपडेट नहीं हो सकी। कृपया फिर से प्रयास करें।"
+}

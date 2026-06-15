@@ -1,0 +1,8 @@
+{
+  "unknownError": "알 수 없는 오류",
+  "editComment": "댓글 수정",
+  "storyProgressLabel": "Ch.{n} 진행 중",
+  "storyInProgressShort": "진행 중",
+  "authorFallback": "작가",
+  "charLabel2": "캐릭터"
+}

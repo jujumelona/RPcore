@@ -1,0 +1,12 @@
+{
+  "historySearchTitle": "Verlauf durchsuchen",
+  "searchPlaceholder": "Chat-Verlauf durchsuchen...",
+  "filterAll": "Alle",
+  "resultCount": "{n} Ergebnisse",
+  "noSearchResult": "Keine Ergebnisse",
+  "noSearchResultHint": "Andere Suchbegriffe versuchen",
+  "noHistory": "Kein Chat-Verlauf",
+  "roleUser": "Ich",
+  "multiCharTitle": "Charakterverwaltung",
+  "multiCharEmpty": "Keine Charaktere registriert"
+}

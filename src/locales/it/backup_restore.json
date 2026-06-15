@@ -1,0 +1,20 @@
+{
+  "backupRestoreTitle": "Backup / Ripristino",
+  "selectSections": "Elementi da includere",
+  "backup_settings": "Impostazioni",
+  "backup_readingStats": "Statistiche",
+  "backup_contentFilterRules": "Filtri",
+  "backup_notificationPrefs": "Notifiche",
+  "backup_drafts": "Bozze",
+  "backupBtn": "Esporta backup",
+  "restoreBtn": "Ripristina",
+  "backupSuccess": "Backup salvato",
+  "backupFailed": "Backup fallito",
+  "restoreConfirmTitle": "Conferma ripristino",
+  "restoreConfirmMsg": "I dati selezionati verranno sovrascritti. Continuare?",
+  "restoreSuccess": "Ripristino completato",
+  "noFileSelected": "Nessun file selezionato",
+  "invalidBackup": "File di backup non valido",
+  "cancel": "Annulla",
+  "backupHint": "I backup vengono salvati nella cartella Download."
+}

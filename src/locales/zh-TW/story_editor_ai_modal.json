@@ -1,0 +1,7 @@
+{
+  "aiModalTitle": " AI故事助手",
+  "aiModalHint": "描述你想要的故事或類型。\nAI將自動填入創作頁面。",
+  "aiModalPlaceholder": "例：執著公爵的浪漫奇幻。冷漠卻忠誠的角色。",
+  "aiModalBtn": " 開始自動填入",
+  "aiModalBtnLoading": "AI生成中..."
+}

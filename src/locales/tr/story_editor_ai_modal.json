@@ -1,0 +1,7 @@
+{
+  "aiModalTitle": " AI Hikaye Asistanı",
+  "aiModalHint": "İstediğiniz hikaye veya türü açıklayın.\nAI oluşturma sayfasını otomatik dolduracak.",
+  "aiModalPlaceholder": "örn. Takıntılı dük romantik fantezi. Soğuk ama adanmış karakter.",
+  "aiModalBtn": "AI Uygula",
+  "aiModalBtnLoading": "AI üretiyor..."
+}

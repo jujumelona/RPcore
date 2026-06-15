@@ -1,0 +1,7 @@
+{
+  "timeJustNowShort": "Сейчас",
+  "timeMinAgoShort": "{n} мин",
+  "timeHourAgoShort": "{n} ч",
+  "timeDayAgoShort": "{n} д",
+  "timeWeekAgoShort": "{n} нед."
+}

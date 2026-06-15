@@ -1,0 +1,10 @@
+{
+  "wizardTokenQ": "Selecciona la longitud de generación de IA",
+  "wizardTokenHint": "1 token equivale aprox. a 0,5-1 carácter. Más tokens = más detalle pero más espera.",
+  "wizardTokenFastDesc": "Rápido, corto y breve",
+  "wizardTokenNormalDesc": "Normal, equilibrado",
+  "wizardTokenDetailDesc": "Descripción detallada y vívida",
+  "wizardTokenFullDesc": "Muy detallado, tarda más",
+  "wizardTokenUnit": "tokens",
+  "wizardTokenDirect": "O escribe directamente (512-8192)"
+}

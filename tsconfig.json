@@ -1,0 +1,64 @@
+{
+  "extends": "@react-native/typescript-config",
+  "compilerOptions": {
+    "noEmit": true,
+    "strict": false,
+    "jsx": "react-native",
+    "skipLibCheck": true,
+    "lib": ["es2023"],
+    "moduleResolution": "bundler",
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "resolveJsonModule": true,
+    "paths": {
+      "@locales/*": ["./src/locales/*"],
+      "@react-native-async-storage/async-storage": [
+        "./src/storage/asyncStorageMMKV"
+      ],
+      "zod/v4": [
+        "./src/shims/zod-v4"
+      ],
+      "zod/v4/core": [
+        "./src/shims/zod-v4-core"
+      ]
+    },
+    "types": [
+      "react",
+      "react-native"
+    ]
+  },
+  "include": [
+    "App.tsx",
+    "src/**/*.ts",
+    "src/**/*.tsx",
+    "src/**/*.json",
+    "src/types/**/*.d.ts"
+  ],
+  "exclude": [
+    "node_modules",
+    "android/app/src/cpp/**/*",
+    "android/build/**/*",
+    "android/app/build/**/*",
+    "scripts/**/*",
+    "artifacts/**/*",
+    ".tmp-assets/**/*",
+    "src/**/*.tmp.tsx",
+    "src/**/*.src.tsx",
+    "src/**/*.src.ts",
+    "src/screens/chat/components/ChatUI.tsx",
+    "src/screens/chat/components/ChoicePanel.tsx",
+    "src/screens/chat/core/ChatCore.ts",
+    "src/screens/chat/utils/ChatUtils.ts",
+    "src/screens/story-editor/components/**/*",
+    "src/screens/story-editor/core/**/*",
+    "src/screens/story-editor/managers/**/*",
+    "src/screens/story-editor/tabs/**/*",
+    "src/screens/story-editor/types/**/*",
+    "src/screens/story-editor/utils/**/*",
+    "src/screens/story-editor/StoryEditorUI.tsx",
+    "src/screens/licenses/components/**/*",
+    "src/screens/StoryEditorScreen.AIModal.tsx",
+    "src/screens/home/components/**/*",
+    "src/screens/ChatScreen.tsx"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "notifSettingsTitle": "Настройки уведомлений",
+  "notifGlobal": "Все уведомления",
+  "notifCategories": "Категории",
+  "notifCat_new_follower": "Новый подписчик",
+  "notifCat_like": "Лайк",
+  "notifCat_comment": "Комментарий",
+  "notifCat_mention": "Упоминание",
+  "notifCat_story_update": "Обновление истории",
+  "notifCat_chapter_release": "Новая глава",
+  "notifCat_system": "Система",
+  "notifDND": "Не беспокоить",
+  "notifDNDEnable": "Не беспокоить",
+  "notifDNDStart": "Начало",
+  "notifDNDEnd": "Конец",
+  "notifTimezone": "Часовой пояс"
+}

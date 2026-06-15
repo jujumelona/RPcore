@@ -1,0 +1,10 @@
+{
+  "wizardTokenQ": "AI उत्पादन लंबाई चुनें",
+  "wizardTokenHint": "1 टोकन लगभग 0.5-1 अक्षर। अधिक टोकन = अधिक विस्तार लेकिन लंबी प्रतीक्षा।",
+  "wizardTokenFastDesc": "तेज, छोटा और संक्षिप्त",
+  "wizardTokenNormalDesc": "सामान्य, संतुलित",
+  "wizardTokenDetailDesc": "विस्तृत, जीवंत वर्णन",
+  "wizardTokenFullDesc": "बहुत विस्तृत, अधिक समय लगता है",
+  "wizardTokenUnit": "टोकन",
+  "wizardTokenDirect": "या सीधे टाइप करें (512-8192)"
+}

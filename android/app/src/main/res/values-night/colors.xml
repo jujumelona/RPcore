@@ -1,0 +1,6 @@
+<resources>
+  <!-- [FIX] 다크모드에서도 동일한 배경색 유지 — 흰색 네비게이션 바 방지 -->
+  <color name="splashscreen_background">#050507</color>
+  <color name="colorPrimary">#050507</color>
+  <color name="appBackground">#050507</color>
+</resources>

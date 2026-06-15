@@ -1,0 +1,6 @@
+{
+  "wizardCharCountDirect": "Veya doğrudan bir sayı yazın (maks 10)",
+  "wizardCharDetailProgress": "{idx} / {total} giriliyor",
+  "wizardCharDetailExample1": "örn. Leon - Soğuk kibirli dük - Sözleşmeli evlilik ortağı",
+  "wizardCharDetailExample2": "örn. Sio - Parlak neşeli hizmetçi - Protagonist yardımcısı"
+}

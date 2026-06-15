@@ -1,0 +1,7 @@
+{
+  "aiModalTitle": " AIストーリーアシスタント",
+  "aiModalHint": "作りたいストーリーや設定を自由に入力してください。\nAIが制作ページを自動入力します。",
+  "aiModalPlaceholder": "例) 冷酷な公爵との契約婚ロマンスファンタジー。",
+  "aiModalBtn": " 自動入力スタート",
+  "aiModalBtnLoading": "AI生成中..."
+}

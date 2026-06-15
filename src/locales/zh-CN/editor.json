@@ -1,0 +1,17 @@
+{
+  "worldSetting": "世界观设置",
+  "worldSettingHint": "只写所有章节通用的不变设定。\n每章变化的信息请写在章节标签的附加信息栏中。",
+  "personality": "性格",
+  "speechPattern": "口吻/行动",
+  "habit": "习惯/癖好",
+  "currentSituation": "当前状况",
+  "initialEmotion": "对用户的初始情感",
+  "chapterGoal": "章节目标",
+  "triggerCondition": "转换条件",
+  "background": "背景",
+  "additionalInfo": "附加信息",
+  "gender": "性别",
+  "genderMale": "男",
+  "genderFemale": "女",
+  "genderOther": "其他"
+}

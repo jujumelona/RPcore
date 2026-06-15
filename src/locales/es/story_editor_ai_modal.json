@@ -1,0 +1,7 @@
+{
+  "aiModalTitle": " Asistente de Historia IA",
+  "aiModalHint": "Describe la historia o el género que deseas.\nLa IA rellenará automáticamente la página de creación.",
+  "aiModalPlaceholder": "Ej: Romance fantástico con un duque obsesivo. Personaje frío pero dedicado.",
+  "aiModalBtn": " Iniciar relleno automático",
+  "aiModalBtnLoading": "Generando con IA..."
+}

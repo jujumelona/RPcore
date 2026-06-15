@@ -1,0 +1,12 @@
+{
+  "historySearchTitle": "히스토리 검색",
+  "searchPlaceholder": "대화 내용 검색 (BM25)...",
+  "filterAll": "전체",
+  "resultCount": "{n}개 결과",
+  "noSearchResult": "검색 결과 없음",
+  "noSearchResultHint": "다른 키워드로 검색해보세요",
+  "noHistory": "대화 기록이 없습니다",
+  "roleUser": "나",
+  "multiCharTitle": "캐릭터 관리",
+  "multiCharEmpty": "등록된 캐릭터가 없습니다"
+}

@@ -1,0 +1,12 @@
+{
+  "wizardBranchQ": "分岐・選択肢をどのくらい入れますか？",
+  "wizardBranchHint": "選択肢があると読者が自分でストーリーの方向を決められます。選択ごとに経路とキャラクターの感情が変わります。",
+  "wizardBranchNoneLabel": "ほぼなし",
+  "wizardBranchNoneDesc": "一直線のストーリー、分岐・選択肢なし",
+  "wizardBranchRareLabel": "たまに",
+  "wizardBranchRareDesc": "2〜3チャプターごとに主要分岐点一つ",
+  "wizardBranchModLabel": "適度に",
+  "wizardBranchModDesc": "チャプターごとに一度以上選択肢が登場",
+  "wizardBranchFreqLabel": "頻繁に",
+  "wizardBranchFreqDesc": "会話の途中で選択肢が頻繁に登場"
+}

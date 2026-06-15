@@ -1,0 +1,6 @@
+{
+  "debugLogTitle": "デバッグログ",
+  "logLines": "{n}?",
+  "autoScrollOn": "自動スクロール ON",
+  "autoScrollOff": "自動スクロール OFF"
+}

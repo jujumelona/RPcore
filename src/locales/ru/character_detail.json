@@ -1,0 +1,19 @@
+{
+  "emotionState": "Эмоциональное состояние",
+  "innerState": "Текущее внутреннее состояние персонажа",
+  "tapFullscreen": "Нажмите для полного экрана",
+  "representative": "Представительный",
+  "basicInfo": "Основная информация",
+  "personality": "Характер",
+  "habitsFeatures": "Привычки и черты",
+  "currentSituation": "Текущая ситуация",
+  "like": "Нравится",
+  "namePlaceholder": "Имя",
+  "agePlaceholder": "Возраст",
+  "genderPlaceholder": "Пол",
+  "jobPlaceholder": "Работа",
+  "viewAll": "Смотреть все",
+  "player": "Игрок",
+  "aiCharacter": "ИИ-персонаж",
+  "photos": "Фото"
+}

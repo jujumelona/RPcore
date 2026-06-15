@@ -1,0 +1,12 @@
+{
+  "wizardBranchQ": "Wie oft sollen Entscheidungen erscheinen?",
+  "wizardBranchHint": "Entscheidungen lassen Leser die Geschichte mitgestalten. Jede Wahl ändert den Pfad und die Emotionen.",
+  "wizardBranchNoneLabel": "Fast keine",
+  "wizardBranchNoneDesc": "Lineare Geschichte, keine Entscheidungen",
+  "wizardBranchRareLabel": "Gelegentlich",
+  "wizardBranchRareDesc": "Eine wichtige Entscheidung alle 2-3 Kapitel",
+  "wizardBranchModLabel": "Moderat",
+  "wizardBranchModDesc": "Mindestens eine Entscheidung pro Kapitel",
+  "wizardBranchFreqLabel": "Häufig",
+  "wizardBranchFreqDesc": "Entscheidungen erscheinen oft mitten im Gespräch"
+}

@@ -1,0 +1,20 @@
+{
+  "backupRestoreTitle": "สำรอง / กู้คืน",
+  "selectSections": "รายการที่รวม",
+  "backup_settings": "การตั้งค่า",
+  "backup_readingStats": "สถิติ",
+  "backup_contentFilterRules": "ตัวกรอง",
+  "backup_notificationPrefs": "การแจ้งเตือน",
+  "backup_drafts": "แบบร่าง",
+  "backupBtn": "ส่งออกข้อมูลสำรอง",
+  "restoreBtn": "กู้คืน",
+  "backupSuccess": "สำรองเรียบร้อย",
+  "backupFailed": "สำรองล้มเหลว",
+  "restoreConfirmTitle": "ยืนยันการกู้คืน",
+  "restoreConfirmMsg": "ข้อมูลที่เลือกจะถูกเขียนทับ ดำเนินการต่อ?",
+  "restoreSuccess": "กู้คืนเรียบร้อย",
+  "noFileSelected": "ไม่ได้เลือกไฟล์",
+  "invalidBackup": "ไฟล์สำรองไม่ถูกต้อง",
+  "cancel": "ยกเลิก",
+  "backupHint": "ข้อมูลสำรองจะถูกบันทึกในโฟลเดอร์ดาวน์โหลด"
+}

@@ -1,0 +1,7 @@
+{
+  "aiModalTitle": " AI故事助手",
+  "aiModalHint": "随意输入您想要的故事或设定。\nAI将自动填写制作页面。",
+  "aiModalPlaceholder": "例）偏执公爵的契约婚恋奇幻。",
+  "aiModalBtn": " 开始自动填写",
+  "aiModalBtnLoading": "AI生成中..."
+}

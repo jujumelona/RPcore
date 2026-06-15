@@ -1,0 +1,21 @@
+{
+  "guideStoryTitle": "Il titolo mostrato nella lista delle storie.\nes. Matrimonio per contratto con il duca arrogante",
+  "guideStoryDesc": "L'introduzione mostrata sotto la copertina della storia.\nScrivi una o due frasi per agganciare i lettori.",
+  "guideStoryHashtag": "Inserisci hashtag che iniziano con # separati da virgole o spazi.\nes. #romance #ossessione #fantasy",
+  "guideStoreCover": "L'immagine di copertina mostrata nella lista delle storie.\n\nRapporto consigliato: 2:3 (ritratto, es. 400×600px)\n→ Ottimizzato per layout a carta verticale\n→ Le immagini orizzontali potrebbero essere ritagliate sopra/sotto",
+  "guideCharName": "Il nome del personaggio.",
+  "guideCharImage": "Immagine del profilo del personaggio (max. 5).\nLa prima immagine viene usata come predefinita.\nTocca  in alto a destra per rimuoverla.\n\nRapporto consigliato: 1:1 o 3:4\n→ Ottimizzato per ritaglio circolare del profilo\n→ Consigliato con il viso al centro",
+  "guideCharEmotion": "Imposta l'emozione iniziale di questo personaggio verso l'utente (te).\nTrasina o tocca il cerchio per regolare.\nLe emozioni positive si avvicinano a +100, le negative a -100.",
+  "guideCharPersonality": "Descrivi in dettaglio la personalità e lo stile di parola di questo personaggio.",
+  "guideCharExample": "Scrivi un breve esempio di situazione che mostri lo stile di parola e la personalità.",
+  "guideCoreKeywords": "Inserisci parole chiave (separate da virgole) che attivano l'invio di questo Core all'AI.",
+  "guideCoreContent": "Il contenuto inviato all'AI quando viene rilevata una parola chiave.",
+  "guideWorldSetting": "Scrivi solo il lore che non cambia in nessun capitolo.\nÈ un prompt fisso che l'AI consulta sempre.\n※ Le informazioni che cambiano per capitolo vanno nel campo Info Extra.",
+  "guideAiGoal": "Scrivi lo scopo o la direzione dell'AI in questo capitolo.\nes. Cerca di guadagnare la fiducia del protagonista, ma mantiene le distanze per paura che il suo passato venga rivelato.",
+  "guideCharGoal": "L'obiettivo di questo personaggio in questo capitolo.\nOgni personaggio può avere obiettivi diversi, creando una storia più complessa.\nes. Si avvicina al protagonista per rubare un documento segreto.",
+  "guidePrevSummary": "Eventi chiave che l'AI deve ricordare dal capitolo precedente.\nUsato dall'AI per capire la continuità.\nBreve e focalizzato su eventi chiave, relazioni e cambiamenti emotivi.",
+  "guideChapterInfo": "Modifiche o informazioni aggiuntive che l'AI deve conoscere in questo capitolo.\n※ Questo campo si azzera quando il capitolo cambia.",
+  "guideChapterTrigger": "La condizione che attiva il capitolo successivo.\nAggiungi più condizioni — qualsiasi una può attivare la transizione.\n\nCombina Cache esaurita con condizioni di emozione o conteggio conversazione per una migliore ritenzione della memoria.",
+  "guideIntro": "Il primo contenuto mostrato all'avvio della chat.\nTocca i pulsanti Narrazione / Personaggio / Utente per aggiungere come fumetto.\nPensiero interiore: ##testo## | Azione: **testo**",
+  "guideBackground": "Imposta l'immagine di sfondo del gioco.\nAggiungi più condizioni — qualsiasi condizione OR attiva un cambio di sfondo.\n\nRapporto consigliato: 9:16 (schermo intero ritratto, es. 1080×1920px)\n→ Si adatta allo schermo intero dello smartphone\n→ Il formato 16:9 può mostrare barre nere"
+}

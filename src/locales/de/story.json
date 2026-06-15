@@ -1,0 +1,20 @@
+{
+  "story": "Geschichte",
+  "storyLoading": "Geschichte laden...",
+  "storyCreating": "Geschichte erstellen...",
+  "startStory": "Geschichte starten",
+  "continueHere": "Hier fortfahren",
+  "chapter": "Kapitel",
+  "characters": "Charaktere",
+  "character": "Charakter",
+  "myStories": "Meine Geschichten",
+  "ongoingStories": "Laufende Geschichten",
+  "recommendedStories": "Empfohlene Geschichten",
+  "reportStory": "Geschichte melden",
+  "blockStory": "Geschichte blockieren",
+  "storyProgress": "Fortschritt",
+  "progressRate": "Fortschritt",
+  "endingsFound": "Gefundene Enden",
+  "messageCount": "Nachrichten",
+  "visitedChapters": "Besuchte Kapitel"
+}

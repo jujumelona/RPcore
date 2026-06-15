@@ -1,0 +1,10 @@
+{
+  "myStoriesTotal": "合計",
+  "myStoriesPublished": "公開済み",
+  "myStoriesViews": "閲覧数",
+  "myStoriesLikes": "いいね",
+  "myStoriesDraftCount": "下書き {n}",
+  "deleteSelectedTitle": "ストーリーを削除",
+  "deleteSelectedConfirm": "{n}件のストーリーを削除しますか?\n削除したストーリーは復元できません。",
+  "deleteFailed": "削除に失敗しました。"
+}

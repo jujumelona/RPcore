@@ -1,0 +1,12 @@
+{
+  "wizardChipGenre": "Жанр",
+  "wizardChipPlot": "Сюжет",
+  "wizardChipChar": "Перс.",
+  "wizardChipWorld": "Мир",
+  "wizardChipTone": "Тон",
+  "wizardChipChapter": "Гл.",
+  "wizardChipFlow": "Поток",
+  "wizardChipBranch": "Ветвл.",
+  "wizardChipTokens": "Токены",
+  "wizardChipChapterUnit": "гл."
+}

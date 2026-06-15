@@ -1,0 +1,21 @@
+{
+  "phStoryTitle": "輸入故事標題",
+  "phStoryDesc": "輸入故事描述",
+  "phStoryHashtag": "#浪漫 #奇幻 #執著",
+  "phCharName": "角色名稱",
+  "phPersonality": "詳細描述性格、說話風格、特質",
+  "phCoreKeyword": "魔法工會, 學院",
+  "phCoreContent": "出現此關鍵字時傳送給AI的資訊",
+  "phWorldSetting": "描述世界的設定、背景和絕對規則。",
+  "phChapterName": "章節名稱",
+  "phAiGoal": "AI在本章應引導的整體方向",
+  "phCharGoal": "本章中的目標",
+  "phChapterInfo": "AI需知曉的變化（章節切換時重置）",
+  "phPrevSummary0": "如果第1章之前有序章或背景故事，請在此寫出。",
+  "phPrevSummary": "概述AI必須記住的前一章節重要事件/情感變化。",
+  "phIntroInput": "輸入內容...",
+  "phBgName": "背景名稱",
+  "phCharGender": "例：女性、男性、非二元",
+  "phPersonalityDeep": "以內在動機和情感模式為重點進行寫作",
+  "phCharExample": "用2-3行對話清楚地展示角色語氣"
+}

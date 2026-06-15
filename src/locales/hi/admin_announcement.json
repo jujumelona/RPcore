@@ -1,0 +1,21 @@
+{
+  "adminAnnouncementTitle": "घोषणा बनाएं",
+  "adminAnnouncementSourceStep": "1. मूल घोषणा लिखें",
+  "adminAnnouncementTranslateStep": "2. बाहरी मॉडल से अनुवाद करें",
+  "adminAnnouncementValidateStep": "3. JSON चिपकाकर सत्यापित करें",
+  "adminAnnouncementSourceTitle": "शीर्षक",
+  "adminAnnouncementSourceBody": "सामग्री",
+  "adminAnnouncementTitlePlaceholder": "मूल शीर्षक",
+  "adminAnnouncementBodyPlaceholder": "मूल सामग्री",
+  "adminAnnouncementCopyPrompt": "अनुवाद प्रॉम्प्ट कॉपी करें",
+  "adminAnnouncementPromptCopied": "प्रॉम्प्ट कॉपी हो गया है। इसे अपने अनुवाद मॉडल में पेस्ट करें।",
+  "adminAnnouncementPromptHint": "प्रॉम्प्ट कॉपी करें, बाहर अनुवाद करें, फिर नीचे JSON परिणाम पेस्ट करें।",
+  "adminAnnouncementValidateJson": "JSON सत्यापित करें",
+  "adminAnnouncementValidJson": "सभी भाषा ब्लॉक मान्य हैं।",
+  "adminAnnouncementSubmit": "घोषणा प्रकाशित करें",
+  "adminAnnouncementCreated": "घोषणा बना दी गई है।",
+  "adminAnnouncementPreview": "अनुवाद पूर्वावलोकन",
+  "adminAnnouncementReady": "प्रकाशित करने से पहले JSON सत्यापित करें।",
+  "adminAnnouncementParseFailed": "JSON पार्स नहीं हो सका। कृपया मॉडल द्वारा लौटाया गया साफ JSON ही पेस्ट करें।",
+  "adminAnnouncementMissingBlocks": "अनुपस्थित भाषा ब्लॉक: {codes}"
+}

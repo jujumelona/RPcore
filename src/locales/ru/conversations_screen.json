@@ -1,0 +1,18 @@
+{
+  "conversations2": "Диалоги",
+  "scraps": "Сохранённое",
+  "noScraps2": "Нет сохраненных диалогов",
+  "searchPlaceholder": "Поиск",
+  "browseStories": "Открыть истории",
+  "searchConversations": "Искать диалоги...",
+  "numUnreadMessages": "{n} непрочитанных",
+  "deleteConv": "Удалить диалог",
+  "latestOrder": "Недавние",
+  "noSearchResults2": "Ничего не найдено",
+  "swipeToDelete": "Смахните для удаления",
+  "searchNoResultsSubtitle": "Попробуйте другой поисковый запрос",
+  "homeToStartChat": "Выберите историю на главной, чтобы начать первый диалог",
+  "exploreStories": "Открыть истории",
+  "deletedConv": "\"{n}\" удалён",
+  "undo": "Отменить"
+}

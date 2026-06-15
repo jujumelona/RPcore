@@ -1,0 +1,17 @@
+{
+  "engineErrorFatal": "Ocorreu um erro no motor AI",
+  "engineErrorUnstable": "O motor AI está temporariamente instável",
+  "engineRestartHint": "Por favor reinicie o motor.",
+  "engineMemoryHint": "Tente limpar a memória.",
+  "engineClearingMem": "Limpando...",
+  "engineClearMemBtn": "Limpar memória",
+  "engineRestartingBtn": "Reiniciando...",
+  "engineRestartBtn": "Reiniciar motor",
+  "unexpectedError": "Ocorreu um erro inesperado",
+  "componentLabel": "Componente",
+  "errorMessageLabel": "Mensagem de Erro",
+  "errorStackLabel": "Stacktrace de Erro",
+  "componentErrorLabel": "Erro do Componente",
+  "retryWithCount": "Tentar novamente ({count})",
+  "maxRetriesExceeded": "Número máximo de tentativas excedido. Por favor reinicie o aplicativo."
+}

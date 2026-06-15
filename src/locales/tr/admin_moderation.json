@@ -1,0 +1,66 @@
+{
+  "statusLabels": {
+    "open": "Açık",
+    "reviewing": "İnceleniyor",
+    "resolved": "Çözüldü",
+    "rejected": "Reddedildi",
+    "auto_hidden": "Otomatik gizlendi"
+  },
+  "priorityLabels": {
+    "critical": "Kritik",
+    "high": "Yüksek",
+    "medium": "Orta",
+    "low": "Düşük"
+  },
+  "targetTypeLabels": {
+    "story": "Hikaye",
+    "post": "Gönderi",
+    "user": "Kullanıcı",
+    "comment": "Yorum"
+  },
+  "filterActionable": "Aksiyon gerekli",
+  "filterAll": "Tümü",
+  "hintLabels": {
+    "immediate_escalation": "Anında eskalasyon gerekiyor",
+    "already_hidden_pending_review": "Zaten gizlendi, inceleme bekliyor",
+    "high_risk_reason": "Operatör kuyruğunda yüksek risk nedeni",
+    "aged_unresolved_report": "Uzun süredir çözülmemiş bildirim",
+    "needs_follow_up_soon": "Yakında takip gerekiyor",
+    "standard_moderation_review": "Standart moderasyon incelemesi"
+  },
+  "systemResolutionNotes": {
+    "open": "Mobil yönetici bildirimi yeniden açtı.",
+    "reviewing": "Mobil yönetici incelemeyi başlattı.",
+    "resolved": "Mobil yönetici bildirimi çözdü.",
+    "rejected": "Mobil yönetici bildirimi reddetti.",
+    "auto_hidden": "Mobil yönetici içeriği gizledi."
+  },
+  "noReportDetail": "Ayrıntılı bildirim notu sağlanmadı.",
+  "reportPrefix": "Bildirim",
+  "reporterPrefix": "Bildiren",
+  "assigneePrefix": "Atanan",
+  "resolutionLabel": "Çözüm notu",
+  "actionReview": "İncele",
+  "actionHide": "Gizle",
+  "actionResolve": "Çöz",
+  "actionReject": "Reddet",
+  "actionReopen": "Yeniden aç",
+  "changingStatus": "Durum güncelleniyor...",
+  "reportQueueTitle": "Bildirim kuyruğu",
+  "actionableLabel": "Aksiyon gerekli",
+  "criticalLabel": "Kritik",
+  "autoHiddenLabel": "Otomatik gizlendi",
+  "moderationQueueSummaryTitle": "Moderasyon kuyruğu özeti",
+  "immediateActionLabel": "Acil işlem",
+  "importantReportsLabel": "Kritik bildirimler",
+  "totalReportsLabel": "Toplam bildirimler",
+  "currentResultsLabel": "Mevcut sonuçlar",
+  "reportSearchPlaceholder": "Bildirim başlığı, ID, neden veya not ara",
+  "noReports": "Şu anda incelenecek bildirim yok.",
+  "noMatchingReports": "Seçilen filtrelere uyan bildirim yok.",
+  "statusChangeTitle": "Bildirim durumunu değiştir",
+  "statusChangeMessage": "\"{target}\" bildiriminin durumunu \"{status}\" olarak değiştirmek istiyor musunuz?",
+  "statusChangeConfirm": "Değiştir",
+  "statusChangeFailedTitle": "Değişiklik başarısız",
+  "statusChangeFailedBody": "Bildirim durumu güncellenemedi. Lütfen tekrar deneyin."
+}

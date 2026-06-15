@@ -1,0 +1,21 @@
+{
+  "phStoryTitle": "Storytitel eingeben",
+  "phStoryDesc": "Storybeschreibung eingeben",
+  "phStoryHashtag": "#liebe #fantasy #besessenheit",
+  "phCharName": "Charaktername",
+  "phPersonality": "Beschreibe Personlichkeit, Sprechstil und Eigenschaften im Detail",
+  "phCoreKeyword": "magier_gilde, akademie",
+  "phCoreContent": "Info fur die KI, wenn dieses Schlusselwort erscheint",
+  "phWorldSetting": "Schreibe Weltsetting, Hintergrund und absolute Regeln auf.",
+  "phChapterName": "Kapitelname",
+  "phAiGoal": "Gesamtrichtung, die die KI in diesem Kapitel leiten soll",
+  "phCharGoal": "Ziel in diesem Kapitel",
+  "phChapterInfo": "Anderungen, die die KI kennen soll (wird beim Kapitelwechsel zuruckgesetzt)",
+  "phPrevSummary0": "Wenn es vor Kapitel 1 einen Prolog oder Hintergrundgeschichte gibt, schreibe sie hier hinein.",
+  "phPrevSummary": "Fasse wichtige Ereignisse und Emotionsanderungen zusammen, an die sich die KI aus dem vorherigen Kapitel erinnern muss.",
+  "phIntroInput": "Inhalt eingeben...",
+  "phBgName": "Hintergrundname",
+  "phCharGender": "z. B. weiblich, mannlich, nichtbinar",
+  "phPersonalityDeep": "Innere Motivation und emotionale Muster...",
+  "phCharExample": "2-3 Dialogzeilen, die den Ton des Charakters zeigen"
+}

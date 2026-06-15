@@ -1,0 +1,21 @@
+{
+  "phStoryTitle": "ストーリータイトルを入力",
+  "phStoryDesc": "ストーリー紹介を入力",
+  "phStoryHashtag": "#ロマンス #ファンタジー #執着",
+  "phCharName": "キャラクター名",
+  "phPersonality": "性格・口癖・特徴を詳しく記入",
+  "phCoreKeyword": "魔法学園, academy",
+  "phCoreContent": "このキーワードが出たときAIに渡す情報",
+  "phWorldSetting": "世界観・背景・絶対ルールを記入。",
+  "phChapterName": "チャプター名",
+  "phAiGoal": "このチャプターでAIが誘導すべき方向",
+  "phCharGoal": "このチャプターでの目的",
+  "phChapterInfo": "AIが知るべき変更点（チャプター変更時リセット）",
+  "phPrevSummary0": "チャプター1前のプロローグや背景があれば記入。",
+  "phPrevSummary": "前チャプターでAIが必ず覚えるべき事件/感情変化を要約。",
+  "phIntroInput": "内容を入力...",
+  "phBgName": "背景名",
+  "phCharGender": "例: 女性、男性、ノンバイナリー",
+  "phPersonalityDeep": "内面の動機と感情パターンを中心に書いてください",
+  "phCharExample": "セリフ2〜3行でキャラクターのトーンを明確に示してください"
+}

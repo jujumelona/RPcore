@@ -1,0 +1,12 @@
+{
+  "wizardBranchQ": "Con quale frequenza dovrebbero apparire le scelte?",
+  "wizardBranchHint": "Le scelte permettono ai lettori di plasmare la storia. Ogni scelta cambia il percorso e le emozioni.",
+  "wizardBranchNoneLabel": "Quasi nessuna",
+  "wizardBranchNoneDesc": "Storia lineare, nessuna scelta",
+  "wizardBranchRareLabel": "Occasionalmente",
+  "wizardBranchRareDesc": "Una scelta importante ogni 2-3 capitoli",
+  "wizardBranchModLabel": "Moderato",
+  "wizardBranchModDesc": "Almeno una scelta per capitolo",
+  "wizardBranchFreqLabel": "Frequente",
+  "wizardBranchFreqDesc": "Le scelte appaiono spesso durante la conversazione"
+}

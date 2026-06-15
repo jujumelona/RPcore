@@ -1,0 +1,12 @@
+{
+  "toastTitleRequired": "कृपया शीर्षक दर्ज करें",
+  "toastSaveOk": "सहेजा गया ",
+  "toastSaveFail": "सहेजना विफल: ",
+  "toastMaxChars": "अधिकतम 10 वर्ण अनुमत हैं",
+  "toastChapterMin": "वेब नॉवेल के रूप में सारांश करने के लिए कम से कम 2 अध्याय चाहिए",
+  "toastNoStory": "कृपया वह कहानी दर्ज करें जो आप चाहते हैं",
+  "toastAiApplied": "AI सुझाव लागू ",
+  "toastAiFail": "AI उत्पादन विफल: ",
+  "toastServerErr": "सर्वर त्रुटि ",
+  "selectStylePresetRequired": "कृपया एक शैली प्रीसेट चुनें।"
+}

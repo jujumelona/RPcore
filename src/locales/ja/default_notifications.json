@@ -1,0 +1,14 @@
+{
+  "defaultNotif1Title": "ようこそ！ ",
+  "defaultNotif1Body": "RPcoreへようこそ。最初のストーリーを始めましょう！",
+  "defaultNotif2Title": "新しいストーリーが更新されました",
+  "defaultNotif2Body": "フォロー中の作者が新しいストーリーを公開しました。",
+  "defaultNotif3Title": "人気ストーリーのおすすめ",
+  "defaultNotif3Body": "今最も人気のあるストーリーをチェック！",
+  "defaultAnnounce1Title": "RPcore ベータサービス",
+  "defaultAnnounce1Body": "RPcoreはベータ中です。機能が継続追加されます。",
+  "defaultAnnounce2Title": "言語サポート拡大",
+  "defaultAnnounce2Body": "15言語に対応。設定>言語設定でアプリとAI応答言語を個別設定可能。",
+  "defaultAnnounce3Title": "コミュニティガイドライン",
+  "defaultAnnounce3Body": "コミュニティは言語別運営。その言語で投稿してください。"
+}

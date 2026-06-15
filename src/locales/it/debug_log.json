@@ -1,0 +1,6 @@
+{
+  "debugLogTitle": "Log di debug",
+  "logLines": "{n} righe",
+  "autoScrollOn": "Scorrimento automatico ATTIVO",
+  "autoScrollOff": "Scorrimento automatico DISATTIVO"
+}

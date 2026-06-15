@@ -1,0 +1,12 @@
+{
+  "toastTitleRequired": "Bitte einen Titel eingeben",
+  "toastSaveOk": "Gespeichert ✓",
+  "toastSaveFail": "Speichern fehlgeschlagen: ",
+  "toastMaxChars": "Maximal 10 Charaktere erlaubt",
+  "toastChapterMin": "Du brauchst mindestens 2 Kapitel, um als Webroman zusammenzufassen",
+  "toastNoStory": "Bitte die gewünschte Geschichte eingeben",
+  "toastAiApplied": "KI-Vorschläge angewendet ✓",
+  "toastAiFail": "KI-Generierung fehlgeschlagen: ",
+  "toastServerErr": "Serverfehler ",
+  "selectStylePresetRequired": "Bitte wähle eine Stilvoreinstellung aus."
+}

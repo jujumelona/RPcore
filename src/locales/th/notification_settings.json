@@ -1,0 +1,17 @@
+{
+  "notifSettingsTitle": "ตั้งค่าการแจ้งเตือน",
+  "notifGlobal": "การแจ้งเตือนทั้งหมด",
+  "notifCategories": "หมวดหมู่",
+  "notifCat_new_follower": "ผู้ติดตามใหม่",
+  "notifCat_like": "ถูกใจ",
+  "notifCat_comment": "ความคิดเห็น",
+  "notifCat_mention": "การกล่าวถึง",
+  "notifCat_story_update": "อัปเดตสตอรี่",
+  "notifCat_chapter_release": "บทใหม่",
+  "notifCat_system": "ระบบ",
+  "notifDND": "ห้ามรบกวน",
+  "notifDNDEnable": "ห้ามรบกวน",
+  "notifDNDStart": "เริ่ม",
+  "notifDNDEnd": "สิ้นสุด",
+  "notifTimezone": "เขตเวลา"
+}

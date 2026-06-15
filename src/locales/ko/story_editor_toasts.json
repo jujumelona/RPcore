@@ -1,0 +1,12 @@
+{
+  "toastTitleRequired": "제목을 입력해주세요",
+  "toastSaveOk": "저장 완료 ",
+  "toastSaveFail": "저장 실패: ",
+  "toastMaxChars": "최대 10명까지 가능합니다",
+  "toastChapterMin": "챕터를 2개 이상 완성하면 웹소설로 요약할 수 있어요",
+  "toastNoStory": "원하는 스토리를 입력해주세요",
+  "toastAiApplied": "AI 추천값이 자동으로 입력되었습니다 ",
+  "toastAiFail": "AI 생성 실패: ",
+  "toastServerErr": "서버 오류 ",
+  "selectStylePresetRequired": "문체 프리셋을 선택해 주세요."
+}

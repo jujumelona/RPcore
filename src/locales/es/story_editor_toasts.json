@@ -1,0 +1,12 @@
+{
+  "toastTitleRequired": "Por favor, introduce un título",
+  "toastSaveOk": "Guardado ",
+  "toastSaveFail": "Error al guardar: ",
+  "toastMaxChars": "Se permiten máximo 10 caracteres",
+  "toastChapterMin": "Necesitas al menos 2 capítulos para resumir como novela web",
+  "toastNoStory": "Por favor, introduce la historia que deseas",
+  "toastAiApplied": "Sugerencias de IA aplicadas ",
+  "toastAiFail": "Error en la generación de IA: ",
+  "toastServerErr": "Error del servidor ",
+  "selectStylePresetRequired": "Selecciona un preset de estilo."
+}

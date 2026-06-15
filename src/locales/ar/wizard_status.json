@@ -1,0 +1,15 @@
+{
+  "wizardInitStatus": "جارٍ تهيئة النموذج...",
+  "wizardLoadingStatus": "جارٍ تحميل النموذج...",
+  "wizardReadyStatus": "جاهز",
+  "wizardModuleError": "الوحدة الأصلية غير متاحة",
+  "wizardInitFail": "فشلت التهيئة",
+  "wizardNoModel": "لم يتم تنزيل نموذج ذكاء اصطناعي. يرجى الذهاب إلى صفحتي وتنزيل نموذج أولاً.",
+  "wizardGenTitle": "جارٍ صياغة القصة...",
+  "wizardGenSub": "الذكاء الاصطناعي يملأ محرر القصة",
+  "wizardGenSubLong": "عدد الرموز المرتفع قد يستغرق وقتاً",
+  "wizardGenSubWait": "الرجاء الانتظار لحظة",
+  "wizardErrTitle": "حدث خطأ",
+  "wizardErrRetry": "إعادة المحاولة",
+  "wizardPctComplete": "% مكتمل"
+}

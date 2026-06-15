@@ -1,0 +1,8 @@
+{
+  "modelNameMini": "النموذج المصغر (270M)",
+  "modelNameLight": "النموذج الخفيف",
+  "modelNameStandard": "النموذج القياسي",
+  "modelNamePro": "النموذج الاحترافي",
+  "modelNameReasoning": "نموذج الاستدلال (E2B)",
+  "modelNameEmergency": "النموذج الطارئ (270M)"
+}

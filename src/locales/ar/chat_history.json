@@ -1,0 +1,12 @@
+{
+  "historySearchTitle": "البحث في السجل",
+  "searchPlaceholder": "البحث في المحادثة...",
+  "filterAll": "الكل",
+  "resultCount": "{n} نتائج",
+  "noSearchResult": "لا نتائج",
+  "noSearchResultHint": "جرّب كلمات أخرى",
+  "noHistory": "لا سجل محادثات",
+  "roleUser": "أنا",
+  "multiCharTitle": "إدارة الشخصيات",
+  "multiCharEmpty": "لا شخصيات مسجّلة"
+}

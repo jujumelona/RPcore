@@ -1,0 +1,8 @@
+{
+  "imgPermTitle": "สิทธิ์การเข้าถึงรูปภาพ",
+  "imgPermMsg": "จำเป็นต้องมีสิทธิ์เข้าถึงแกลเลอรี",
+  "imgPermAllow": "อนุญาต",
+  "imgPermDeny": "ปฏิเสธ",
+  "imgPermNeeded": "จำเป็นต้องได้รับสิทธิ์เข้าถึงแกลเลอรี",
+  "imgPermLibrary": "ต้องใช้ react-native-image-picker"
+}

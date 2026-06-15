@@ -1,0 +1,21 @@
+{
+  "phStoryTitle": "Hikaye basligini girin",
+  "phStoryDesc": "Hikaye aciklamasini girin",
+  "phStoryHashtag": "#ask #fantastik #saplanti",
+  "phCharName": "Karakter adi",
+  "phPersonality": "Kisiligi, konusma tarzi ve ozelliklerini ayrintili yazin",
+  "phCoreKeyword": "buyucu_lonca, akademi",
+  "phCoreContent": "Bu anahtar kelime gorundugunde AI'a gidecek bilgi",
+  "phWorldSetting": "Dunyanin ortamini, arka planini ve mutlak kurallarini yazin.",
+  "phChapterName": "Bolum adi",
+  "phAiGoal": "AI'in bu bolumde yonlendirmesi gereken genel yon",
+  "phCharGoal": "Bu bolumdeki hedef",
+  "phChapterInfo": "AI'in bilmesi gereken degisiklikler (bolum degisince sifirlanir)",
+  "phPrevSummary0": "Bolum 1'den once bir prolog veya arka hikaye varsa buraya yazin.",
+  "phPrevSummary": "AI'in onceki bolumden hatirlamasi gereken onemli olaylari ve duygu degisimlerini ozetleyin.",
+  "phIntroInput": "Icerik girin...",
+  "phBgName": "Arka plan adi",
+  "phCharGender": "ornegin Kadin, Erkek, Ikili olmayan",
+  "phPersonalityDeep": "Ic motivasyon ve duygu kaliplari...",
+  "phCharExample": "Karakter tonunu gosteren 2-3 satir diyalog"
+}

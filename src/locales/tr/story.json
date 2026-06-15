@@ -1,0 +1,20 @@
+{
+  "story": "Hikaye",
+  "storyLoading": "Hikaye yükleniyor...",
+  "storyCreating": "Hikaye oluşturuluyor...",
+  "startStory": "Hikayeyi Başlat",
+  "continueHere": "Buradan devam et",
+  "chapter": "Bölüm",
+  "characters": "Karakterler",
+  "character": "Karakter",
+  "myStories": "Hikayelerim",
+  "ongoingStories": "Devam Eden Hikayeler",
+  "recommendedStories": "Önerilen Hikayeler",
+  "reportStory": "Hikayeyi Şikayet Et",
+  "blockStory": "Hikayeyi Engelle",
+  "storyProgress": "İlerleme",
+  "progressRate": "İlerleme",
+  "endingsFound": "Bulunan Sonlar",
+  "messageCount": "Mesajlar",
+  "visitedChapters": "Ziyaret Edilen Bölümler"
+}

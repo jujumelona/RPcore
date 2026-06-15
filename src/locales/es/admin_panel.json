@@ -1,0 +1,11 @@
+{
+  "genre": "Género:",
+  "intro": "Introducción",
+  "worldSetting": "Ambientación",
+  "noValue": "Ninguno",
+  "reviewPanelTitle": "Panel de revisión",
+  "htmlPreview": "Vista previa HTML",
+  "previewAction": "Vista previa",
+  "previousRejectReason": "Motivo de rechazo anterior",
+  "endingLabel": "Final"
+}

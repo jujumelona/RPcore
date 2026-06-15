@@ -1,0 +1,11 @@
+{
+  "genre": "장르:",
+  "intro": "소개",
+  "worldSetting": "세계관 설정",
+  "noValue": "없음",
+  "reviewPanelTitle": "스토리 심사 패널",
+  "htmlPreview": "HTML 미리보기",
+  "previewAction": "미리보기",
+  "previousRejectReason": "이전 반려 사유",
+  "endingLabel": "엔딩"
+}

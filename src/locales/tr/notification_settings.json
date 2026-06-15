@@ -1,0 +1,17 @@
+{
+  "notifSettingsTitle": "Bildirim ayarları",
+  "notifGlobal": "Tüm bildirimler",
+  "notifCategories": "Kategoriler",
+  "notifCat_new_follower": "Yeni takipçi",
+  "notifCat_like": "Beğeni",
+  "notifCat_comment": "Yorum",
+  "notifCat_mention": "Bahsetme",
+  "notifCat_story_update": "Hikaye güncellemesi",
+  "notifCat_chapter_release": "Yeni bölüm",
+  "notifCat_system": "Sistem",
+  "notifDND": "Rahatsız etmeyin",
+  "notifDNDEnable": "Rahatsız etmeyin",
+  "notifDNDStart": "Başlangıç",
+  "notifDNDEnd": "Bitiş",
+  "notifTimezone": "Saat dilimi"
+}

@@ -1,0 +1,12 @@
+{
+  "wizardBranchQ": "विकल्प कितनी बार आने चाहिए?",
+  "wizardBranchHint": "विकल्प पाठकों को कहानी आकार देने देते हैं। प्रत्येक विकल्प पथ और भावनाएं बदलता है।",
+  "wizardBranchNoneLabel": "लगभग कोई नहीं",
+  "wizardBranchNoneDesc": "रैखिक कहानी, कोई विकल्प नहीं",
+  "wizardBranchRareLabel": "कभी-कभी",
+  "wizardBranchRareDesc": "हर 2-3 अध्यायों में एक बड़ा विकल्प",
+  "wizardBranchModLabel": "मध्यम",
+  "wizardBranchModDesc": "प्रति अध्याय कम से कम एक विकल्प",
+  "wizardBranchFreqLabel": "बार-बार",
+  "wizardBranchFreqDesc": "बातचीत के बीच में अक्सर विकल्प आते हैं"
+}

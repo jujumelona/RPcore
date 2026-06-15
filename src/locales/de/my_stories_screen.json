@@ -1,0 +1,10 @@
+{
+  "myStoriesTotal": "Gesamt",
+  "myStoriesPublished": "Ver?ffentlicht",
+  "myStoriesViews": "Aufrufe",
+  "myStoriesLikes": "Likes",
+  "myStoriesDraftCount": "Entw?rfe {n}",
+  "deleteSelectedTitle": "Geschichten l?schen",
+  "deleteSelectedConfirm": "{n} Geschichten l?schen?\nGel?schte Geschichten k?nnen nicht wiederhergestellt werden.",
+  "deleteFailed": "L?schen fehlgeschlagen."
+}

@@ -1,0 +1,10 @@
+{
+  "createTab": "Create",
+  "createTip": "Describe what story or genre you want. AI will auto-fill the creation page.",
+  "tempSave": "Draft",
+  "publish": "Publish",
+  "title": "Title",
+  "description": "Description",
+  "tags": "Tags",
+  "generate": "Generate"
+}

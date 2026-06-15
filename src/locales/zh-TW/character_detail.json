@@ -1,0 +1,19 @@
+{
+  "emotionState": "情感狀態",
+  "innerState": "角色當前的內心狀態",
+  "tapFullscreen": "點擊全螢幕",
+  "representative": "代表",
+  "basicInfo": "基本資訊",
+  "personality": "個性",
+  "habitsFeatures": "習慣與特徵",
+  "currentSituation": "目前狀況",
+  "like": "讚",
+  "namePlaceholder": "姓名",
+  "agePlaceholder": "年齡",
+  "genderPlaceholder": "性別",
+  "jobPlaceholder": "職業",
+  "viewAll": "查看全部",
+  "player": "玩家",
+  "aiCharacter": "AI角色",
+  "photos": "照片"
+}

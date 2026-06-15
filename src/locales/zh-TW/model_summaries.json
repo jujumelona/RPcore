@@ -1,0 +1,20 @@
+{
+  "modelSummaryMini1": "RAM 3GB+ · Solo para dispositivos antiguos",
+  "modelSummaryMini2": "Calidad muy limitada · No recomendado",
+  "modelSummaryMini3": "~270MB",
+  "modelSummaryLight1": "RAM 6GB+ · Aceleración GPU/NPU",
+  "modelSummaryLight2": " Respuesta rápida · Bueno para chat básico",
+  "modelSummaryLight3": "~700MB",
+  "modelSummaryStandard1": "RAM 8GB+ recomendado · Aceleración GPU/NPU",
+  "modelSummaryStandard2": "Equilibrio entre velocidad y calidad · Uso general",
+  "modelSummaryStandard3": "~2GB",
+  "modelSummaryPro1": "RAM 12GB+ · Aceleración GPU/NPU",
+  "modelSummaryPro2": "Inferencia de mayor calidad",
+  "modelSummaryPro3": "~4GB",
+  "modelSummaryReasoning1": "RAM 8GB+ · HTP / GPU 加速",
+  "modelSummaryReasoning2": "最佳品質 · 推薦",
+  "modelSummaryReasoning3": "~2.5GB · 上下文 8K",
+  "modelSummaryEmergency1": "RAM 4GB+ · CPU 模式",
+  "modelSummaryEmergency2": "省電 · 基本品質",
+  "modelSummaryEmergency3": "~200MB · 上下文 4K"
+}

@@ -1,0 +1,17 @@
+{
+  "engineErrorFatal": "AIエンジンエラーが発生しました",
+  "engineErrorUnstable": "AIエンジンが一時的に不安定です",
+  "engineRestartHint": "エンジンを再起動してください。",
+  "engineMemoryHint": "メモリのクリアをお試しください。",
+  "engineClearingMem": "クリア中...",
+  "engineClearMemBtn": "メモリクリア",
+  "engineRestartingBtn": "再起動中...",
+  "engineRestartBtn": "エンジン再起動",
+  "unexpectedError": "予期せぬエラーが発生しました",
+  "componentLabel": "コンポーネント",
+  "errorMessageLabel": "エラーメッセージ",
+  "errorStackLabel": "エラースタックトレース",
+  "componentErrorLabel": "コンポーネントエラー",
+  "retryWithCount": "再試行 ({count})",
+  "maxRetriesExceeded": "最大再試行回数を超えました。アプリを再起動してください。"
+}

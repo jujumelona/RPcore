@@ -1,0 +1,12 @@
+{
+  "historySearchTitle": "इतिहास खोजें",
+  "searchPlaceholder": "चैट में खोजें...",
+  "filterAll": "सभी",
+  "resultCount": "{n} परिणाम",
+  "noSearchResult": "कोई परिणाम नहीं",
+  "noSearchResultHint": "अन्य कीवर्ड आज़माएँ",
+  "noHistory": "कोई चैट इतिहास नहीं",
+  "roleUser": "मैं",
+  "multiCharTitle": "कैरेक्टर प्रबंधन",
+  "multiCharEmpty": "कोई कैरेक्टर नहीं"
+}

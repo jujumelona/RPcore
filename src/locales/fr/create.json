@@ -1,0 +1,10 @@
+{
+  "createTab": "Créer",
+  "createTip": "Décrivez librement le type d'histoire souhaitée.\nL'IA remplira la page automatiquement.",
+  "tempSave": "Brouillon",
+  "publish": "Publier",
+  "title": "Titre",
+  "description": "Description",
+  "tags": "Tags",
+  "generate": "Générer"
+}

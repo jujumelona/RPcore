@@ -1,0 +1,8 @@
+{
+  "unknownError": "ข้อผิดพลาดที่ไม่ทราบสาเหตุ",
+  "editComment": "แก้ไขความคิดเห็น",
+  "storyProgressLabel": "ตอน{n} กำลังดำเนิน",
+  "storyInProgressShort": "กำลังดำเนิน",
+  "authorFallback": "ผู้เขียน",
+  "charLabel2": "ตัวละคร"
+}

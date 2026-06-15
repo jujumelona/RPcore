@@ -1,0 +1,9 @@
+{
+  "inputPlaceholder": "메시지 입력...",
+  "inputConvertingNovel": "웹소설 변환 중...",
+  "inputModelLoading": "모델 로딩 중...",
+  "inputGpuPreparing": "GPU 준비 중...",
+  "inputTyping": "{char} 응답 중...",
+  "inputChoosing": "선택지를 골라주세요",
+  "inputReplyingTo": "@{name}에게"
+}

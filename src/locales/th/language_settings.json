@@ -1,0 +1,18 @@
+{
+  "languageSettings": "การตั้งค่าภาษา",
+  "appLanguage": "ภาษาของแอป",
+  "aiLanguage": "ภาษาการตอบของ AI",
+  "languageChanged": "เปลี่ยนภาษาแล้ว",
+  "syncLanguages": "ซิงค์ภาษาแอปและ AI",
+  "syncDone": "ซิงค์ภาษาสำเร็จ!",
+  "alsoChangeAI": "เปลี่ยนภาษา AI ด้วยหรือไม่?",
+  "aiWillRespond": "AI จะตอบเป็น",
+  "languageTip": "เคล็ดลับ: คุณสามารถตั้งค่าภาษาแอปและ AI แยกกันได้",
+  "languageSystemTitle": "ระบบบังคับภาษา",
+  "langFeature1": "• AI ตอบเฉพาะภาษาที่เลือกเท่านั้น",
+  "langFeature2": "• ใช้ได้แม้คุณพิมพ์ภาษาอื่น",
+  "langFeature3": "• รับประกันความแม่นยำ 99%+",
+  "langFeature4": "• ตรวจสอบภาษาแบบเรียลไทม์",
+  "autoDetected": "ตรวจพบอัตโนมัติจากตำแหน่งของคุณ",
+  "rtlSupportLabel": "รองรับ RTL"
+}

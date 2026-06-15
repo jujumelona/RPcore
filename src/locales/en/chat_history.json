@@ -1,0 +1,12 @@
+{
+  "historySearchTitle": "History Search",
+  "searchPlaceholder": "Search chat history...",
+  "filterAll": "All",
+  "resultCount": "{n} results",
+  "noSearchResult": "No results found",
+  "noSearchResultHint": "Try different keywords",
+  "noHistory": "No chat history",
+  "roleUser": "Me",
+  "multiCharTitle": "Character Management",
+  "multiCharEmpty": "No characters registered"
+}

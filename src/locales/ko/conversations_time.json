@@ -1,0 +1,7 @@
+{
+  "timeJustNowShort": "방금 전",
+  "timeMinAgoShort": "{n}분 전",
+  "timeHourAgoShort": "{n}시간 전",
+  "timeDayAgoShort": "{n}일 전",
+  "timeWeekAgoShort": "{n}주 전"
+}

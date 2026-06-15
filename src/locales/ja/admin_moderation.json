@@ -1,0 +1,66 @@
+{
+  "statusLabels": {
+    "open": "受付",
+    "reviewing": "確認中",
+    "resolved": "解決済み",
+    "rejected": "却下",
+    "auto_hidden": "自動非表示"
+  },
+  "priorityLabels": {
+    "critical": "緊急",
+    "high": "高",
+    "medium": "中",
+    "low": "低"
+  },
+  "targetTypeLabels": {
+    "story": "ストーリー",
+    "post": "投稿",
+    "user": "ユーザー",
+    "comment": "コメント"
+  },
+  "filterActionable": "対応が必要",
+  "filterAll": "すべて",
+  "hintLabels": {
+    "immediate_escalation": "即時エスカレーションが必要です",
+    "already_hidden_pending_review": "すでに非表示で、確認待ちです",
+    "high_risk_reason": "高リスク理由のため運営確認待ちです",
+    "aged_unresolved_report": "長時間未解決の通報です",
+    "needs_follow_up_soon": "早めの対応が必要です",
+    "standard_moderation_review": "通常のモデレーション確認で対応できます"
+  },
+  "systemResolutionNotes": {
+    "open": "モバイル管理者が通報を再開しました。",
+    "reviewing": "モバイル管理者が確認を開始しました。",
+    "resolved": "モバイル管理者が通報を解決しました。",
+    "rejected": "モバイル管理者が通報を却下しました。",
+    "auto_hidden": "モバイル管理者がコンテンツを非表示にしました。"
+  },
+  "noReportDetail": "詳細な通報メモはありません。",
+  "reportPrefix": "通報",
+  "reporterPrefix": "通報者",
+  "assigneePrefix": "担当",
+  "resolutionLabel": "処理メモ",
+  "actionReview": "確認",
+  "actionHide": "非表示",
+  "actionResolve": "解決",
+  "actionReject": "却下",
+  "actionReopen": "再開",
+  "changingStatus": "状態を更新しています...",
+  "reportQueueTitle": "通報キュー",
+  "actionableLabel": "対応が必要",
+  "criticalLabel": "緊急",
+  "autoHiddenLabel": "自動非表示",
+  "moderationQueueSummaryTitle": "モデレーションキュー概要",
+  "immediateActionLabel": "即時対応",
+  "importantReportsLabel": "重要な通報",
+  "totalReportsLabel": "通報総数",
+  "currentResultsLabel": "現在の結果",
+  "reportSearchPlaceholder": "通報タイトル、ID、理由、メモを検索",
+  "noReports": "現在確認する通報はありません。",
+  "noMatchingReports": "選択した条件に一致する通報はありません。",
+  "statusChangeTitle": "通報ステータス変更",
+  "statusChangeMessage": "「{target}」の通報を「{status}」に変更しますか？",
+  "statusChangeConfirm": "変更",
+  "statusChangeFailedTitle": "変更失敗",
+  "statusChangeFailedBody": "通報ステータスを更新できませんでした。もう一度お試しください。"
+}

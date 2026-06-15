@@ -1,0 +1,15 @@
+{
+  "tabNotification": "通知",
+  "tabAnnouncement": "公告",
+  "noNotifications": "没有通知",
+  "noAnnouncements": "没有公告",
+  "notifReadAll": "全部标为已读",
+  "notifEmptySub": "有新动态时将在此显示",
+  "timeJustNow": "刚刚",
+  "timeMinAgo": "{n}分钟前",
+  "timeHourAgo": "{n}小时前",
+  "timeDayAgo": "{n}天前",
+  "noRecentSearches": "没有最近搜索",
+  "noRecentSearchesSub": "搜索故事、作者或标签",
+  "rtlLayout": "ltr"
+}

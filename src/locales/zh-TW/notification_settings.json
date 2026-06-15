@@ -1,0 +1,17 @@
+{
+  "notifSettingsTitle": "通知設定",
+  "notifGlobal": "全部通知",
+  "notifCategories": "分類",
+  "notifCat_new_follower": "新粉絲",
+  "notifCat_like": "按讚",
+  "notifCat_comment": "留言",
+  "notifCat_mention": "提及",
+  "notifCat_story_update": "故事更新",
+  "notifCat_chapter_release": "新章節",
+  "notifCat_system": "系統",
+  "notifDND": "勿擾模式",
+  "notifDNDEnable": "勿擾",
+  "notifDNDStart": "開始",
+  "notifDNDEnd": "結束",
+  "notifTimezone": "時區"
+}

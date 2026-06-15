@@ -1,0 +1,15 @@
+{
+  "tabNotification": "Уведомления",
+  "tabAnnouncement": "Объявления",
+  "noNotifications": "Нет уведомлений",
+  "noAnnouncements": "Нет объявлений",
+  "notifReadAll": "Отметить всё прочитанным",
+  "notifEmptySub": "Здесь будут отображаться новые уведомления",
+  "timeJustNow": "только что",
+  "timeMinAgo": "{n} мин назад",
+  "timeHourAgo": "{n} ч назад",
+  "timeDayAgo": "{n} дн назад",
+  "noRecentSearches": "Нет недавних поисков",
+  "noRecentSearchesSub": "Ищите истории, авторов или хэштеги",
+  "rtlLayout": "ltr"
+}

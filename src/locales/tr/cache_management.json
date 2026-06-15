@@ -1,0 +1,16 @@
+{
+  "cacheTitle": "Önbellek Yönetimi",
+  "totalCache": "Toplam önbellek",
+  "cache_images": "Resim önbelleği",
+  "cache_chapters": "Bölüm önbelleği",
+  "cache_temp": "Geçici dosyalar",
+  "cache_logs": "Günlükler",
+  "cacheClearTitle": "Önbelleği temizle",
+  "cacheClearMsg": "silinecek. Devam edilsin mi?",
+  "cacheClearAllTitle": "Tümünü temizle",
+  "cacheClearAllMsg": "Tüm önbellek silinsin mi?",
+  "delete": "Sil",
+  "deleteAll": "Tümünü sil",
+  "cancel": "İptal",
+  "clearAllCache": "Tüm önbelleği temizle"
+}

@@ -1,0 +1,9 @@
+{
+  "licenseNotFound": "授權資訊未確認 — 請直接在儲存庫中確認。",
+  "title": "開源授權",
+  "cautionItems": "這些項目需要特別注意。",
+  "license": "授權",
+  "version": "版本",
+  "stats": "授權統計",
+  "libSearch": "依程式庫名稱搜尋..."
+}

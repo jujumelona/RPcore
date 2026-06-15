@@ -1,0 +1,15 @@
+{
+  "wizardInitStatus": "モデル初期化中...",
+  "wizardLoadingStatus": "モデル読み込み中...",
+  "wizardReadyStatus": "準備完了",
+  "wizardModuleError": "ネイティブモジュールなし",
+  "wizardInitFail": "初期化失敗",
+  "wizardNoModel": "AIモデルがダウンロードされていません。マイページでダウンロードしてください。",
+  "wizardGenTitle": "ストーリー制作中...",
+  "wizardGenSub": "AIがストーリーエディターを埋めています",
+  "wizardGenSubLong": "分量が多いため時間がかかる場合があります",
+  "wizardGenSubWait": "しばらくお待ちください",
+  "wizardErrTitle": "エラー発生",
+  "wizardErrRetry": "再試行",
+  "wizardPctComplete": "% 完了"
+}

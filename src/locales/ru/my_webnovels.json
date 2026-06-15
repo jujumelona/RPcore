@@ -1,0 +1,17 @@
+{
+  "numSaved": "Сохранено: {n}",
+  "numDeleted": "Удалено: {n}",
+  "numShared": "Поделиться {n}",
+  "novelDeleteTitle": "Удалить роман",
+  "novelDeleteMsg": "Удалить {n}? Невозможно отменить.",
+  "noWebNovels": "Сохраненные романы",
+  "selectAll": "Выбрать все",
+  "deselectAll": "Снять выделение",
+  "searchResults": "Результаты поиска",
+  "returnToOriginal": "Вернуться к исходной позиции",
+  "resumeReading": "Продолжить с {n}%",
+  "resumeMove": "Перейти",
+  "resumeClose": "Закрыть",
+  "chapterPrefix": "Глава {n}",
+  "chapterAlt": "Глава {n}"
+}

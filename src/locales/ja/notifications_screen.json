@@ -1,0 +1,15 @@
+{
+  "tabNotification": "通知",
+  "tabAnnouncement": "お知らせ",
+  "noNotifications": "通知がありません",
+  "noAnnouncements": "お知らせがありません",
+  "notifReadAll": "すべて既読",
+  "notifEmptySub": "新しいお知らせがあればここに表示されます",
+  "timeJustNow": "たった今",
+  "timeMinAgo": "{n}分前",
+  "timeHourAgo": "{n}時間前",
+  "timeDayAgo": "{n}日前",
+  "noRecentSearches": "最近の検索がありません",
+  "noRecentSearchesSub": "ストーリー、作者、ハッシュタグを検索",
+  "rtlLayout": "ltr"
+}

@@ -1,0 +1,17 @@
+{
+  "engineErrorFatal": "AI 엔진 오류가 발생했습니다",
+  "engineErrorUnstable": "AI 엔진이 일시적으로 불안정합니다",
+  "engineRestartHint": "엔진을 다시 시작해 주세요.",
+  "engineMemoryHint": "메모리 정리를 시도해 주세요.",
+  "engineClearingMem": "정리 중...",
+  "engineClearMemBtn": "메모리 정리",
+  "engineRestartingBtn": "재시작 중...",
+  "engineRestartBtn": "엔진 다시 시작",
+  "unexpectedError": "예상치 못한 오류가 발생했습니다",
+  "componentLabel": "컴포넌트",
+  "errorMessageLabel": "오류 메시지",
+  "errorStackLabel": "오류 스택트레이스",
+  "componentErrorLabel": "컴포넌트 오류",
+  "retryWithCount": "다시 시도 ({count} 번)",
+  "maxRetriesExceeded": "최대 재시도 횟수를 초과했습니다. 앱을 다시 시작해주세요."
+}

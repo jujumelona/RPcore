@@ -1,0 +1,21 @@
+{
+  "guideStoryTitle": "Der Titel, der in der Story-Liste angezeigt wird.\nz.B. Vertragsehe mit dem arroganten Herzog",
+  "guideStoryDesc": "Die Einführung unter dem Story-Cover.\nSchreibe ein bis zwei Sätze, um Leser zu fesseln.",
+  "guideStoryHashtag": "Hashtags mit # beginnen, getrennt durch Komma oder Leerzeichen.\nz.B. #Romanze #Obsession #Fantasy",
+  "guideStoreCover": "Das Cover-Bild in der Story-Liste.\n\nEmpfohlenes Verhältnis: 2:3 (Hochformat, z.B. 400×600px)\n→ Optimiert für Karten-Hochformat-Layout\n→ Querformat-Bilder können oben/unten abgeschnitten werden",
+  "guideCharName": "Der Name des Charakters.",
+  "guideCharImage": "Charakter-Profilbild (max. 5)\nDas erste Bild wird als Standard verwendet.\n oben rechts tippen, um ein Bild zu entfernen.\n\nEmpfohlenes Verhältnis: 1:1 oder 3:4\n→ Optimiert für kreisförmigen Profilausschnitt\n→ Gesicht zentriert aufnehmen empfohlen",
+  "guideCharEmotion": "Legt die anfängliche Emotion dieses Charakters gegenüber dem Nutzer (dir) fest.\nKreis ziehen oder tippen zum Einstellen.\nPositive Emotionen nähern sich +100, negative -100.",
+  "guideCharPersonality": "Beschreibe die Persönlichkeit und den Sprachstil dieses Charakters ausführlich.",
+  "guideCharExample": "Schreibe eine kurze Beispielsituation, die Sprachstil und Persönlichkeit zeigt.",
+  "guideCoreKeywords": "Schlüsselwörter (kommagetrennt) eingeben, die diesen Story Core an die KI senden.",
+  "guideCoreContent": "Der Inhalt, der an die KI gesendet wird, wenn ein Schlüsselwort erkannt wird.",
+  "guideWorldSetting": "Schreibe nur das Lore auf, das in allen Kapiteln unverändert bleibt.\nDies ist ein fester Prompt, den die KI immer referenziert.\n※ Kapitelspezifische Infos kommen in das Kapitel-Extrainfo-Feld.",
+  "guideAiGoal": "Schreibe den Zweck oder die Richtung der KI für dieses Kapitel.\nz.B. Versucht das Vertrauen des Protagonisten zu gewinnen, hält aber Abstand aus Angst vor der Vergangenheit.",
+  "guideCharGoal": "Das Ziel dieses Charakters in diesem Kapitel.\nJeder Charakter kann unterschiedliche Ziele haben.\nz.B. Nähert sich dem Protagonisten, um ein geheimes Dokument zu stehlen.",
+  "guidePrevSummary": "Schlüsselereignisse, die die KI aus dem vorherigen Kapitel erinnern muss.\nDient der KI zum Verstehen der Story-Kontinuität.\nKurz und fokussiert auf Schlüsselereignisse und Emotionsänderungen.",
+  "guideChapterInfo": "Änderungen oder zusätzliche Infos für die KI in diesem Kapitel.\n※ Dieses Feld wird beim Kapitelwechsel zurückgesetzt.",
+  "guideChapterTrigger": "Die Bedingung, die das nächste Kapitel auslöst.\nMehrere Bedingungen möglich — eine davon reicht für den Übergang.\n\nCache-Verbrauch mit Emotions- oder Gesprächsbedingungen kombinieren für bessere Gedächtnisretention.",
+  "guideIntro": "Der erste Inhalt beim Chatstart.\nNarration/Charakter/Nutzer-Schaltflächen tippen zum Hinzufügen.\nGedanken: ##Text## | Aktion: **Text**",
+  "guideBackground": "Legt das Hintergrundbild für das Spiel fest.\nMehrere OR-Bedingungen möglich — eine reicht für Hintergrundwechsel.\n\nEmpfohlenes Verhältnis: 9:16 (Vollbild Hochformat, z.B. 1080×1920px)\n→ Passt auf Smartphone-Vollbild\n→ 16:9 Querformat zeigt evtl. Balken"
+}

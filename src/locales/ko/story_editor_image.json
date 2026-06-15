@@ -1,0 +1,8 @@
+{
+  "imgPermTitle": "이미지 접근 권한",
+  "imgPermMsg": "갤러리 접근 권한이 필요합니다.",
+  "imgPermAllow": "허용",
+  "imgPermDeny": "거부",
+  "imgPermNeeded": "갤러리 접근 권한이 없습니다.",
+  "imgPermLibrary": "react-native-image-picker를 설치해야 합니다."
+}

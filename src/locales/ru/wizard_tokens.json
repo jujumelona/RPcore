@@ -1,0 +1,10 @@
+{
+  "wizardTokenQ": "Выберите длину генерации ИИ",
+  "wizardTokenHint": "1 токен ≈ 0,5-1 символу. Больше токенов = больше деталей, но дольше ожидание.",
+  "wizardTokenFastDesc": "Быстро, коротко и кратко",
+  "wizardTokenNormalDesc": "Обычный, сбалансированный",
+  "wizardTokenDetailDesc": "Детальное, живое описание",
+  "wizardTokenFullDesc": "Очень подробно, занимает больше времени",
+  "wizardTokenUnit": "токенов",
+  "wizardTokenDirect": "Или введите напрямую (512-8192)"
+}

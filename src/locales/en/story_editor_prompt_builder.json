@@ -1,0 +1,10 @@
+{
+  "headerLangLabel": "Translation languages: ",
+  "headerRule": "Rule: Prepend LANG_{code}_ to the original key. Do not translate {U}/{u}. Output key:value only, no explanation or markdown.",
+  "ruleStory": "Additional rule: Keep the # symbol in TAGS, translate naturally",
+  "ruleCharacter": "Additional rule: Localize the name to the target language region, age as number only",
+  "ruleIntro": "Additional rule: Distinguish narrator style (3rd-person description) from character style (1st-person dialogue)",
+  "speakerNarrator": "Narrator",
+  "speakerUser": "User",
+  "speakerCharPrefix": "Character"
+}

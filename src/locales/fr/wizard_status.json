@@ -1,0 +1,15 @@
+{
+  "wizardInitStatus": "Initialisation du modèle...",
+  "wizardLoadingStatus": "Chargement du modèle...",
+  "wizardReadyStatus": "Prêt",
+  "wizardModuleError": "Module natif indisponible",
+  "wizardInitFail": "Échec de l'initialisation",
+  "wizardNoModel": "Aucun modèle IA téléchargé. Veuillez aller sur Ma Page et en télécharger un d'abord.",
+  "wizardGenTitle": "Création de l'histoire...",
+  "wizardGenSub": "L'IA remplit l'éditeur d'histoire",
+  "wizardGenSubLong": "Un nombre élevé de tokens peut prendre du temps",
+  "wizardGenSubWait": "Veuillez patienter un moment",
+  "wizardErrTitle": "Erreur survenue",
+  "wizardErrRetry": "Réessayer",
+  "wizardPctComplete": "% terminé"
+}

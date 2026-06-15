@@ -1,0 +1,12 @@
+{
+  "toastTitleRequired": "Per favore inserisci un titolo",
+  "toastSaveOk": "Salvato ✓",
+  "toastSaveFail": "Salvataggio fallito: ",
+  "toastMaxChars": "Massimo 10 personaggi consentiti",
+  "toastChapterMin": "Hai bisogno di almeno 2 capitoli per riassumere come web novel",
+  "toastNoStory": "Per favore inserisci la storia desiderata",
+  "toastAiApplied": "Suggerimenti IA applicati ✓",
+  "toastAiFail": "Generazione IA fallita: ",
+  "toastServerErr": "Errore server ",
+  "selectStylePresetRequired": "Scegli un preset di stile."
+}

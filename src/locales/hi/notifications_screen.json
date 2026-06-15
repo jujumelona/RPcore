@@ -1,0 +1,15 @@
+{
+  "tabNotification": "सूचनाएं",
+  "tabAnnouncement": "घोषणाएं",
+  "noNotifications": "कोई सूचना नहीं",
+  "noAnnouncements": "कोई घोषणा नहीं",
+  "notifReadAll": "सभी को पढ़ा हुआ चिह्नित करें",
+  "notifEmptySub": "नई गतिविधि यहाँ दिखाई देगी",
+  "timeJustNow": "अभी-अभी",
+  "timeMinAgo": "{n} मिनट पहले",
+  "timeHourAgo": "{n} घंटे पहले",
+  "timeDayAgo": "{n} दिन पहले",
+  "noRecentSearches": "कोई हालिया खोज नहीं",
+  "noRecentSearchesSub": "कहानियाँ, लेखक या हैशटैग खोजें",
+  "rtlLayout": "ltr"
+}

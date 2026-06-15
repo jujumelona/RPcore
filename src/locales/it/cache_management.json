@@ -1,0 +1,16 @@
+{
+  "cacheTitle": "Gestione cache",
+  "totalCache": "Cache totale",
+  "cache_images": "Cache immagini",
+  "cache_chapters": "Cache capitoli",
+  "cache_temp": "File temporanei",
+  "cache_logs": "Log",
+  "cacheClearTitle": "Cancella cache",
+  "cacheClearMsg": "sarà eliminato. Continuare?",
+  "cacheClearAllTitle": "Cancella tutto",
+  "cacheClearAllMsg": "Eliminare tutta la cache?",
+  "delete": "Elimina",
+  "deleteAll": "Elimina tutto",
+  "cancel": "Annulla",
+  "clearAllCache": "Cancella tutta la cache"
+}

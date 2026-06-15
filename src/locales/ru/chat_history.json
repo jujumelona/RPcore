@@ -1,0 +1,12 @@
+{
+  "historySearchTitle": "Поиск по истории",
+  "searchPlaceholder": "Поиск в чате...",
+  "filterAll": "Все",
+  "resultCount": "{n} результатов",
+  "noSearchResult": "Нет результатов",
+  "noSearchResultHint": "Попробуйте другие слова",
+  "noHistory": "Нет истории чата",
+  "roleUser": "Я",
+  "multiCharTitle": "Управление персонажами",
+  "multiCharEmpty": "Нет персонажей"
+}

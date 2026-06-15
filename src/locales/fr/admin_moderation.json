@@ -1,0 +1,66 @@
+{
+  "statusLabels": {
+    "open": "Ouvert",
+    "reviewing": "En révision",
+    "resolved": "Résolu",
+    "rejected": "Rejeté",
+    "auto_hidden": "Masqué automatiquement"
+  },
+  "priorityLabels": {
+    "critical": "Critique",
+    "high": "Élevé",
+    "medium": "Moyen",
+    "low": "Faible"
+  },
+  "targetTypeLabels": {
+    "story": "Histoire",
+    "post": "Publication",
+    "user": "Utilisateur",
+    "comment": "Commentaire"
+  },
+  "filterActionable": "Action requise",
+  "filterAll": "Tous",
+  "hintLabels": {
+    "immediate_escalation": "Escalade immédiate requise",
+    "already_hidden_pending_review": "Déjà masqué, en attente de révision",
+    "high_risk_reason": "Motif à haut risque dans la file opérateur",
+    "aged_unresolved_report": "Signalement ancien non résolu",
+    "needs_follow_up_soon": "Nécessite un suivi rapide",
+    "standard_moderation_review": "Révision de modération standard"
+  },
+  "systemResolutionNotes": {
+    "open": "L’administrateur mobile a rouvert le signalement.",
+    "reviewing": "L’administrateur mobile a commencé la révision.",
+    "resolved": "L’administrateur mobile a résolu le signalement.",
+    "rejected": "L’administrateur mobile a rejeté le signalement.",
+    "auto_hidden": "L’administrateur mobile a masqué le contenu."
+  },
+  "noReportDetail": "Aucune note détaillée n’a été fournie.",
+  "reportPrefix": "Signalement",
+  "reporterPrefix": "Auteur",
+  "assigneePrefix": "Attribué à",
+  "resolutionLabel": "Note de résolution",
+  "actionReview": "Réviser",
+  "actionHide": "Masquer",
+  "actionResolve": "Résoudre",
+  "actionReject": "Rejeter",
+  "actionReopen": "Rouvrir",
+  "changingStatus": "Mise à jour du statut...",
+  "reportQueueTitle": "File des signalements",
+  "actionableLabel": "Action requise",
+  "criticalLabel": "Critique",
+  "autoHiddenLabel": "Masqué automatiquement",
+  "moderationQueueSummaryTitle": "Résumé de la file de modération",
+  "immediateActionLabel": "Action immédiate",
+  "importantReportsLabel": "Signalements critiques",
+  "totalReportsLabel": "Total des signalements",
+  "currentResultsLabel": "Résultats actuels",
+  "reportSearchPlaceholder": "Rechercher le titre, l’ID, le motif ou la note du signalement",
+  "noReports": "Il n’y a aucun signalement à examiner pour le moment.",
+  "noMatchingReports": "Aucun signalement ne correspond aux filtres sélectionnés.",
+  "statusChangeTitle": "Changer le statut du signalement",
+  "statusChangeMessage": "Changer le signalement de \"{target}\" en \"{status}\" ?",
+  "statusChangeConfirm": "Changer",
+  "statusChangeFailedTitle": "Échec du changement",
+  "statusChangeFailedBody": "Impossible de mettre à jour le statut du signalement. Veuillez réessayer."
+}

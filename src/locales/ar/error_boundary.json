@@ -1,0 +1,17 @@
+{
+  "engineErrorFatal": "حدث خطأ في محرك AI",
+  "engineErrorUnstable": "محرك AI غير مستقر مؤقتاً",
+  "engineRestartHint": "الرجاء إعادة تشغيل المحرك.",
+  "engineMemoryHint": "حاول مسح الذاكرة.",
+  "engineClearingMem": "جارٍ المسح...",
+  "engineClearMemBtn": "مسح الذاكرة",
+  "engineRestartingBtn": "إعادة التشغيل...",
+  "engineRestartBtn": "إعادة تشغيل المحرك",
+  "unexpectedError": "حدث خطأ غير متوقع",
+  "componentLabel": "مكون",
+  "errorMessageLabel": "رسالة الخطأ",
+  "errorStackLabel": "تتبع الخطأ",
+  "componentErrorLabel": "خطأ المكون",
+  "retryWithCount": "إعادة المحاولة ({count})",
+  "maxRetriesExceeded": "تم تجاوز الحد الأقصى لمحاولات إعادة المحاولة. يرجى إعادة تشغيل التطبيق."
+}

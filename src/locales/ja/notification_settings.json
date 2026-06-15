@@ -1,0 +1,17 @@
+{
+  "notifSettingsTitle": "通知設定",
+  "notifGlobal": "すべての通知",
+  "notifCategories": "カテゴリー",
+  "notifCat_new_follower": "新しいフォロワー",
+  "notifCat_like": "いいね",
+  "notifCat_comment": "コメント",
+  "notifCat_mention": "メンション",
+  "notifCat_story_update": "ストーリー更新",
+  "notifCat_chapter_release": "新章リリース",
+  "notifCat_system": "システム",
+  "notifDND": "おやすみモード",
+  "notifDNDEnable": "おやすみモード",
+  "notifDNDStart": "開始",
+  "notifDNDEnd": "終了",
+  "notifTimezone": "タイムゾーン"
+}

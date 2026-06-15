@@ -1,0 +1,7 @@
+{
+  "timeJustNowShort": "الآن",
+  "timeMinAgoShort": "منذ {n} دقيقة",
+  "timeHourAgoShort": "منذ {n} ساعة",
+  "timeDayAgoShort": "منذ {n} يومًا",
+  "timeWeekAgoShort": "منذ {n} أسبوع"
+}

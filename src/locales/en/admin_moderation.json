@@ -1,0 +1,66 @@
+{
+  "statusLabels": {
+    "open": "Open",
+    "reviewing": "Reviewing",
+    "resolved": "Resolved",
+    "rejected": "Rejected",
+    "auto_hidden": "Auto Hidden"
+  },
+  "priorityLabels": {
+    "critical": "Critical",
+    "high": "High",
+    "medium": "Medium",
+    "low": "Low"
+  },
+  "targetTypeLabels": {
+    "story": "Story",
+    "post": "Post",
+    "user": "User",
+    "comment": "Comment"
+  },
+  "filterActionable": "Action Required",
+  "filterAll": "All",
+  "hintLabels": {
+    "immediate_escalation": "Immediate escalation required",
+    "already_hidden_pending_review": "Already hidden pending review",
+    "high_risk_reason": "High-risk reason in operator queue",
+    "aged_unresolved_report": "Aged unresolved report",
+    "needs_follow_up_soon": "Needs follow-up soon",
+    "standard_moderation_review": "Standard moderation review"
+  },
+  "systemResolutionNotes": {
+    "open": "Mobile admin reopened the report.",
+    "reviewing": "Mobile admin started review.",
+    "resolved": "Mobile admin resolved the report.",
+    "rejected": "Mobile admin rejected the report.",
+    "auto_hidden": "Mobile admin hid the content."
+  },
+  "noReportDetail": "No detailed report note provided.",
+  "reportPrefix": "Report",
+  "reporterPrefix": "Reporter",
+  "assigneePrefix": "Assignee",
+  "resolutionLabel": "Resolution note",
+  "actionReview": "Review",
+  "actionHide": "Hide",
+  "actionResolve": "Resolve",
+  "actionReject": "Reject",
+  "actionReopen": "Reopen",
+  "changingStatus": "Updating status...",
+  "reportQueueTitle": "Report Queue",
+  "actionableLabel": "Action required",
+  "criticalLabel": "Critical",
+  "autoHiddenLabel": "Auto hidden",
+  "moderationQueueSummaryTitle": "Moderation Queue Summary",
+  "immediateActionLabel": "Immediate action",
+  "importantReportsLabel": "Critical reports",
+  "totalReportsLabel": "Total reports",
+  "currentResultsLabel": "Current results",
+  "reportSearchPlaceholder": "Search report title, ID, reason, or note",
+  "noReports": "There are no reports to review right now.",
+  "noMatchingReports": "No reports match the selected filters.",
+  "statusChangeTitle": "Change report status",
+  "statusChangeMessage": "Change the report for \"{target}\" to \"{status}\"?",
+  "statusChangeConfirm": "Change",
+  "statusChangeFailedTitle": "Change failed",
+  "statusChangeFailedBody": "Could not update the report status. Please try again."
+}

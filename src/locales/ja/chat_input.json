@@ -1,0 +1,9 @@
+{
+  "inputPlaceholder": "メッセージを入力...",
+  "inputConvertingNovel": "ウェブ小説変換中...",
+  "inputModelLoading": "モデル読み込み中...",
+  "inputGpuPreparing": "GPU準備中...",
+  "inputTyping": "{char} 返答中...",
+  "inputChoosing": "選択肢を選んでください",
+  "inputReplyingTo": "@{name}に返信"
+}

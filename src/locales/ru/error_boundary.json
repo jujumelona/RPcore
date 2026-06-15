@@ -1,0 +1,17 @@
+{
+  "engineErrorFatal": "Произошла ошибка AI-движка",
+  "engineErrorUnstable": "AI-движок временно нестабилен",
+  "engineRestartHint": "Пожалуйста, перезапустите движок.",
+  "engineMemoryHint": "Попробуйте очистить память.",
+  "engineClearingMem": "Очистка...",
+  "engineClearMemBtn": "Очистить память",
+  "engineRestartingBtn": "Перезапуск...",
+  "engineRestartBtn": "Перезапустить движок",
+  "unexpectedError": "Произошла непредвиденная ошибка",
+  "componentLabel": "Компонент",
+  "errorMessageLabel": "Сообщение об Ошибке",
+  "errorStackLabel": "Стектрейс Ошибки",
+  "componentErrorLabel": "Ошибка Компонента",
+  "retryWithCount": "Повторить ({count})",
+  "maxRetriesExceeded": "Превышено максимальное количество попыток. Пожалуйста, перезапустите приложение."
+}

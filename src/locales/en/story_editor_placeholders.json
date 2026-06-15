@@ -1,0 +1,21 @@
+{
+  "phStoryTitle": "Enter story title",
+  "phStoryDesc": "Enter story description",
+  "phStoryHashtag": "#romance #fantasy #obsession",
+  "phCharName": "Character name",
+  "phPersonality": "Describe personality, speech style, traits in detail",
+  "phCoreKeyword": "magic_guild, academy",
+  "phCoreContent": "Info to send AI when this keyword appears",
+  "phWorldSetting": "Write the world's setting, background, and absolute rules.",
+  "phChapterName": "Chapter name",
+  "phAiGoal": "Overall direction AI should guide in this chapter",
+  "phCharGoal": "Goal in this chapter",
+  "phChapterInfo": "Changes AI should know (resets on chapter change)",
+  "phPrevSummary0": "If there is a prologue or backstory before Chapter 1, write it here.",
+  "phPrevSummary": "Summarize key events/emotion changes AI must remember from the previous chapter.",
+  "phIntroInput": "Enter content...",
+  "phBgName": "Background name",
+  "phCharGender": "e.g. Female, Male, Non-binary",
+  "phPersonalityDeep": "Inner motivation and emotional patterns...",
+  "phCharExample": "2-3 lines of dialogue to show character tone"
+}

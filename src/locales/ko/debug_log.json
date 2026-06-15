@@ -1,0 +1,6 @@
+{
+  "debugLogTitle": "디버그 로그",
+  "logLines": "{n}?",
+  "autoScrollOn": "자동 스크롤 켜짐",
+  "autoScrollOff": "자동 스크롤 꺼짐"
+}

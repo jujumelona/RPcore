@@ -1,0 +1,14 @@
+{
+  "defaultNotif1Title": "Welcome!",
+  "defaultNotif1Body": "Benvenuto in RPcore. Inizia la tua prima storia!",
+  "defaultNotif2Title": "Nuova storia aggiornata",
+  "defaultNotif2Body": "Una nuova storia di un autore che segui è disponibile!",
+  "defaultNotif3Title": "Raccomandazione storia popolare",
+  "defaultNotif3Body": "Dai un'occhiata alle storie più popolari in questo momento!",
+  "defaultAnnounce1Title": "Annuncio servizio Beta RPcore",
+  "defaultAnnounce1Body": "RPcore è attualmente in fase beta. Nuove funzionalità verranno aggiunte continuamente. Contatta l'assistenza per qualsiasi problema.",
+  "defaultAnnounce2Title": "Annuncio espansione supporto lingue",
+  "defaultAnnounce2Body": "Ora supporta 15 lingue. Vai a Impostazioni > Impostazioni lingua per impostare separatamente la lingua dell'app e la lingua di risposta AI.",
+  "defaultAnnounce3Title": "Regole utilizzo community",
+  "defaultAnnounce3Body": "Le community sono gestite separatamente per lingua. Puoi visitare altre community linguistiche, ma pubblica nella lingua di quella community."
+}

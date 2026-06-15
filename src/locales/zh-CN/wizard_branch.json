@@ -1,0 +1,12 @@
+{
+  "wizardBranchQ": "选择出现的频率",
+  "wizardBranchHint": "选择让读者塑造故事走向。每个选择改变路径和情感。",
+  "wizardBranchNoneLabel": "几乎没有",
+  "wizardBranchNoneDesc": "线性故事，无选择",
+  "wizardBranchRareLabel": "偶尔",
+  "wizardBranchRareDesc": "每2-3章有一个重大选择",
+  "wizardBranchModLabel": "适中",
+  "wizardBranchModDesc": "每章至少有一个选择",
+  "wizardBranchFreqLabel": "频繁",
+  "wizardBranchFreqDesc": "对话中途频繁出现选择"
+}

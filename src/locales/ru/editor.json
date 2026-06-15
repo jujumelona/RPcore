@@ -1,0 +1,17 @@
+{
+  "worldSetting": "Настройки мира",
+  "worldSettingHint": "Пишите только неизменные настройки всех глав.\nИзменяющаяся по главам информация идёт в поле доп. информации главы.",
+  "personality": "Личность",
+  "speechPattern": "Манера речи/поведения",
+  "habit": "Привычки",
+  "currentSituation": "Текущая ситуация",
+  "initialEmotion": "Начальные эмоции к пользователю",
+  "chapterGoal": "Цель главы",
+  "triggerCondition": "Условие активации",
+  "background": "Фон",
+  "additionalInfo": "Доп. информация",
+  "gender": "Пол",
+  "genderMale": "Мужской",
+  "genderFemale": "Женский",
+  "genderOther": "Другое"
+}

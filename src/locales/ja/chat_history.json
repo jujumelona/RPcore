@@ -1,0 +1,12 @@
+{
+  "historySearchTitle": "履歴検索",
+  "searchPlaceholder": "チャット履歴を検索...",
+  "filterAll": "すべて",
+  "resultCount": "{n}件",
+  "noSearchResult": "検索結果なし",
+  "noSearchResultHint": "別のキーワードで検索してみてください",
+  "noHistory": "チャット履歴がありません",
+  "roleUser": "自分",
+  "multiCharTitle": "キャラクター管理",
+  "multiCharEmpty": "登録されたキャラクターがありません"
+}

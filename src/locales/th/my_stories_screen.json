@@ -1,0 +1,10 @@
+{
+  "myStoriesTotal": "ทั้งหมด",
+  "myStoriesPublished": "เผยแพร่แล้ว",
+  "myStoriesViews": "ยอดดู",
+  "myStoriesLikes": "ถูกใจ",
+  "myStoriesDraftCount": "ฉบับร่าง {n}",
+  "deleteSelectedTitle": "ลบเรื่องราว",
+  "deleteSelectedConfirm": "ลบเรื่องราว {n} รายการ?\nเรื่องที่ลบแล้วไม่สามารถกู้คืนได้",
+  "deleteFailed": "ลบไม่สำเร็จ"
+}

@@ -1,0 +1,66 @@
+{
+  "statusLabels": {
+    "open": "Abierto",
+    "reviewing": "En revisión",
+    "resolved": "Resuelto",
+    "rejected": "Rechazado",
+    "auto_hidden": "Oculto automáticamente"
+  },
+  "priorityLabels": {
+    "critical": "Crítico",
+    "high": "Alto",
+    "medium": "Medio",
+    "low": "Bajo"
+  },
+  "targetTypeLabels": {
+    "story": "Historia",
+    "post": "Publicación",
+    "user": "Usuario",
+    "comment": "Comentario"
+  },
+  "filterActionable": "Requiere acción",
+  "filterAll": "Todos",
+  "hintLabels": {
+    "immediate_escalation": "Requiere escalado inmediato",
+    "already_hidden_pending_review": "Ya está oculto y pendiente de revisión",
+    "high_risk_reason": "Motivo de alto riesgo en cola de operadores",
+    "aged_unresolved_report": "Reporte antiguo sin resolver",
+    "needs_follow_up_soon": "Necesita seguimiento pronto",
+    "standard_moderation_review": "Revisión de moderación estándar"
+  },
+  "systemResolutionNotes": {
+    "open": "El administrador móvil reabrió el reporte.",
+    "reviewing": "El administrador móvil inició la revisión.",
+    "resolved": "El administrador móvil resolvió el reporte.",
+    "rejected": "El administrador móvil rechazó el reporte.",
+    "auto_hidden": "El administrador móvil ocultó el contenido."
+  },
+  "noReportDetail": "No se proporcionó una nota detallada del reporte.",
+  "reportPrefix": "Reporte",
+  "reporterPrefix": "Reportante",
+  "assigneePrefix": "Asignado",
+  "resolutionLabel": "Nota de resolución",
+  "actionReview": "Revisar",
+  "actionHide": "Ocultar",
+  "actionResolve": "Resolver",
+  "actionReject": "Rechazar",
+  "actionReopen": "Reabrir",
+  "changingStatus": "Actualizando estado...",
+  "reportQueueTitle": "Cola de reportes",
+  "actionableLabel": "Requiere acción",
+  "criticalLabel": "Crítico",
+  "autoHiddenLabel": "Oculto automáticamente",
+  "moderationQueueSummaryTitle": "Resumen de la cola de moderación",
+  "immediateActionLabel": "Acción inmediata",
+  "importantReportsLabel": "Reportes críticos",
+  "totalReportsLabel": "Total de reportes",
+  "currentResultsLabel": "Resultados actuales",
+  "reportSearchPlaceholder": "Buscar título, ID, motivo o nota del reporte",
+  "noReports": "No hay reportes para revisar ahora.",
+  "noMatchingReports": "Ningún reporte coincide con los filtros seleccionados.",
+  "statusChangeTitle": "Cambiar estado del reporte",
+  "statusChangeMessage": "¿Cambiar el reporte de \"{target}\" a \"{status}\"?",
+  "statusChangeConfirm": "Cambiar",
+  "statusChangeFailedTitle": "Cambio fallido",
+  "statusChangeFailedBody": "No se pudo actualizar el estado del reporte. Inténtalo de nuevo."
+}

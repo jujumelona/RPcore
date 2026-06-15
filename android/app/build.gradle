@@ -1,0 +1,243 @@
+plugins {
+    id("com.android.application")
+    id("org.jetbrains.kotlin.android")
+    id("org.jetbrains.kotlin.plugin.serialization")
+    id("com.facebook.react")
+    id("com.google.gms.google-services")
+    id("com.google.dagger.hilt.android")
+    id("app.cash.sqldelight")
+    id("io.objectbox")
+    id("org.jetbrains.kotlin.plugin.compose")
+    id("com.google.devtools.ksp")
+    id("com.google.firebase.crashlytics")
+    id("com.google.firebase.firebase-perf")
+}
+
+def packageJsonFile = file('../../package.json')
+def packageVersion = "1.0.0"
+if (packageJsonFile.exists()) {
+    def match = (packageJsonFile.text =~ /"version":\s*"([^"]+)"/)
+    if (match.find()) packageVersion = match.group(1)
+}
+
+react {
+    autolinkLibrariesWithApp()
+}
+
+sqldelight {
+    databases {
+        create("RPDatabase") {
+            packageName.set("com.rpplatform.db")
+        }
+    }
+}
+
+apply from: project(':react-native-config').projectDir.getPath() + "/dotenv.gradle"
+
+android {
+    ndkVersion rootProject.ext.ndkVersion
+    buildToolsVersion rootProject.ext.buildToolsVersion
+    compileSdk rootProject.ext.compileSdkVersion
+
+    namespace 'com.rpplatform'
+
+    defaultConfig {
+        applicationId 'com.rpplatform'
+        resValue "string", "build_config_package", "com.rpplatform"
+        minSdk 24
+        targetSdk rootProject.ext.targetSdkVersion
+        versionCode 1
+        versionName packageVersion
+        multiDexEnabled true
+    }
+
+    packaging {
+        jniLibs {
+            useLegacyPackaging = true
+            pickFirsts += [
+                'lib/*/libc++_shared.so',
+                'lib/*/libomp.so',
+                'lib/*/libllama.so',
+                'lib/*/librnllama.so',
+                'lib/*/libmmkv.so',
+            ]
+        }
+        resources {
+            excludes += [
+                'META-INF/DEPENDENCIES',
+                'META-INF/LICENSE',
+                'META-INF/LICENSE.txt',
+                'META-INF/NOTICE',
+                'META-INF/NOTICE.txt',
+            ]
+        }
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+        incremental = true
+    }
+
+    kotlinOptions {
+        jvmTarget = '17'
+        freeCompilerArgs += [
+            "-opt-in=androidx.compose.material3.ExperimentalMaterial3Api",
+            "-opt-in=androidx.compose.foundation.ExperimentalFoundationApi",
+        ]
+    }
+
+    buildFeatures {
+        buildConfig = true
+        compose = true
+        aidl = false
+        renderScript = false
+        shaders = false
+    }
+
+    buildTypes {
+        debug {
+            minifyEnabled false
+            shrinkResources false
+            debuggable true
+        }
+        release {
+            debuggable false
+            jniDebuggable false
+            minifyEnabled true
+            shrinkResources true
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+        firebaseLab {
+            initWith release
+            debuggable false
+            minifyEnabled false
+            shrinkResources false
+            signingConfig signingConfigs.debug
+            matchingFallbacks = ['release']
+        }
+        debugOptimized {
+            initWith debug
+            debuggable true
+            minifyEnabled true
+            shrinkResources true
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+
+    splits {
+        abi {
+            enable true
+            reset()
+            include "arm64-v8a"
+            universalApk false
+        }
+    }
+}
+
+dependencies {
+    implementation 'com.google.android.gms:play-services-ads:22.6.0'
+    implementation 'com.google.android.gms:play-services-auth:20.7.0'
+
+    // Firebase
+    implementation platform('com.google.firebase:firebase-bom:33.1.2')
+    implementation 'com.google.firebase:firebase-analytics-ktx'
+    implementation 'com.google.firebase:firebase-crashlytics-ktx'
+    implementation 'com.google.firebase:firebase-perf-ktx'
+    implementation 'com.google.firebase:firebase-messaging-ktx'
+    implementation 'com.google.firebase:firebase-config-ktx'
+
+    // DI — Hilt
+    implementation("com.google.dagger:hilt-android:${rootProject.ext.hiltVersion}")
+    ksp("com.google.dagger:hilt-android-compiler:${rootProject.ext.hiltVersion}")
+
+    // DB — SQLDelight
+    implementation("app.cash.sqldelight:android-driver:${rootProject.ext.sqlDelightVersion}")
+    implementation("app.cash.sqldelight:coroutines-extensions:${rootProject.ext.sqlDelightVersion}")
+
+    // DataStore
+    implementation("androidx.datastore:datastore-preferences:1.1.2")
+    implementation("androidx.datastore:datastore:1.1.2")
+
+    // 직렬화
+    implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:${rootProject.ext.serializationVersion}")
+
+    // Coroutines
+    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.10.1")
+    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.10.1")
+
+    // Compose BOM
+    implementation(platform("androidx.compose:compose-bom:2025.05.00"))
+    implementation("androidx.compose.ui:ui")
+    implementation("androidx.compose.ui:ui-tooling-preview")
+    implementation("androidx.compose.animation:animation")
+    implementation("androidx.compose.foundation:foundation")
+
+    // Material 3
+    implementation("androidx.compose.material3:material3")
+    implementation("androidx.compose.material3:material3-window-size-class")
+
+    // Adaptive Layout
+    implementation("androidx.compose.material3.adaptive:adaptive:1.1.0")
+    implementation("androidx.compose.material3.adaptive:adaptive-layout:1.1.0")
+    implementation("androidx.compose.material3.adaptive:adaptive-navigation:1.1.0")
+
+    // Navigation
+    implementation("androidx.navigation:navigation-compose:2.8.9")
+
+    // Paging 3
+    implementation("androidx.paging:paging-runtime:3.3.6")
+    implementation("androidx.paging:paging-compose:3.3.6")
+
+    // Glance (홈 위젯)
+    implementation("androidx.glance:glance-appwidget:1.1.1")
+    implementation("androidx.glance:glance-material3:1.1.1")
+
+    // Coil 3
+    implementation("io.coil-kt.coil3:coil-compose:3.1.0")
+    implementation("io.coil-kt.coil3:coil-network-okhttp:3.1.0")
+    implementation("io.coil-kt.coil3:coil-gif:3.1.0")
+
+    // Lottie
+    implementation("com.airbnb.android:lottie-compose:6.6.0")
+
+    // Media3
+    implementation("androidx.media3:media3-exoplayer:1.5.1")
+    implementation("androidx.media3:media3-ui:1.5.1")
+    implementation("androidx.media3:media3-session:1.5.1")
+
+    // LeakCanary (debug only)
+    debugImplementation("com.squareup.leakcanary:leakcanary-android:2.14")
+
+    // React Native
+    implementation("com.facebook.react:react-android")
+
+    // Sentry
+    implementation("io.sentry:sentry-android:7.12.0")
+
+    // Compose 디버그 도구 (debug only)
+    debugImplementation("androidx.compose.ui:ui-tooling")
+    debugImplementation("androidx.compose.ui:ui-test-manifest")
+}
+
+apply plugin: 'com.google.gms.google-services'
+apply plugin: 'com.google.firebase.crashlytics'
+apply plugin: 'com.google.firebase.firebase-perf'
+
+afterEvaluate {
+    android.applicationVariants.all { variant ->
+        def variantName = variant.name.capitalize()
+        def sqlDelightTask = tasks.findByName("generate${variantName}RPDatabaseInterface")
+        if (sqlDelightTask) {
+            tasks.findByName("ksp${variantName}Kotlin")?.dependsOn(sqlDelightTask)
+        }
+    }
+}
+
+configurations.all {
+    exclude group: 'com.caverock', module: 'androidsvg'
+    exclude group: 'com.tencent', module: 'mmkv'
+    resolutionStrategy.cacheChangingModulesFor 24, 'hours'
+    resolutionStrategy.force 'androidx.work:work-runtime:2.8.0'
+    resolutionStrategy.force 'androidx.work:work-runtime-ktx:2.8.0'
+}

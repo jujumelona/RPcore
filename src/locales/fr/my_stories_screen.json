@@ -1,0 +1,10 @@
+{
+  "myStoriesTotal": "Total",
+  "myStoriesPublished": "Publi?es",
+  "myStoriesViews": "Vues",
+  "myStoriesLikes": "J'aime",
+  "myStoriesDraftCount": "Brouillons {n}",
+  "deleteSelectedTitle": "Supprimer les histoires",
+  "deleteSelectedConfirm": "Supprimer {n} histoires ?\nLes histoires supprim?es ne peuvent pas ?tre r?cup?r?es.",
+  "deleteFailed": "?chec de la suppression."
+}

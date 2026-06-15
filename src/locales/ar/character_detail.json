@@ -1,0 +1,19 @@
+{
+  "emotionState": "حالة المشاعر",
+  "innerState": "الحالة الداخلية الحالية للشخصية",
+  "tapFullscreen": "انقر للشاشة الكاملة",
+  "representative": "الممثل",
+  "basicInfo": "المعلومات الأساسية",
+  "personality": "الشخصية",
+  "habitsFeatures": "العادات والسمات",
+  "currentSituation": "الوضع الحالي",
+  "like": "إعجاب",
+  "namePlaceholder": "الاسم",
+  "agePlaceholder": "العمر",
+  "genderPlaceholder": "الجنس",
+  "jobPlaceholder": "المهنة",
+  "viewAll": "عرض الكل",
+  "player": "اللاعب",
+  "aiCharacter": "شخصية ذكاء اصطناعي",
+  "photos": "الصور"
+}

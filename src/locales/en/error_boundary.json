@@ -1,0 +1,17 @@
+{
+  "engineErrorFatal": "An AI engine error has occurred",
+  "engineErrorUnstable": "The AI engine is temporarily unstable",
+  "engineRestartHint": "Please restart the engine.",
+  "engineMemoryHint": "Please try clearing memory.",
+  "engineClearingMem": "Clearing...",
+  "engineClearMemBtn": "Clear Memory",
+  "engineRestartingBtn": "Restarting...",
+  "engineRestartBtn": "Restart Engine",
+  "unexpectedError": "An unexpected error occurred",
+  "componentLabel": "Component",
+  "errorMessageLabel": "Error Message",
+  "errorStackLabel": "Error Stacktrace",
+  "componentErrorLabel": "Component Error",
+  "retryWithCount": "Retry ({count})",
+  "maxRetriesExceeded": "Maximum retry attempts exceeded. Please restart the app."
+}

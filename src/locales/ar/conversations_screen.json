@@ -1,0 +1,18 @@
+{
+  "conversations2": "المحادثات",
+  "scraps": "المقتطفات",
+  "noScraps2": "لا توجد محادثات محفوظة",
+  "searchPlaceholder": "بحث",
+  "browseStories": "استعرض القصص",
+  "searchConversations": "ابحث في المحادثات...",
+  "numUnreadMessages": "{n} غير مقروءة",
+  "deleteConv": "حذف المحادثة",
+  "latestOrder": "الأحدث",
+  "noSearchResults2": "لم يتم العثور على نتائج",
+  "swipeToDelete": "اسحب للحذف",
+  "searchNoResultsSubtitle": "جرّب كلمة بحث أخرى",
+  "homeToStartChat": "اختر قصة من الصفحة الرئيسية لبدء أول محادثة لك",
+  "exploreStories": "استعرض القصص",
+  "deletedConv": "تم حذف \"{n}\"",
+  "undo": "تراجع"
+}

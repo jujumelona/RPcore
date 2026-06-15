@@ -1,0 +1,20 @@
+{
+  "story": "故事",
+  "storyLoading": "故事加载中...",
+  "storyCreating": "故事生成中...",
+  "startStory": "开始故事",
+  "continueHere": "从这里继续",
+  "chapter": "章节",
+  "characters": "登场人物",
+  "character": "角色",
+  "myStories": "我的故事",
+  "ongoingStories": "进行中的故事",
+  "recommendedStories": "推荐故事",
+  "reportStory": "举报故事",
+  "blockStory": "屏蔽故事",
+  "storyProgress": "进度",
+  "progressRate": "进度",
+  "endingsFound": "已解锁结局",
+  "messageCount": "对话数",
+  "visitedChapters": "已访问章节"
+}

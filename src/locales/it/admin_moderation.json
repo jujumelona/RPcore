@@ -1,0 +1,66 @@
+{
+  "statusLabels": {
+    "open": "Aperto",
+    "reviewing": "In revisione",
+    "resolved": "Risolto",
+    "rejected": "Rifiutato",
+    "auto_hidden": "Nascosto automaticamente"
+  },
+  "priorityLabels": {
+    "critical": "Critico",
+    "high": "Alto",
+    "medium": "Medio",
+    "low": "Basso"
+  },
+  "targetTypeLabels": {
+    "story": "Storia",
+    "post": "Post",
+    "user": "Utente",
+    "comment": "Commento"
+  },
+  "filterActionable": "Azione richiesta",
+  "filterAll": "Tutti",
+  "hintLabels": {
+    "immediate_escalation": "Richiede escalation immediata",
+    "already_hidden_pending_review": "Già nascosto, in attesa di revisione",
+    "high_risk_reason": "Motivo ad alto rischio nella coda operativa",
+    "aged_unresolved_report": "Segnalazione datata non risolta",
+    "needs_follow_up_soon": "Richiede un rapido follow-up",
+    "standard_moderation_review": "Revisione di moderazione standard"
+  },
+  "systemResolutionNotes": {
+    "open": "L’amministratore mobile ha riaperto la segnalazione.",
+    "reviewing": "L’amministratore mobile ha avviato la revisione.",
+    "resolved": "L’amministratore mobile ha risolto la segnalazione.",
+    "rejected": "L’amministratore mobile ha rifiutato la segnalazione.",
+    "auto_hidden": "L’amministratore mobile ha nascosto il contenuto."
+  },
+  "noReportDetail": "Nessuna nota dettagliata sulla segnalazione.",
+  "reportPrefix": "Segnalazione",
+  "reporterPrefix": "Segnalante",
+  "assigneePrefix": "Assegnato a",
+  "resolutionLabel": "Nota di risoluzione",
+  "actionReview": "Rivedi",
+  "actionHide": "Nascondi",
+  "actionResolve": "Risolvi",
+  "actionReject": "Rifiuta",
+  "actionReopen": "Riapri",
+  "changingStatus": "Aggiornamento dello stato...",
+  "reportQueueTitle": "Coda delle segnalazioni",
+  "actionableLabel": "Azione richiesta",
+  "criticalLabel": "Critico",
+  "autoHiddenLabel": "Nascosto automaticamente",
+  "moderationQueueSummaryTitle": "Riepilogo della coda di moderazione",
+  "immediateActionLabel": "Azione immediata",
+  "importantReportsLabel": "Segnalazioni critiche",
+  "totalReportsLabel": "Totale segnalazioni",
+  "currentResultsLabel": "Risultati attuali",
+  "reportSearchPlaceholder": "Cerca titolo, ID, motivo o nota della segnalazione",
+  "noReports": "Al momento non ci sono segnalazioni da esaminare.",
+  "noMatchingReports": "Nessuna segnalazione corrisponde ai filtri selezionati.",
+  "statusChangeTitle": "Modifica stato della segnalazione",
+  "statusChangeMessage": "Modificare la segnalazione di \"{target}\" in \"{status}\"?",
+  "statusChangeConfirm": "Modifica",
+  "statusChangeFailedTitle": "Modifica non riuscita",
+  "statusChangeFailedBody": "Impossibile aggiornare lo stato della segnalazione. Riprova."
+}

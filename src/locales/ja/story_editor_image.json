@@ -1,0 +1,8 @@
+{
+  "imgPermTitle": "画像アクセス権限",
+  "imgPermMsg": "ギャラリーへのアクセスが必要です。",
+  "imgPermAllow": "許可",
+  "imgPermDeny": "拒否",
+  "imgPermNeeded": "ギャラリーへのアクセス権限がありません。",
+  "imgPermLibrary": "react-native-image-pickerのインストールが必要です。"
+}

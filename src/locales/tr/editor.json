@@ -1,0 +1,17 @@
+{
+  "worldSetting": "Dünya Ayarları",
+  "worldSettingHint": "Yalnızca tüm bölümlerde değişmeyen ayarları yazın.\nBölüme göre değişen bilgiler bölüm ek bilgi alanına gider.",
+  "personality": "Kişilik",
+  "speechPattern": "Konuşma/Davranış biçimi",
+  "habit": "Alışkanlıklar",
+  "currentSituation": "Mevcut durum",
+  "initialEmotion": "Kullanıcıya ilk duygu",
+  "chapterGoal": "Bölüm hedefi",
+  "triggerCondition": "Tetikleyici koşul",
+  "background": "Arka plan",
+  "additionalInfo": "Ek bilgi",
+  "gender": "Cinsiyet",
+  "genderMale": "Erkek",
+  "genderFemale": "Kadın",
+  "genderOther": "Diğer"
+}

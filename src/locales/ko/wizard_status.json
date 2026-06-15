@@ -1,0 +1,15 @@
+{
+  "wizardInitStatus": "모델 초기화 중...",
+  "wizardLoadingStatus": "모델 로딩 중...",
+  "wizardReadyStatus": "준비 완료",
+  "wizardModuleError": "네이티브 모듈 없음",
+  "wizardInitFail": "초기화 실패",
+  "wizardNoModel": "AI 모델이 다운로드되어 있지 않아요. 마이페이지에서 먼저 다운로드해 주세요.",
+  "wizardGenTitle": "스토리 제작 중...",
+  "wizardGenSub": "AI가 스토리 에디터 양식을 채우고 있어요",
+  "wizardGenSubLong": "분량이 많아 시간이 걸릴 수 있어요",
+  "wizardGenSubWait": "잠시만 기다려주세요",
+  "wizardErrTitle": "오류 발생",
+  "wizardErrRetry": "다시 시도",
+  "wizardPctComplete": "% 완료"
+}

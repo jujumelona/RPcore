@@ -1,0 +1,12 @@
+{
+  "emoE1Neg": "Haine(-100)",
+  "emoE1Pos": "Sympathie(+100)",
+  "emoE2Neg": "Méfiance(-100)",
+  "emoE2Pos": "Confiance(+100)",
+  "emoE3Neg": "Inférieur/Soumis(-100)",
+  "emoE3Pos": "Supérieur/Dominant(+100)",
+  "emoE4Neg": "Calme/Léthargique(-100)",
+  "emoE4Pos": "Intense/Explosif(+100)",
+  "emoE5Neg": "Distant(-100)",
+  "emoE5Pos": "Attaché/Obsédé(+100)"
+}

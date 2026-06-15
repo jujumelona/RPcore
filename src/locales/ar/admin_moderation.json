@@ -1,0 +1,66 @@
+{
+  "statusLabels": {
+    "open": "مفتوح",
+    "reviewing": "قيد المراجعة",
+    "resolved": "تم الحل",
+    "rejected": "مرفوض",
+    "auto_hidden": "مخفي تلقائياً"
+  },
+  "priorityLabels": {
+    "critical": "حرج",
+    "high": "مرتفع",
+    "medium": "متوسط",
+    "low": "منخفض"
+  },
+  "targetTypeLabels": {
+    "story": "قصة",
+    "post": "منشور",
+    "user": "مستخدم",
+    "comment": "تعليق"
+  },
+  "filterActionable": "يتطلب إجراء",
+  "filterAll": "الكل",
+  "hintLabels": {
+    "immediate_escalation": "يتطلب تصعيداً فورياً",
+    "already_hidden_pending_review": "تم إخفاؤه بالفعل وهو بانتظار المراجعة",
+    "high_risk_reason": "سبب عالي الخطورة في طابور المشغلين",
+    "aged_unresolved_report": "بلاغ قديم غير محلول",
+    "needs_follow_up_soon": "يحتاج إلى متابعة قريباً",
+    "standard_moderation_review": "مراجعة إشراف قياسية"
+  },
+  "systemResolutionNotes": {
+    "open": "أعاد المشرف على الهاتف فتح البلاغ.",
+    "reviewing": "بدأ المشرف على الهاتف المراجعة.",
+    "resolved": "حلّ المشرف على الهاتف البلاغ.",
+    "rejected": "رفض المشرف على الهاتف البلاغ.",
+    "auto_hidden": "أخفى المشرف على الهاتف المحتوى."
+  },
+  "noReportDetail": "لم يتم توفير ملاحظة تفصيلية للبلاغ.",
+  "reportPrefix": "بلاغ",
+  "reporterPrefix": "المبلّغ",
+  "assigneePrefix": "المكلّف",
+  "resolutionLabel": "ملاحظة الحل",
+  "actionReview": "مراجعة",
+  "actionHide": "إخفاء",
+  "actionResolve": "حل",
+  "actionReject": "رفض",
+  "actionReopen": "إعادة فتح",
+  "changingStatus": "جارٍ تحديث الحالة...",
+  "reportQueueTitle": "طابور البلاغات",
+  "actionableLabel": "يتطلب إجراء",
+  "criticalLabel": "حرج",
+  "autoHiddenLabel": "مخفي تلقائياً",
+  "moderationQueueSummaryTitle": "ملخص طابور الإشراف",
+  "immediateActionLabel": "إجراء فوري",
+  "importantReportsLabel": "البلاغات الحرجة",
+  "totalReportsLabel": "إجمالي البلاغات",
+  "currentResultsLabel": "النتائج الحالية",
+  "reportSearchPlaceholder": "ابحث في عنوان البلاغ أو المعرف أو السبب أو الملاحظة",
+  "noReports": "لا توجد بلاغات للمراجعة حالياً.",
+  "noMatchingReports": "لا توجد بلاغات تطابق عوامل التصفية المحددة.",
+  "statusChangeTitle": "تغيير حالة البلاغ",
+  "statusChangeMessage": "هل تريد تغيير بلاغ \"{target}\" إلى \"{status}\"؟",
+  "statusChangeConfirm": "تغيير",
+  "statusChangeFailedTitle": "فشل التغيير",
+  "statusChangeFailedBody": "تعذر تحديث حالة البلاغ. يرجى المحاولة مرة أخرى."
+}

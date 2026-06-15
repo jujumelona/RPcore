@@ -1,0 +1,12 @@
+{
+  "wizardBranchQ": "분기 선택지를 얼마나 자주 넣을까요?",
+  "wizardBranchHint": "선택지가 생기면 독자가 직접 이야기 방향을 결정할 수 있어요. 선택마다 다음 스토리 경로가 달라집니다.",
+  "wizardBranchNoneLabel": "거의 없음",
+  "wizardBranchNoneDesc": "직선적인 스토리, 분기 선택지 없음",
+  "wizardBranchRareLabel": "가끔",
+  "wizardBranchRareDesc": "2~3챕터마다 주요 분기 1번",
+  "wizardBranchModLabel": "적당히",
+  "wizardBranchModDesc": "챕터마다 최소 1번 이상 선택지 등장",
+  "wizardBranchFreqLabel": "자주",
+  "wizardBranchFreqDesc": "대화 중간중간 선택지가 자주 등장"
+}

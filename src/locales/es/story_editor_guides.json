@@ -1,0 +1,21 @@
+{
+  "guideStoryTitle": "El título que se muestra en la lista de historias.\nej. Matrimonio por contrato con el arrogante duque",
+  "guideStoryDesc": "La introducción que aparece bajo la portada de la historia.\nEscribe una o dos frases para enganchar a los lectores.",
+  "guideStoryHashtag": "Introduce etiquetas que empiecen con # separadas por comas o espacios.\nej. #romance #obsesión #fantasía",
+  "guideStoreCover": "La imagen de portada mostrada en la lista de historias.\n\nRelación recomendada: 2:3 (vertical, ej. 400×600px)\n→ Optimizado para diseño vertical de tarjeta\n→ Las imágenes horizontales pueden recortarse arriba/abajo",
+  "guideCharName": "El nombre del personaje.",
+  "guideCharImage": "Imagen de perfil del personaje (máx. 5).\nLa primera imagen se usa como predeterminada.\nToca  en la esquina superior derecha para eliminarla.\n\nRelación recomendada: 1:1 o 3:4\n→ Optimizado para recorte circular de perfil\n→ Recomendado con el rostro al centro",
+  "guideCharEmotion": "Establece la emoción inicial de este personaje hacia el usuario (tú).\nArrstra o toca el círculo para ajustar.\nLas emociones positivas se acercan a +100, las negativas a -100.",
+  "guideCharPersonality": "Describe detalladamente la personalidad y el estilo de habla de este personaje.",
+  "guideCharExample": "Escribe un breve ejemplo de situación que muestre el estilo de habla y personalidad.",
+  "guideCoreKeywords": "Introduce palabras clave (separadas por comas) que activan el envío de este Core al AI.",
+  "guideCoreContent": "El contenido enviado al AI cuando se detecta una palabra clave.",
+  "guideWorldSetting": "Escribe solo el lore que no cambia en ningún capítulo.\nEs un prompt fijo que el AI siempre consulta.\n※ La información que cambia por capítulo va en el campo de Información Extra.",
+  "guideAiGoal": "Escribe el propósito o dirección del AI en este capítulo.\nej. Intenta ganarse la confianza del protagonista, pero mantiene distancia por miedo a que su pasado salga a la luz.",
+  "guideCharGoal": "El objetivo de este personaje en este capítulo.\nCada personaje puede tener objetivos diferentes, creando una historia más compleja.\nej. Se acerca al protagonista para robar un documento secreto.",
+  "guidePrevSummary": "Eventos clave que el AI debe recordar del capítulo anterior.\nUsado por el AI para entender la continuidad.\nEs mejor ser breve y enfocarse en eventos, relaciones y cambios emocionales clave.",
+  "guideChapterInfo": "Cambios o información adicional que el AI debe conocer en este capítulo.\n※ Este campo se reinicia cuando cambia el capítulo.",
+  "guideChapterTrigger": "La condición que activa el siguiente capítulo.\nAñade múltiples condiciones — cualquiera de ellas puede activar la transición.\n\nCombina Caché agotada con condiciones de emoción o conteo de conversación para mejor retención de memoria.",
+  "guideIntro": "El primer contenido que aparece cuando comienza el chat.\nToca los botones Narración / Personaje / Usuario para añadir como burbuja de diálogo.\nPensamiento interno: ##texto## | Acción: **texto**",
+  "guideBackground": "Establece la imagen de fondo del juego.\nAñade múltiples condiciones — cualquier condición OR activa un cambio de fondo.\n\nRelación recomendada: 9:16 (pantalla completa vertical, ej. 1080×1920px)\n→ Ajusta a pantalla completa de smartphone\n→ El formato 16:9 puede mostrar barras negras arriba/abajo"
+}

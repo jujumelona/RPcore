@@ -1,0 +1,10 @@
+{
+  "wizardTokenQ": "Select AI generation length",
+  "wizardTokenHint": "1 token approx 0.5-1 character. More tokens = more detail but longer wait.",
+  "wizardTokenFastDesc": "Fast, short & brief",
+  "wizardTokenNormalDesc": "Normal, balanced",
+  "wizardTokenDetailDesc": "Detailed, vivid description",
+  "wizardTokenFullDesc": "Very detailed, takes longer",
+  "wizardTokenUnit": "tokens",
+  "wizardTokenDirect": "Or type directly (512-8192)"
+}

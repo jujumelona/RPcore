@@ -1,0 +1,8 @@
+{
+  "imgPermTitle": "圖片存取權限",
+  "imgPermMsg": "需要相簿存取權限。",
+  "imgPermAllow": "允許",
+  "imgPermDeny": "拒絕",
+  "imgPermNeeded": "需要相簿存取權限。",
+  "imgPermLibrary": "需要react-native-image-picker。"
+}

@@ -1,0 +1,20 @@
+{
+  "backupRestoreTitle": "النسخ الاحتياطي / الاستعادة",
+  "selectSections": "العناصر المضمنة",
+  "backup_settings": "الإعدادات",
+  "backup_readingStats": "الإحصائيات",
+  "backup_contentFilterRules": "الفلاتر",
+  "backup_notificationPrefs": "الإشعارات",
+  "backup_drafts": "المسودات",
+  "backupBtn": "تصدير النسخة",
+  "restoreBtn": "استعادة",
+  "backupSuccess": "تم حفظ النسخة",
+  "backupFailed": "فشل الحفظ",
+  "restoreConfirmTitle": "تأكيد الاستعادة",
+  "restoreConfirmMsg": "سيتم الكتابة فوق البيانات المحددة. متابعة؟",
+  "restoreSuccess": "اكتملت الاستعادة",
+  "noFileSelected": "لم يتم اختيار ملف",
+  "invalidBackup": "ملف نسخة غير صالح",
+  "cancel": "إلغاء",
+  "backupHint": "يتم حفظ النسخ في مجلد التنزيلات."
+}

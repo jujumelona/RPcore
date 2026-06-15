@@ -1,0 +1,10 @@
+{
+  "createTab": "作成",
+  "createTip": "希望のストーリーやジャンルを自由に書いてください。\nAIが作成ページを自動入力します。",
+  "tempSave": "下書き保存",
+  "publish": "投稿する",
+  "title": "タイトル",
+  "description": "説明",
+  "tags": "タグ",
+  "generate": "生成"
+}

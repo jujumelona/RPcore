@@ -1,0 +1,18 @@
+{
+  "languageSettings": "Dil Ayarları",
+  "appLanguage": "Uygulama Dili",
+  "aiLanguage": "AI Yanıt Dili",
+  "languageChanged": "Dil Değiştirildi",
+  "syncLanguages": "Uygulama ve AI Dilini Senkronize Et",
+  "syncDone": "Diller senkronize edildi!",
+  "alsoChangeAI": "AI dili de değiştirilsin mi?",
+  "aiWillRespond": "AI şu dilde yanıt verecek:",
+  "languageTip": "İpucu: Uygulama dili ve AI dilini ayrı ayrı ayarlayabilirsiniz.",
+  "languageSystemTitle": "Dil Zorunluluk Sistemi",
+  "langFeature1": "• AI yalnızca seçilen dilde yanıt verir",
+  "langFeature2": "• Başka bir dilde yazsan bile çalışır",
+  "langFeature3": "• %99+ doğruluk garantisi",
+  "langFeature4": "• Gerçek zamanlı dil doğrulama",
+  "autoDetected": "Konumunuza göre otomatik tespit edildi",
+  "rtlSupportLabel": "RTL Destegi"
+}

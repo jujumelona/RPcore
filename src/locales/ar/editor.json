@@ -1,0 +1,17 @@
+{
+  "worldSetting": "إعدادات العالم",
+  "worldSettingHint": "اكتب فقط الإعدادات الثابتة في جميع الفصول.\nالمعلومات التي تتغير بكل فصل تذهب إلى حقل المعلومات الإضافية للفصل.",
+  "personality": "الشخصية",
+  "speechPattern": "طريقة الكلام/التصرف",
+  "habit": "العادات",
+  "currentSituation": "الوضع الحالي",
+  "initialEmotion": "المشاعر الأولية تجاه المستخدم",
+  "chapterGoal": "هدف الفصل",
+  "triggerCondition": "شرط التنشيط",
+  "background": "الخلفية",
+  "additionalInfo": "معلومات إضافية",
+  "gender": "الجنس",
+  "genderMale": "ذكر",
+  "genderFemale": "أنثى",
+  "genderOther": "آخر"
+}

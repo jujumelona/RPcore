@@ -1,0 +1,9 @@
+{
+  "inputPlaceholder": "輸入訊息...",
+  "inputConvertingNovel": "轉換中...",
+  "inputModelLoading": "載入模型中...",
+  "inputGpuPreparing": "準備GPU...",
+  "inputTyping": "{char} 回覆中...",
+  "inputChoosing": "請選擇一個選項",
+  "inputReplyingTo": "回覆@{name}"
+}

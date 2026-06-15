@@ -1,0 +1,16 @@
+{
+  "cacheTitle": "缓存管理",
+  "totalCache": "总缓存",
+  "cache_images": "图片缓存",
+  "cache_chapters": "章节缓存",
+  "cache_temp": "临时文件",
+  "cache_logs": "日志",
+  "cacheClearTitle": "清除缓存",
+  "cacheClearMsg": "将被删除，继续吗？",
+  "cacheClearAllTitle": "清除全部",
+  "cacheClearAllMsg": "删除所有缓存？",
+  "delete": "删除",
+  "deleteAll": "全部删除",
+  "cancel": "取消",
+  "clearAllCache": "清除所有缓存"
+}

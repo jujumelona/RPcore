@@ -1,0 +1,8 @@
+{
+  "modelNameMini": "Mini Model (270M)",
+  "modelNameLight": "Hafif Model",
+  "modelNameStandard": "Standart Model",
+  "modelNamePro": "Pro Model",
+  "modelNameReasoning": "Akıl Yürütme Modeli (E2B)",
+  "modelNameEmergency": "Acil Model (270M)"
+}

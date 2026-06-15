@@ -1,0 +1,15 @@
+{
+  "tabNotification": "Benachrichtigungen",
+  "tabAnnouncement": "Ankündigungen",
+  "noNotifications": "Keine Benachrichtigungen",
+  "noAnnouncements": "Keine Ankündigungen",
+  "notifReadAll": "Alle als gelesen markieren",
+  "notifEmptySub": "Neue Aktivitäten werden hier angezeigt",
+  "timeJustNow": "gerade eben",
+  "timeMinAgo": "vor {n} Min.",
+  "timeHourAgo": "vor {n} Std.",
+  "timeDayAgo": "vor {n} Tagen",
+  "noRecentSearches": "Keine aktuellen Suchen",
+  "noRecentSearchesSub": "Nach Geschichten, Autoren oder Hashtags suchen",
+  "rtlLayout": "ltr"
+}

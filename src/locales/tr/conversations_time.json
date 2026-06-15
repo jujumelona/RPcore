@@ -1,0 +1,7 @@
+{
+  "timeJustNowShort": "Az önce",
+  "timeMinAgoShort": "{n} dk önce",
+  "timeHourAgoShort": "{n} sa önce",
+  "timeDayAgoShort": "{n} gün önce",
+  "timeWeekAgoShort": "{n} hf önce"
+}

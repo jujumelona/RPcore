@@ -1,0 +1,9 @@
+{
+  "inputPlaceholder": "اكتب رسالة...",
+  "inputConvertingNovel": "جارٍ التحويل...",
+  "inputModelLoading": "تحميل النموذج...",
+  "inputGpuPreparing": "تحضير GPU...",
+  "inputTyping": "{char} يرد...",
+  "inputChoosing": "الرجاء اختيار خيار",
+  "inputReplyingTo": "رداً على @{name}"
+}

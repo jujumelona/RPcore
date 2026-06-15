@@ -1,0 +1,17 @@
+{
+  "worldSetting": "世界観設定",
+  "worldSettingHint": "チャプターを通じて変わらない不変の設定のみ記入してください。\nチャプターごとに変わる情報はチャプタータブの追加情報欄に記入してください。",
+  "personality": "性格",
+  "speechPattern": "口調/行動",
+  "habit": "癖/習慣",
+  "currentSituation": "現在の状況",
+  "initialEmotion": "ユーザーへの初期感情",
+  "chapterGoal": "チャプター目標",
+  "triggerCondition": "切り替え条件",
+  "background": "背景",
+  "additionalInfo": "追加情報",
+  "gender": "性別",
+  "genderMale": "男性",
+  "genderFemale": "女性",
+  "genderOther": "その他"
+}

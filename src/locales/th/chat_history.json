@@ -1,0 +1,12 @@
+{
+  "historySearchTitle": "ค้นหาประวัติ",
+  "searchPlaceholder": "ค้นหาในแชท...",
+  "filterAll": "ทั้งหมด",
+  "resultCount": "{n} ผลลัพธ์",
+  "noSearchResult": "ไม่พบผลลัพธ์",
+  "noSearchResultHint": "ลองใช้คำค้นอื่น",
+  "noHistory": "ไม่มีประวัติแชท",
+  "roleUser": "ฉัน",
+  "multiCharTitle": "จัดการตัวละคร",
+  "multiCharEmpty": "ไม่มีตัวละครที่ลงทะเบียน"
+}

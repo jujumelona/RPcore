@@ -1,0 +1,10 @@
+{
+  "myStoriesTotal": "Total",
+  "myStoriesPublished": "Published",
+  "myStoriesViews": "Views",
+  "myStoriesLikes": "Likes",
+  "myStoriesDraftCount": "Drafts {n}",
+  "deleteSelectedTitle": "Delete Stories",
+  "deleteSelectedConfirm": "Delete {n} stories?\nDeleted stories cannot be recovered.",
+  "deleteFailed": "Failed to delete."
+}

@@ -1,0 +1,20 @@
+{
+  "backupRestoreTitle": "Sauvegarde / Restauration",
+  "selectSections": "Éléments à inclure",
+  "backup_settings": "Paramètres",
+  "backup_readingStats": "Statistiques",
+  "backup_contentFilterRules": "Filtres",
+  "backup_notificationPrefs": "Notifications",
+  "backup_drafts": "Brouillons",
+  "backupBtn": "Exporter",
+  "restoreBtn": "Restaurer",
+  "backupSuccess": "Sauvegarde réussie",
+  "backupFailed": "Échec de la sauvegarde",
+  "restoreConfirmTitle": "Confirmer la restauration",
+  "restoreConfirmMsg": "Les données sélectionnées seront écrasées. Continuer ?",
+  "restoreSuccess": "Restauration terminée",
+  "noFileSelected": "Aucun fichier sélectionné",
+  "invalidBackup": "Fichier de sauvegarde invalide",
+  "cancel": "Annuler",
+  "backupHint": "Les sauvegardes sont enregistrées dans le dossier Téléchargements."
+}

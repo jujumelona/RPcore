@@ -1,0 +1,20 @@
+{
+  "story": "เรื่อง",
+  "storyLoading": "กำลังโหลดเรื่อง...",
+  "storyCreating": "กำลังสร้างเรื่อง...",
+  "startStory": "เริ่มเรื่อง",
+  "continueHere": "ต่อจากที่นี่",
+  "chapter": "บท",
+  "characters": "ตัวละคร",
+  "character": "ตัวละคร",
+  "myStories": "เรื่องของฉัน",
+  "ongoingStories": "เรื่องที่กำลังดำเนินอยู่",
+  "recommendedStories": "เรื่องแนะนำ",
+  "reportStory": "รายงานเรื่อง",
+  "blockStory": "บล็อกเรื่อง",
+  "storyProgress": "ความคืบหน้า",
+  "progressRate": "ความคืบหน้า",
+  "endingsFound": "ตอนจบที่พบ",
+  "messageCount": "ข้อความ",
+  "visitedChapters": "บทที่เยี่ยมชม"
+}

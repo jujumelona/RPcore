@@ -1,0 +1,16 @@
+{
+  "cacheTitle": "캐시 관리",
+  "totalCache": "총 캐시 사용량",
+  "cache_images": "이미지 캐시",
+  "cache_chapters": "챕터 캐시",
+  "cache_temp": "임시 파일",
+  "cache_logs": "로그",
+  "cacheClearTitle": "캐시 삭제",
+  "cacheClearMsg": "을(를) 삭제하시겠습니까?",
+  "cacheClearAllTitle": "전체 삭제",
+  "cacheClearAllMsg": "모든 캐시를 삭제하시겠습니까?",
+  "delete": "삭제",
+  "deleteAll": "전체 삭제",
+  "cancel": "취소",
+  "clearAllCache": "전체 캐시 삭제"
+}

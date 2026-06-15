@@ -1,0 +1,193 @@
+{
+  "title": "Datenrichtlinie",
+  "lastUpdatedLabel": "Zuletzt aktualisiert",
+  "sensitive": "Sensibel",
+  "dataCollectionTitle": "Datenerhebung und Zweck",
+  "dataIntro": "Wir erfassen nur die Mindestdaten, die fuer den Betrieb der App und die Nutzung deines Kontos auf mehreren Geraeten erforderlich sind.",
+  "dataLocalOnly": "Gespraechsverlauf und heruntergeladene Dateien koennen auf deinem Geraet bleiben, sofern du keine Synchronisierungsfunktion waehlst.",
+  "dataGroups": [
+    {
+      "category": "Kontoinformationen",
+      "items": [
+        {
+          "name": "E-Mail-Adresse",
+          "purpose": "Wird fuer Anmeldung und Kontowiederherstellung verwendet.",
+          "retention": "Wird geloescht, wenn das Konto geloescht wird.",
+          "sensitive": false
+        },
+        {
+          "name": "Nickname und Profilbild",
+          "purpose": "Wird in deinem Profil und in Community-Funktionen angezeigt.",
+          "retention": "Wird geloescht, wenn das Konto geloescht wird.",
+          "sensitive": false
+        }
+      ]
+    },
+    {
+      "category": "Lese- und Chatdaten",
+      "items": [
+        {
+          "name": "Chat- und Leseverlauf",
+          "purpose": "Stellt Gespraeche, Lesezeichen und Lesefortschritt wieder her.",
+          "retention": "Wird entfernt, wenn du das Konto loeschst oder lokale Daten loeschst.",
+          "sensitive": true
+        },
+        {
+          "name": "Bibliotheksaktivitaet",
+          "purpose": "Haelt Favoriten, Folgen und Empfehlungen synchron.",
+          "retention": "Wird geloescht, wenn das Konto geloescht wird.",
+          "sensitive": false
+        }
+      ]
+    },
+    {
+      "category": "Geraetedaten",
+      "items": [
+        {
+          "name": "Geraete-OS und App-Version",
+          "purpose": "Wird fuer Kompatibilitaetspruefungen und Support verwendet.",
+          "retention": "Wird nur so lange gespeichert, wie es fuer Support und Diagnose noetig ist.",
+          "sensitive": false
+        },
+        {
+          "name": "Lokaler Cache",
+          "purpose": "Beschleunigt Laden und Fortsetzen.",
+          "retention": "Wird nach einer Zeit der Inaktivitaet automatisch bereinigt.",
+          "sensitive": true
+        }
+      ]
+    }
+  ],
+  "permissionsTitle": "App-Berechtigungen",
+  "permissionsIntro": "Die folgenden Berechtigungen werden nur angefragt, wenn eine zugehoerige Funktion verwendet wird.",
+  "permissionsDeniedNote": "Wenn du eine optionale Berechtigung ablehnst, funktioniert der Kerndienst weiter, aber diese Funktion kann eingeschraenkt sein.",
+  "permissions": [
+    {
+      "permission": "INTERNET",
+      "android": true,
+      "ios": false,
+      "reason": "Wird benoetigt, um Stories zu laden, deine Bibliothek zu synchronisieren und Netzwerkdienste zu erreichen.",
+      "sensitive": false
+    },
+    {
+      "permission": "Photos / Storage",
+      "android": true,
+      "ios": true,
+      "reason": "Wird nur angefragt, wenn du Dateien auswaehlst oder ein Bild hochlaedst.",
+      "sensitive": true
+    },
+    {
+      "permission": "Notifications",
+      "android": true,
+      "ios": true,
+      "reason": "Wird fuer Ankuendigungen und Updates zu gefolgten Inhalten verwendet.",
+      "sensitive": false
+    },
+    {
+      "permission": "Camera (optional)",
+      "android": true,
+      "ios": true,
+      "reason": "Wird nur angefragt, wenn du ein Profilfoto aufnimmst oder in der App ein Bild hochlaedst.",
+      "sensitive": true
+    }
+  ],
+  "retentionTitle": "Datenaufbewahrung",
+  "retentionRows": [
+    {
+      "label": "Chatverlauf",
+      "value": "Wird auf dem Geraet gespeichert oder mit der Kontoloeschung entfernt."
+    },
+    {
+      "label": "Kontoinfo (Server)",
+      "value": "Wird innerhalb von 30 Tagen nach bestaetigter Loeschung entfernt."
+    },
+    {
+      "label": "Analyseprotokolle",
+      "value": "Werden in aggregierter oder anonymisierter Form bis zu 12 Monate aufbewahrt."
+    },
+    {
+      "label": "Lokaler Cache",
+      "value": "Wird nach Inaktivitaet oder App-Entfernung automatisch geloescht."
+    },
+    {
+      "label": "Verschluesselung",
+      "value": "AES-256 auf dem Server und sichere Geraetespeicherung, sofern verfuegbar."
+    }
+  ],
+  "legalRetention": "Aufzeichnungen, die aus rechtlichen, buchhalterischen oder betrugspraeventiven Gruenden gespeichert werden muessen, werden fuer die erforderliche Dauer aufbewahrt und danach geloescht.",
+  "childPrivacyTitle": "Datenschutz fuer Kinder",
+  "ageRestriction": "Nicht fuer Nutzer unter 13 Jahren bestimmt",
+  "childPrivacyIntro": "Dieser Dienst ist fuer Nutzer ab 13 Jahren bestimmt. Wir erfassen nicht wissentlich personenbezogene Daten von Kindern unter dem jeweils geltenden Mindestalter.",
+  "childPrivacyLawNote": "Wenn du glaubst, dass ein Kind uns versehentlich personenbezogene Daten uebermittelt hat, kontaktiere bitte die untenstehende Adresse, damit wir diese pruefen und loeschen koennen.",
+  "coppaRequestSubject": "Anfrage zur Loeschung von Kinderdaten",
+  "applicableLawsLabel": "Anwendbare Gesetze",
+  "applicableLawsValue": "COPPA (USA), DSGVO Artikel 8 (EU) und lokale Regeln zum Kinderdatenschutz, soweit anwendbar.",
+  "thirdPartyTitle": "Weitergabe an Dritte",
+  "thirdPartyIntro": "Wir teilen begrenzte Daten nur mit Partnern, die uns beim Betrieb des Dienstes, bei der Stabilitaetsmessung oder bei einwilligungsbasierter Werbung helfen.",
+  "thirdParties": [
+    {
+      "name": "Firebase",
+      "purpose": "Authentifizierung, Benachrichtigungen und grundlegende Cloud-Bereitstellung.",
+      "policy": "https://firebase.google.com/support/privacy",
+      "transfers": "Globale Cloud-Regionen"
+    },
+    {
+      "name": "Google AdMob",
+      "purpose": "Bereitstellung zustimmungsbasierter Werbung.",
+      "policy": "https://policies.google.com/privacy",
+      "transfers": "Globale Cloud-Regionen"
+    },
+    {
+      "name": "Sentry",
+      "purpose": "Fehlerberichte und Stabilitaetsueberwachung.",
+      "policy": "https://sentry.io/privacy/",
+      "transfers": "Globale Cloud-Regionen"
+    }
+  ],
+  "transferRegionLabel": "Verarbeitungsregion",
+  "privacyPolicyLabel": "Datenschutzrichtlinie",
+  "deletionTitle": "Loeschung und Austritt",
+  "deletionIntro": "Wenn du eine Loeschung anforderst, werden Kontodaten, Lesefortschritt, Lesezeichen und synchronisierter Verlauf entfernt oder zur Entfernung vorgemerkt.",
+  "deletionBackupNote": "Verschluesselte Backups werden gemaess dem Aufbewahrungsplan des Anbieters geloescht, sobald die Anfrage abgeschlossen ist.",
+  "method1": "Methode 1 - Anfrage per E-Mail",
+  "method1Desc": "Sende eine Loeschanfrage per E-Mail, dann bearbeiten wir sie nach Kontopruefung.",
+  "method2": "Methode 2 - In der App loeschen",
+  "method2Desc": "Wenn du angemeldet bist, loescht die Schaltflaeche unten sofort lokale Daten und startet die Kontoloeschung.",
+  "deleteAccount": "Konto und Daten dauerhaft loeschen",
+  "deleteRequestSubject": "Anfrage zur Datenloeschung",
+  "deleteConfirmTitle": "Konto und Daten loeschen",
+  "deleteConfirmMessage": "Beim Loeschen des Kontos werden auch synchronisierte Daten, Lesefortschritt und lokaler Verlauf entfernt.\nDiese Aktion kann nicht rueckgaengig gemacht werden.\n\nMoechtest du fortfahren?",
+  "deleteConfirmAction": "Dauerhaft loeschen",
+  "cancelAction": "Abbrechen",
+  "okAction": "OK",
+  "deleteErrorTitle": "Loeschung fehlgeschlagen",
+  "deleteError": "Beim Loeschen des Kontos ist ein Problem aufgetreten. Bitte kontaktiere den Support.",
+  "deleteProcessingAnnouncement": "Anfrage zur Kontoloeschung wird verarbeitet.",
+  "deleteCompletedAnnouncement": "Kontoloeschung abgeschlossen.",
+  "rightsTitle": "Deine Rechte",
+  "rights": [
+    {
+      "title": "Auskunft",
+      "desc": "Du kannst eine Kopie der Daten anfordern, die wir ueber dich gespeichert haben."
+    },
+    {
+      "title": "Berichtigung",
+      "desc": "Du kannst die Korrektur unrichtiger oder unvollstaendiger Daten verlangen."
+    },
+    {
+      "title": "Loeschung",
+      "desc": "Du kannst die Loeschung deiner Kontodaten und deines synchronisierten Verlaufs verlangen."
+    },
+    {
+      "title": "Datenuebertragbarkeit",
+      "desc": "Du kannst deine Daten in einem uebertragbaren Format anfordern, soweit dies gilt."
+    }
+  ],
+  "rightsNote": "Um diese Rechte auszuueben, kontaktiere fdje0303@gmail.com. Wir antworten normalerweise innerhalb von 30 Tagen.",
+  "dpoTitle": "Datenschutzbeauftragter",
+  "dpoEmailLabel": "E-Mail",
+  "dpoPolicyWebsiteLabel": "Webseite der Richtlinie",
+  "dpoResponseTimeLabel": "Antwortzeit",
+  "dpoResponseTimeValue": "Innerhalb von 3 Werktagen",
+  "footerLastUpdated": "Datenrichtlinie zuletzt aktualisiert: {date}"
+}

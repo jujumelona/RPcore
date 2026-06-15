@@ -1,0 +1,15 @@
+{
+  "wizardInitStatus": "Modell wird initialisiert...",
+  "wizardLoadingStatus": "Modell wird geladen...",
+  "wizardReadyStatus": "Bereit",
+  "wizardModuleError": "Natives Modul nicht verfügbar",
+  "wizardInitFail": "Initialisierung fehlgeschlagen",
+  "wizardNoModel": "Kein KI-Modell heruntergeladen. Bitte zur Meine Seite gehen und zuerst eines herunterladen.",
+  "wizardGenTitle": "Geschichte wird erstellt...",
+  "wizardGenSub": "KI füllt den Story-Editor",
+  "wizardGenSubLong": "Hohe Token-Anzahl kann eine Weile dauern",
+  "wizardGenSubWait": "Bitte einen Moment warten",
+  "wizardErrTitle": "Fehler aufgetreten",
+  "wizardErrRetry": "Erneut versuchen",
+  "wizardPctComplete": "% fertig"
+}

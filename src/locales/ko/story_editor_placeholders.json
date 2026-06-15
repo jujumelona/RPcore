@@ -1,0 +1,21 @@
+{
+  "phStoryTitle": "스토리 제목을 입력하세요",
+  "phStoryDesc": "스토리 소개글을 입력하세요",
+  "phStoryHashtag": "#로맨스 #판타지 #집착",
+  "phCharName": "캐릭터 이름",
+  "phPersonality": "성격, 말버릇, 특징 등을 자세히 작성하세요",
+  "phCoreKeyword": "마법학원, academy",
+  "phCoreContent": "이 키워드가 나왔을 때 AI에게 전달할 정보",
+  "phWorldSetting": "스토리의 세계관, 배경, 절대 불변하는 규칙 등을 작성하세요.",
+  "phChapterName": "챕터명",
+  "phAiGoal": "이 챕터에서 AI가 전반적으로 유도해야 할 방향",
+  "phCharGoal": "이 챕터에서의 목적",
+  "phChapterInfo": "이 챕터에서 AI가 알아야 할 변경사항 (챕터 전환 시 초기화)",
+  "phPrevSummary0": "챕터 1 시작 전 배경 사건이나 프롤로그가 있다면 작성하세요.",
+  "phPrevSummary": "이전 챕터에서 AI가 반드시 기억해야 할 핵심 사건/감정 변화를 요약하세요.",
+  "phIntroInput": "내용 입력...",
+  "phBgName": "배경 이름",
+  "phCharGender": "예: 여성, 남성, 논바이너리",
+  "phPersonalityDeep": "내면 동기와 감정 패턴을 중심으로 작성해 주세요",
+  "phCharExample": "대사 2~3줄 정도로 캐릭터 톤을 명확히 보여주세요"
+}

@@ -1,0 +1,14 @@
+{
+  "defaultNotif1Title": "Hoş Geldiniz!",
+  "defaultNotif1Body": "RPcore'a hoş geldiniz. İlk hikayenizi başlatın!",
+  "defaultNotif2Title": "Yeni Hikaye Güncellendi",
+  "defaultNotif2Body": "Takip ettiğiniz bir yazarın yeni hikayesi çıktı!",
+  "defaultNotif3Title": "Popüler Hikaye Önerisi",
+  "defaultNotif3Body": "Şu anda en popüler hikayelere göz atın!",
+  "defaultAnnounce1Title": "RPcore Beta Hizmeti",
+  "defaultAnnounce1Body": "RPcore şu anda beta aşamasındadır. Yeni özellikler sürekli eklenecektir. Sorunlar için destek ekibiyle iletişime geçin.",
+  "defaultAnnounce2Title": "Dil Desteği Genişledi",
+  "defaultAnnounce2Body": "Artık 15 dili destekliyor. Ayarlar > Dil Ayarları bölümünden uygulama ve AI yanıt dilini ayrı ayrı ayarlayabilirsiniz.",
+  "defaultAnnounce3Title": "Topluluk Kuralları",
+  "defaultAnnounce3Body": "Topluluklar dile göre ayrı işletilmektedir. Diğer dil topluluklarını ziyaret edebilirsiniz, ancak lütfen o dilde yayın yapın."
+}

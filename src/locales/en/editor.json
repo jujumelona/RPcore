@@ -1,0 +1,17 @@
+{
+  "worldSetting": "World Setting",
+  "worldSettingHint": "Write only the unchanging lore. Chapter-specific info goes in the chapter's info field.",
+  "personality": "Personality",
+  "speechPattern": "Speech Pattern",
+  "habit": "Habits",
+  "currentSituation": "Current Situation",
+  "initialEmotion": "Initial Emotion toward User",
+  "chapterGoal": "Chapter Goal",
+  "triggerCondition": "Trigger Condition",
+  "background": "Background",
+  "additionalInfo": "Additional Info",
+  "gender": "Gender",
+  "genderMale": "Male",
+  "genderFemale": "Female",
+  "genderOther": "Other"
+}

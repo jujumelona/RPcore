@@ -1,0 +1,15 @@
+{
+  "tabNotification": "การแจ้งเตือน",
+  "tabAnnouncement": "ประกาศ",
+  "noNotifications": "ไม่มีการแจ้งเตือน",
+  "noAnnouncements": "ไม่มีประกาศ",
+  "notifReadAll": "ทำเครื่องหมายทั้งหมดว่าอ่านแล้ว",
+  "notifEmptySub": "กิจกรรมใหม่จะปรากฏที่นี่",
+  "timeJustNow": "เมื่อกี้",
+  "timeMinAgo": "{n} นาทีที่แล้ว",
+  "timeHourAgo": "{n} ชั่วโมงที่แล้ว",
+  "timeDayAgo": "{n} วันที่แล้ว",
+  "noRecentSearches": "ไม่มีการค้นหาล่าสุด",
+  "noRecentSearchesSub": "ค้นหาเรื่อง ผู้แต่ง หรือแฮชแท็ก",
+  "rtlLayout": "ltr"
+}

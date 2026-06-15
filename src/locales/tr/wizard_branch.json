@@ -1,0 +1,12 @@
+{
+  "wizardBranchQ": "Seçenekler ne sıklıkla görünsün?",
+  "wizardBranchHint": "Seçenekler okuyucuların hikayeyi şekillendirmesini sağlar. Her seçim yolu ve duyguları değiştirir.",
+  "wizardBranchNoneLabel": "Neredeyse Hiç",
+  "wizardBranchNoneDesc": "Doğrusal hikaye, seçenek yok",
+  "wizardBranchRareLabel": "Ara Sıra",
+  "wizardBranchRareDesc": "Her 2-3 bölümde bir büyük seçenek",
+  "wizardBranchModLabel": "Orta",
+  "wizardBranchModDesc": "Her bölümde en az bir seçenek",
+  "wizardBranchFreqLabel": "Sık",
+  "wizardBranchFreqDesc": "Seçenekler konuşma ortasında sık görünür"
+}

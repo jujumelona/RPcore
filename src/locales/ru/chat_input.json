@@ -1,0 +1,9 @@
+{
+  "inputPlaceholder": "Введите сообщение...",
+  "inputConvertingNovel": "Конвертация...",
+  "inputModelLoading": "Загрузка модели...",
+  "inputGpuPreparing": "Подготовка GPU...",
+  "inputTyping": "{char} отвечает...",
+  "inputChoosing": "Пожалуйста, выберите вариант",
+  "inputReplyingTo": "Ответ @{name}"
+}

@@ -1,0 +1,21 @@
+{
+  "adminAnnouncementTitle": "공지 생성",
+  "adminAnnouncementSourceStep": "1. 원문 공지 작성",
+  "adminAnnouncementTranslateStep": "2. 외부 모델로 번역",
+  "adminAnnouncementValidateStep": "3. JSON 붙여넣기 및 검증",
+  "adminAnnouncementSourceTitle": "제목",
+  "adminAnnouncementSourceBody": "본문",
+  "adminAnnouncementTitlePlaceholder": "원문 제목",
+  "adminAnnouncementBodyPlaceholder": "원문 본문",
+  "adminAnnouncementCopyPrompt": "번역 프롬프트 복사",
+  "adminAnnouncementPromptCopied": "프롬프트를 복사했어요. 번역 모델에 붙여 넣어 주세요.",
+  "adminAnnouncementPromptHint": "프롬프트를 복사해 외부에서 번역한 뒤 아래에 JSON 결과를 붙여 넣어 주세요.",
+  "adminAnnouncementValidateJson": "JSON 검증",
+  "adminAnnouncementValidJson": "모든 언어 블록이 올바릅니다.",
+  "adminAnnouncementSubmit": "공지 게시",
+  "adminAnnouncementCreated": "공지가 생성되었어요.",
+  "adminAnnouncementPreview": "번역 미리보기",
+  "adminAnnouncementReady": "게시 전에 JSON을 먼저 검증해 주세요.",
+  "adminAnnouncementParseFailed": "JSON 파싱에 실패했어요. 모델이 반환한 순수 JSON만 붙여 넣어 주세요.",
+  "adminAnnouncementMissingBlocks": "누락된 언어 블록: {codes}"
+}

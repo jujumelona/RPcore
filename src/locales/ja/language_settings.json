@@ -1,0 +1,18 @@
+{
+  "languageSettings": "言語設定",
+  "appLanguage": "アプリ言語",
+  "aiLanguage": "AI応答言語",
+  "languageChanged": "言語を変更しました",
+  "syncLanguages": "アプリとAI言語を同期",
+  "syncDone": "同期完了！",
+  "alsoChangeAI": "AI言語も変更しますか？",
+  "aiWillRespond": "AIが応答する言語:",
+  "languageTip": "ヒント: アプリ言語とAI応答言語を別々に設定できます。",
+  "languageSystemTitle": "言語強制システム",
+  "langFeature1": "• AIは選択した言語のみで応答します",
+  "langFeature2": "• 別の言語で入力しても設定言語で応答",
+  "langFeature3": "• 99%+の精度を保証",
+  "langFeature4": "• リアルタイム言語検証と自動修正",
+  "autoDetected": "位置情報から自動検出",
+  "rtlSupportLabel": "RTL対応"
+}

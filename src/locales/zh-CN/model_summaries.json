@@ -1,0 +1,20 @@
+{
+  "modelSummaryMini1": "RAM 3GB+ · 仅适用于旧款/低端设备",
+  "modelSummaryMini2": "质量非常有限 · 不推荐",
+  "modelSummaryMini3": "~270MB",
+  "modelSummaryLight1": "RAM 6GB+ · GPU/NPU加速",
+  "modelSummaryLight2": " 响应快速 · 适合基础聊天",
+  "modelSummaryLight3": "~700MB",
+  "modelSummaryStandard1": "RAM 8GB+推荐 · GPU/NPU加速",
+  "modelSummaryStandard2": "速度与质量的平衡 · 最适合一般使用",
+  "modelSummaryStandard3": "~2GB",
+  "modelSummaryPro1": "RAM 12GB+ · GPU/NPU加速",
+  "modelSummaryPro2": "最高质量推理",
+  "modelSummaryPro3": "~4GB",
+  "modelSummaryReasoning1": "RAM 8GB+ · HTP / GPU 加速",
+  "modelSummaryReasoning2": "最佳质量 · 推荐",
+  "modelSummaryReasoning3": "~2.5GB · 上下文 8K",
+  "modelSummaryEmergency1": "RAM 4GB+ · CPU 模式",
+  "modelSummaryEmergency2": "省电 · 基础质量",
+  "modelSummaryEmergency3": "~200MB · 上下文 4K"
+}

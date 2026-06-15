@@ -1,0 +1,17 @@
+{
+  "numSaved": "{n} सहेजे गए",
+  "numDeleted": "{n} हटाए गए",
+  "numShared": "{n} साझा किए जा रहे हैं",
+  "novelDeleteTitle": "उपन्यास हटाएं",
+  "novelDeleteMsg": "{n} हटाएं? पूर्ववत नहीं किया जा सकता।",
+  "noWebNovels": "सहेजे गए उपन्यास",
+  "selectAll": "सभी चुनें",
+  "deselectAll": "सभी अचयनित करें",
+  "searchResults": "खोज परिणाम",
+  "returnToOriginal": "मूल स्थिति पर लौटें",
+  "resumeReading": "{n}% पर फिर से शुरू करें",
+  "resumeMove": "जाएं",
+  "resumeClose": "बंद करें",
+  "chapterPrefix": "अध्याय {n}",
+  "chapterAlt": "अध्याय {n}"
+}

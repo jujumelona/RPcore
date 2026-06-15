@@ -1,0 +1,10 @@
+{
+  "headerLangLabel": "翻訳言語: ",
+  "headerRule": "ルール: 元のキーの先頭に LANG_{{言語コード}}_ を付けて出力。{U}/{u} は翻訳禁止。説明・マークダウンなしでキー:値のみ出力。",
+  "ruleStory": "追加ルール: TAGSは # 記号を維持し、自然に翻訳",
+  "ruleCharacter": "追加ルール: 名前は対象言語圏に現地化し、年齢は数字のみ",
+  "ruleIntro": "追加ルール: ナレーター（3人称描写）とキャラクター（1人称台詞）の文体を区別",
+  "speakerNarrator": "ナレーター",
+  "speakerUser": "ユーザー",
+  "speakerCharPrefix": "キャラクター"
+}

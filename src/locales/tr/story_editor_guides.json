@@ -1,0 +1,21 @@
+{
+  "guideStoryTitle": "Hikaye listesinde gösterilen başlık.\nörn. Kibirli Dükle Sözleşmeli Evlilik",
+  "guideStoryDesc": "Hikaye kapağının altında gösterilen tanıtım.\nOkuyucuları çekmek için bir veya iki cümle yazın.",
+  "guideStoryHashtag": "# ile başlayan hashtagleri virgül veya boşlukla ayrılmış olarak girin.\nörn. #romantik #takıntı #fantezi",
+  "guideStoreCover": "Hikaye listesinde gösterilen kapak resmi.\n\nÖnerilen oran: 2:3 (dikey, örn. 400×600px)\n→ Kart stili dikey düzen için optimize edildi\n→ Yatay resimler üstten/alttan kesilebilir",
+  "guideCharName": "Karakterin adı.",
+  "guideCharImage": "Karakter profil resmi (maks 5).\nİlk resim varsayılan olarak kullanılır.\nBir resmi kaldırmak için sağ üstündeki  simgesine dokunun.\n\nÖnerilen oran: 1:1 veya 3:4\n→ Dairesel profil kırpma için optimize edildi\n→ Yüz ortalanmış şekilde kırpın",
+  "guideCharEmotion": "Bu karakterin kullanıcıya olan ilk duygusunu belirler.\nAyarlamak için daireyi sürükleyin veya dokunun.\nPozitif duygular +100'e, negatif duygular -100'e yakındır.",
+  "guideCharPersonality": "Bu karakterin kişiliğini ve konuşma tarzını ayrıntılı olarak açıklayın.",
+  "guideCharExample": "Karakterin konuşma ve kişiliğini gösteren kısa bir örnek durum yazın.",
+  "guideCoreKeywords": "Bu Hikaye Özünün AI'ya gönderilmesini tetikleyecek anahtar kelimeleri girin (virgülle ayrılmış).",
+  "guideCoreContent": "Bir anahtar kelime tespit edildiğinde AI'ya gönderilen içerik.",
+  "guideWorldSetting": "Tüm bölümlerde sabit kalan, değişmeyen bilgileri yazın.\nBu, AI'nin her zaman başvurduğu sabit bir istemdir.\n※ Bölüme göre değişen bilgiler Bölüm Ekstra Bilgi alanına gider.",
+  "guideAiGoal": "AI'nin bu bölümdeki genel amacını veya yönünü yazın.\nörn. Protagonistle güven inşa etmeye çalışır, ancak geçmişinin açığa çıkacağından korkarak mesafe korur.",
+  "guideCharGoal": "Bu karakterin bu bölümde peşinde olduğu hedef.\nHer karakterin farklı hedefleri olabilir, bu da daha katmanlı bir hikaye yaratır.\nörn. Gizli bir belgeyi çalmak için protagoniste yaklaşır.",
+  "guidePrevSummary": "AI'nin önceki bölümden hatırlaması gereken önemli olaylar.\nAI tarafından hikaye sürekliliğini anlamak için kullanılır.\nKısa ve önemli olaylara, ilişki ve duygu değişikliklerine odaklanmak en iyisidir.",
+  "guideChapterInfo": "AI'nin bu bölüm için bilmesi gereken değişiklikler veya ekstra bilgiler.\n※ Bu alan bölüm değiştiğinde sıfırlanır.",
+  "guideChapterTrigger": "Sonraki bölümü tetikleyen koşul.\nBirden fazla koşul ekleyin — herhangi birinin karşılanması geçişi tetikler.\n\nDaha iyi bellek tutma ve daha pürüzsüz ilerleme için Önbellek Tükenmesini duygu veya konuşma sayısı koşullarıyla birleştirin.",
+  "guideIntro": "Sohbet başladığında gösterilen ilk içerik.\nUygun konuşma balonu olarak eklemek için Anlatım / Karakter / Kullanıcı butonlarına dokunun.\nİç düşünce: ##metin## | Eylem: **metin**",
+  "guideBackground": "Oyun için arka plan resmini belirler.\nBirden fazla koşul ekleyin — herhangi bir VEYA koşulu karşılandığında arka plan değişimi tetiklenir.\n\nÖnerilen oran: 9:16 (tam ekran dikey, örn. 1080×1920px)\n→ Akıllı telefon tam ekranına uyar\n→ 16:9 yatay format mektup kutusu efekti gösterebilir"
+}

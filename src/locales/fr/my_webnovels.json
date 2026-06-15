@@ -1,0 +1,17 @@
+{
+  "numSaved": "{n} enregistrés",
+  "numDeleted": "{n} supprimés",
+  "numShared": "Partage de {n}",
+  "novelDeleteTitle": "Supprimer le roman",
+  "novelDeleteMsg": "Supprimer {n} ? Impossible d'annuler.",
+  "noWebNovels": "Romans enregistrés",
+  "selectAll": "Tout sélectionner",
+  "deselectAll": "Tout désélectionner",
+  "searchResults": "Résultats de recherche",
+  "returnToOriginal": "Retour à la position d'origine",
+  "resumeReading": "Reprendre à {n}%",
+  "resumeMove": "Aller",
+  "resumeClose": "Fermer",
+  "chapterPrefix": "Chapitre {n}",
+  "chapterAlt": "Chapitre {n}"
+}

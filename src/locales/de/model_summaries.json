@@ -1,0 +1,20 @@
+{
+  "modelSummaryMini1": "RAM 3GB+ · Solo per dispositivi datati",
+  "modelSummaryMini2": "Qualità molto limitata · Non consigliato",
+  "modelSummaryMini3": "~270MB",
+  "modelSummaryLight1": "RAM 6GB+ · Accelerazione GPU/NPU",
+  "modelSummaryLight2": " Risposta rapida · Buono per chat base",
+  "modelSummaryLight3": "~700MB",
+  "modelSummaryStandard1": "RAM 8GB+ consigliato · Accelerazione GPU/NPU",
+  "modelSummaryStandard2": "Equilibrio velocità/qualità · Uso generale",
+  "modelSummaryStandard3": "~2GB",
+  "modelSummaryPro1": "RAM 12GB+ · Accelerazione GPU/NPU",
+  "modelSummaryPro2": "Inferenza di alta qualità",
+  "modelSummaryPro3": "~4GB",
+  "modelSummaryReasoning1": "RAM 8GB+ · HTP / GPU-Beschleunigung",
+  "modelSummaryReasoning2": "Beste Qualität · Empfohlen",
+  "modelSummaryReasoning3": "~2.5GB · Kontext 8K",
+  "modelSummaryEmergency1": "RAM 4GB+ · CPU-Modus",
+  "modelSummaryEmergency2": "Energieeffizient · Grundlegende Qualität",
+  "modelSummaryEmergency3": "~200MB · Kontext 4K"
+}

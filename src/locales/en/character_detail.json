@@ -1,0 +1,19 @@
+{
+  "emotionState": "Emotion State",
+  "innerState": "Current inner state of the character",
+  "tapFullscreen": "Tap for fullscreen",
+  "representative": "Representative",
+  "basicInfo": "Basic Info",
+  "personality": "Personality",
+  "habitsFeatures": "Habits & Traits",
+  "currentSituation": "Current Situation",
+  "like": "Like",
+  "namePlaceholder": "Name",
+  "agePlaceholder": "Age",
+  "genderPlaceholder": "Gender",
+  "jobPlaceholder": "Job",
+  "viewAll": "View All",
+  "player": "Player",
+  "aiCharacter": "AI Character",
+  "photos": "Photos"
+}

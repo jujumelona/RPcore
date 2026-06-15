@@ -1,0 +1,21 @@
+{
+  "adminAnnouncementTitle": "Créer une annonce",
+  "adminAnnouncementSourceStep": "1. Rédigez l'annonce source",
+  "adminAnnouncementTranslateStep": "2. Traduisez-la avec un modèle externe",
+  "adminAnnouncementValidateStep": "3. Collez et validez le JSON",
+  "adminAnnouncementSourceTitle": "Titre",
+  "adminAnnouncementSourceBody": "Contenu",
+  "adminAnnouncementTitlePlaceholder": "Titre source",
+  "adminAnnouncementBodyPlaceholder": "Contenu source",
+  "adminAnnouncementCopyPrompt": "Copier le prompt de traduction",
+  "adminAnnouncementPromptCopied": "Le prompt a été copié. Collez-le dans votre modèle de traduction.",
+  "adminAnnouncementPromptHint": "Copiez le prompt, traduisez à l'extérieur, puis collez le résultat JSON ci-dessous.",
+  "adminAnnouncementValidateJson": "Valider le JSON",
+  "adminAnnouncementValidJson": "Tous les blocs de langue sont valides.",
+  "adminAnnouncementSubmit": "Publier l'annonce",
+  "adminAnnouncementCreated": "L'annonce a été créée.",
+  "adminAnnouncementPreview": "Aperçu des traductions",
+  "adminAnnouncementReady": "Validez le JSON avant de publier.",
+  "adminAnnouncementParseFailed": "Échec de l'analyse du JSON. Collez uniquement le JSON propre renvoyé par le modèle.",
+  "adminAnnouncementMissingBlocks": "Blocs de langue manquants : {codes}"
+}

@@ -1,0 +1,21 @@
+{
+  "phStoryTitle": "Inserisci il titolo della storia",
+  "phStoryDesc": "Inserisci la descrizione della storia",
+  "phStoryHashtag": "#romance #fantasia #ossessione",
+  "phCharName": "Nome del personaggio",
+  "phPersonality": "Descrivi in dettaglio personalita, modo di parlare e tratti",
+  "phCoreKeyword": "gilda_magica, accademia",
+  "phCoreContent": "Info da inviare all'IA quando appare questa parola chiave",
+  "phWorldSetting": "Scrivi ambientazione, contesto e regole assolute del mondo.",
+  "phChapterName": "Nome del capitolo",
+  "phAiGoal": "Direzione generale che l'IA deve guidare in questo capitolo",
+  "phCharGoal": "Obiettivo in questo capitolo",
+  "phChapterInfo": "Cambiamenti che l'IA deve conoscere (si resetta al cambio capitolo)",
+  "phPrevSummary0": "Se c'e un prologo o un retroscena prima del capitolo 1, scrivilo qui.",
+  "phPrevSummary": "Riassumi eventi chiave e cambiamenti emotivi che l'IA deve ricordare dal capitolo precedente.",
+  "phIntroInput": "Inserisci contenuto...",
+  "phBgName": "Nome sfondo",
+  "phCharGender": "es. Femmina, Maschio, Non binario",
+  "phPersonalityDeep": "Motivazione interiore e schemi emotivi...",
+  "phCharExample": "2-3 battute di dialogo per mostrare il tono del personaggio"
+}

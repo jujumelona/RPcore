@@ -1,0 +1,16 @@
+{
+  "cacheTitle": "Gestión de caché",
+  "totalCache": "Caché total",
+  "cache_images": "Caché de imágenes",
+  "cache_chapters": "Caché de capítulos",
+  "cache_temp": "Archivos temporales",
+  "cache_logs": "Registros",
+  "cacheClearTitle": "Borrar caché",
+  "cacheClearMsg": "se eliminará. ¿Continuar?",
+  "cacheClearAllTitle": "Borrar todo",
+  "cacheClearAllMsg": "¿Eliminar toda la caché?",
+  "delete": "Eliminar",
+  "deleteAll": "Eliminar todo",
+  "cancel": "Cancelar",
+  "clearAllCache": "Borrar toda la caché"
+}

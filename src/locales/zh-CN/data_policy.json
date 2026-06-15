@@ -1,0 +1,193 @@
+{
+  "title": "数据政策",
+  "lastUpdatedLabel": "最后更新",
+  "sensitive": "敏感",
+  "dataCollectionTitle": "数据收集与用途",
+  "dataIntro": "我们只收集运行应用以及让你的账号在多台设备间正常工作所需的最少数据。",
+  "dataLocalOnly": "除非你选择使用同步功能，否则对话记录和已下载文件可能会保留在你的设备上。",
+  "dataGroups": [
+    {
+      "category": "账号信息",
+      "items": [
+        {
+          "name": "电子邮箱地址",
+          "purpose": "用于登录和账号恢复。",
+          "retention": "账号删除时会删除。",
+          "sensitive": false
+        },
+        {
+          "name": "昵称和头像",
+          "purpose": "显示在你的个人资料和社区功能中。",
+          "retention": "账号删除时会删除。",
+          "sensitive": false
+        }
+      ]
+    },
+    {
+      "category": "阅读与聊天数据",
+      "items": [
+        {
+          "name": "聊天与阅读历史",
+          "purpose": "用于恢复对话、书签和阅读进度。",
+          "retention": "当你删除账号或清除本地数据时会移除。",
+          "sensitive": true
+        },
+        {
+          "name": "书库活动",
+          "purpose": "用于同步收藏、关注和推荐。",
+          "retention": "账号删除时会删除。",
+          "sensitive": false
+        }
+      ]
+    },
+    {
+      "category": "设备数据",
+      "items": [
+        {
+          "name": "设备系统和应用版本",
+          "purpose": "用于兼容性检查和支持。",
+          "retention": "仅在支持和诊断所需期间保留。",
+          "sensitive": false
+        },
+        {
+          "name": "本地缓存",
+          "purpose": "用于加快加载和继续阅读。",
+          "retention": "在一段时间未使用后会自动清理。",
+          "sensitive": true
+        }
+      ]
+    }
+  ],
+  "permissionsTitle": "应用权限",
+  "permissionsIntro": "以下权限仅会在使用相关功能时请求。",
+  "permissionsDeniedNote": "如果你拒绝某项可选权限，核心服务仍可继续使用，但该功能可能会受到限制。",
+  "permissions": [
+    {
+      "permission": "INTERNET",
+      "android": true,
+      "ios": false,
+      "reason": "用于加载故事、同步你的书库以及访问网络服务。",
+      "sensitive": false
+    },
+    {
+      "permission": "Photos / Storage",
+      "android": true,
+      "ios": true,
+      "reason": "仅在你选择文件或上传图片时请求。",
+      "sensitive": true
+    },
+    {
+      "permission": "Notifications",
+      "android": true,
+      "ios": true,
+      "reason": "用于公告和已关注内容的更新通知。",
+      "sensitive": false
+    },
+    {
+      "permission": "Camera (optional)",
+      "android": true,
+      "ios": true,
+      "reason": "仅在你拍摄头像或在应用内上传图片时请求。",
+      "sensitive": true
+    }
+  ],
+  "retentionTitle": "数据保留",
+  "retentionRows": [
+    {
+      "label": "聊天记录",
+      "value": "保存在设备上，或在账号删除时一并删除。"
+    },
+    {
+      "label": "账号信息（服务器）",
+      "value": "在确认删除后的 30 天内移除。"
+    },
+    {
+      "label": "分析日志",
+      "value": "以聚合或匿名化形式最多保留 12 个月。"
+    },
+    {
+      "label": "本地缓存",
+      "value": "在长期未使用或卸载应用后自动删除。"
+    },
+    {
+      "label": "加密",
+      "value": "服务器使用 AES-256，并在可用时使用设备安全存储。"
+    }
+  ],
+  "legalRetention": "因法律、会计或防欺诈原因必须保留的记录，会在法定期限内保存，之后删除。",
+  "childPrivacyTitle": "儿童隐私",
+  "ageRestriction": "不面向 13 岁以下用户",
+  "childPrivacyIntro": "本服务面向 13 岁及以上用户。我们不会故意收集低于适用最低年龄儿童的个人数据。",
+  "childPrivacyLawNote": "如果你认为有儿童误向我们提交了个人数据，请通过下方地址联系我们，以便我们审查并删除相关信息。",
+  "coppaRequestSubject": "儿童数据删除请求",
+  "applicableLawsLabel": "适用法律",
+  "applicableLawsValue": "COPPA（美国）、GDPR 第 8 条（欧盟）以及适用地区的儿童隐私规则。",
+  "thirdPartyTitle": "与第三方共享",
+  "thirdPartyIntro": "我们只会与帮助我们运营服务、衡量稳定性或提供基于同意广告的合作伙伴共享有限数据。",
+  "thirdParties": [
+    {
+      "name": "Firebase",
+      "purpose": "身份验证、通知和基础云服务交付。",
+      "policy": "https://firebase.google.com/support/privacy",
+      "transfers": "全球云区域"
+    },
+    {
+      "name": "Google AdMob",
+      "purpose": "基于同意的广告投放。",
+      "policy": "https://policies.google.com/privacy",
+      "transfers": "全球云区域"
+    },
+    {
+      "name": "Sentry",
+      "purpose": "错误报告和稳定性监控。",
+      "policy": "https://sentry.io/privacy/",
+      "transfers": "全球云区域"
+    }
+  ],
+  "transferRegionLabel": "处理区域",
+  "privacyPolicyLabel": "隐私政策",
+  "deletionTitle": "删除与退出",
+  "deletionIntro": "当你请求删除时，账号数据、阅读进度、书签和同步历史会被删除或安排删除。",
+  "deletionBackupNote": "加密备份会在请求完成后按照服务提供方的保留计划删除。",
+  "method1": "方式 1 - 通过电子邮件申请",
+  "method1Desc": "通过电子邮件发送删除申请，我们会在核实账号后处理。",
+  "method2": "方式 2 - 在应用内删除",
+  "method2Desc": "如果你已登录，下方按钮会立即清除本地数据并开始删除账号。",
+  "deleteAccount": "永久删除账号和数据",
+  "deleteRequestSubject": "数据删除请求",
+  "deleteConfirmTitle": "删除账号和数据",
+  "deleteConfirmMessage": "删除账号还会移除同步数据、阅读进度和本地历史。\n此操作无法撤销。\n\n你要继续吗？",
+  "deleteConfirmAction": "永久删除",
+  "cancelAction": "取消",
+  "okAction": "确定",
+  "deleteErrorTitle": "删除失败",
+  "deleteError": "删除账号时出现问题。请联系支持团队。",
+  "deleteProcessingAnnouncement": "正在处理账号删除请求。",
+  "deleteCompletedAnnouncement": "账号删除已完成。",
+  "rightsTitle": "你的权利",
+  "rights": [
+    {
+      "title": "访问",
+      "desc": "你可以请求获取我们持有的你的数据副本。"
+    },
+    {
+      "title": "更正",
+      "desc": "你可以要求我们更正不准确或不完整的数据。"
+    },
+    {
+      "title": "删除",
+      "desc": "你可以请求删除你的账号数据和同步历史。"
+    },
+    {
+      "title": "可携带性",
+      "desc": "在适用情况下，你可以请求以可携带格式获取你的数据。"
+    }
+  ],
+  "rightsNote": "如需行使这些权利，请联系 fdje0303@gmail.com。我们通常会在 30 天内回复。",
+  "dpoTitle": "数据保护负责人",
+  "dpoEmailLabel": "电子邮箱",
+  "dpoPolicyWebsiteLabel": "政策网站",
+  "dpoResponseTimeLabel": "回复时间",
+  "dpoResponseTimeValue": "3 个工作日内",
+  "footerLastUpdated": "数据政策最后更新：{date}"
+}

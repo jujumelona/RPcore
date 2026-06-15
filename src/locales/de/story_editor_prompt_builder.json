@@ -1,0 +1,10 @@
+{
+  "headerLangLabel": "Übersetzungssprachen: ",
+  "headerRule": "Regel: LANG_{{Sprachcode}}_ dem Originalschlüssel voranstellen. {U}/{u} nicht übersetzen. Nur Schlüssel:Wert ausgeben, keine Erklärungen oder Markdown.",
+  "ruleStory": "Zusatzregel: # Symbol in TAGS beibehalten, natürlich übersetzen",
+  "ruleCharacter": "Zusatzregel: Namen gemäß der Zielsprachregion lokalisieren, Alter nur als Zahl",
+  "ruleIntro": "Zusatzregel: Erzählerstil (Beschreibung in der 3. Person) vom Charakterstil (Dialog in der 1. Person) unterscheiden",
+  "speakerNarrator": "Erzähler",
+  "speakerUser": "Benutzer",
+  "speakerCharPrefix": "Charakter"
+}

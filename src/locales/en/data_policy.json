@@ -1,0 +1,193 @@
+{
+  "title": "Data Policy",
+  "lastUpdatedLabel": "Last updated",
+  "sensitive": "Sensitive",
+  "dataCollectionTitle": "Data Collection and Purpose",
+  "dataIntro": "We collect only the minimum data needed to run the app and keep your account working across devices.",
+  "dataLocalOnly": "Conversation history and downloaded files can stay on your device unless you choose a sync feature.",
+  "dataGroups": [
+    {
+      "category": "Account Information",
+      "items": [
+        {
+          "name": "Email address",
+          "purpose": "Used for sign-in and account recovery.",
+          "retention": "Deleted when the account is deleted.",
+          "sensitive": false
+        },
+        {
+          "name": "Nickname and profile image",
+          "purpose": "Shown in your profile and community features.",
+          "retention": "Deleted when the account is deleted.",
+          "sensitive": false
+        }
+      ]
+    },
+    {
+      "category": "Reading and Chat Data",
+      "items": [
+        {
+          "name": "Chat and reading history",
+          "purpose": "Restores conversations, bookmarks, and reading progress.",
+          "retention": "Removed when you delete the account or clear local data.",
+          "sensitive": true
+        },
+        {
+          "name": "Library activity",
+          "purpose": "Keeps favorites, follows, and recommendations in sync.",
+          "retention": "Deleted when the account is deleted.",
+          "sensitive": false
+        }
+      ]
+    },
+    {
+      "category": "Device Data",
+      "items": [
+        {
+          "name": "Device OS and app version",
+          "purpose": "Used for compatibility checks and support.",
+          "retention": "Stored only as long as needed for support and diagnostics.",
+          "sensitive": false
+        },
+        {
+          "name": "Local cache",
+          "purpose": "Speeds up loading and resume behavior.",
+          "retention": "Automatically cleaned after a period of inactivity.",
+          "sensitive": true
+        }
+      ]
+    }
+  ],
+  "permissionsTitle": "App Permissions",
+  "permissionsIntro": "The following permissions are requested only when a related feature is used.",
+  "permissionsDeniedNote": "If you deny an optional permission, the core service still works, but that feature may be limited.",
+  "permissions": [
+    {
+      "permission": "INTERNET",
+      "android": true,
+      "ios": false,
+      "reason": "Needed to load stories, sync your library, and reach network services.",
+      "sensitive": false
+    },
+    {
+      "permission": "Photos / Storage",
+      "android": true,
+      "ios": true,
+      "reason": "Requested only when you choose files or upload an image.",
+      "sensitive": true
+    },
+    {
+      "permission": "Notifications",
+      "android": true,
+      "ios": true,
+      "reason": "Used for announcements and followed content updates.",
+      "sensitive": false
+    },
+    {
+      "permission": "Camera (optional)",
+      "android": true,
+      "ios": true,
+      "reason": "Requested only when you take a profile or upload photo inside the app.",
+      "sensitive": true
+    }
+  ],
+  "retentionTitle": "Data Retention",
+  "retentionRows": [
+    {
+      "label": "Chat history",
+      "value": "Stored on device or deleted with account removal."
+    },
+    {
+      "label": "Account info (server)",
+      "value": "Removed within 30 days after verified deletion."
+    },
+    {
+      "label": "Analytics logs",
+      "value": "Retained in aggregated or anonymized form for up to 12 months."
+    },
+    {
+      "label": "Local cache",
+      "value": "Deleted automatically after inactivity or app removal."
+    },
+    {
+      "label": "Encryption",
+      "value": "Server AES-256 and secure on-device storage where available."
+    }
+  ],
+  "legalRetention": "Records that must be stored for legal, accounting, or fraud-prevention reasons are kept for the required period and then deleted.",
+  "childPrivacyTitle": "Child Privacy",
+  "ageRestriction": "Not intended for users under 13",
+  "childPrivacyIntro": "This service is intended for users age 13 and older. We do not knowingly collect personal data from children under the applicable minimum age.",
+  "childPrivacyLawNote": "If you believe a child submitted personal data to us by mistake, contact the address below so we can review and remove it.",
+  "coppaRequestSubject": "Child data deletion request",
+  "applicableLawsLabel": "Applicable laws",
+  "applicableLawsValue": "COPPA (US), GDPR Article 8 (EU), and local child privacy rules where applicable.",
+  "thirdPartyTitle": "Third-Party Sharing",
+  "thirdPartyIntro": "We share limited data only with partners that help us operate the service, measure stability, or deliver consent-based advertising.",
+  "thirdParties": [
+    {
+      "name": "Firebase",
+      "purpose": "Authentication, notifications, and basic cloud delivery.",
+      "policy": "https://firebase.google.com/support/privacy",
+      "transfers": "Global cloud regions"
+    },
+    {
+      "name": "Google AdMob",
+      "purpose": "Consent-based advertising delivery.",
+      "policy": "https://policies.google.com/privacy",
+      "transfers": "Global cloud regions"
+    },
+    {
+      "name": "Sentry",
+      "purpose": "Error reporting and stability monitoring.",
+      "policy": "https://sentry.io/privacy/",
+      "transfers": "Global cloud regions"
+    }
+  ],
+  "transferRegionLabel": "Processing region",
+  "privacyPolicyLabel": "Privacy policy",
+  "deletionTitle": "Deletion and Withdrawal",
+  "deletionIntro": "When you request deletion, account data, reading progress, bookmarks, and synced history are removed or scheduled for removal.",
+  "deletionBackupNote": "Encrypted backups are deleted according to the provider retention schedule after the request is completed.",
+  "method1": "Method 1 - Email request",
+  "method1Desc": "Send a deletion request by email and we will process it after verifying the account.",
+  "method2": "Method 2 - Delete inside the app",
+  "method2Desc": "If you are signed in, the button below clears local data immediately and starts account deletion.",
+  "deleteAccount": "Delete account and data permanently",
+  "deleteRequestSubject": "Data deletion request",
+  "deleteConfirmTitle": "Delete account and data",
+  "deleteConfirmMessage": "Deleting the account also removes synced data, reading progress, and local history.\nThis action cannot be undone.\n\nDo you want to continue?",
+  "deleteConfirmAction": "Delete permanently",
+  "cancelAction": "Cancel",
+  "okAction": "OK",
+  "deleteErrorTitle": "Deletion failed",
+  "deleteError": "Something went wrong while deleting the account. Please contact support.",
+  "deleteProcessingAnnouncement": "Processing account deletion request.",
+  "deleteCompletedAnnouncement": "Account deletion completed.",
+  "rightsTitle": "Your Rights",
+  "rights": [
+    {
+      "title": "Access",
+      "desc": "Request a copy of the data we hold about you."
+    },
+    {
+      "title": "Correction",
+      "desc": "Ask us to correct inaccurate or incomplete data."
+    },
+    {
+      "title": "Deletion",
+      "desc": "Request deletion of your account data and synced history."
+    },
+    {
+      "title": "Portability",
+      "desc": "Request your data in a portable format where applicable."
+    }
+  ],
+  "rightsNote": "To exercise these rights, contact fdje0303@gmail.com. We normally respond within 30 days.",
+  "dpoTitle": "Data Protection Officer",
+  "dpoEmailLabel": "Email",
+  "dpoPolicyWebsiteLabel": "Policy website",
+  "dpoResponseTimeLabel": "Response time",
+  "dpoResponseTimeValue": "Within 3 business days",
+  "footerLastUpdated": "Data policy last updated: {date}"
+}

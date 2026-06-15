@@ -1,0 +1,12 @@
+{
+  "toastTitleRequired": "请输入标题",
+  "toastSaveOk": "保存成功 ",
+  "toastSaveFail": "保存失败: ",
+  "toastMaxChars": "最多10名角色",
+  "toastChapterMin": "需要至少2章才能汇总为网文",
+  "toastNoStory": "请输入想要的故事",
+  "toastAiApplied": "AI建议已应用 ",
+  "toastAiFail": "AI生成失败: ",
+  "toastServerErr": "服务器错误 ",
+  "selectStylePresetRequired": "请选择文体预设。"
+}

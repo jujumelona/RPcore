@@ -1,0 +1,17 @@
+{
+  "numSaved": "تم حفظ {n}",
+  "numDeleted": "تم حذف {n}",
+  "numShared": "مشاركة {n}",
+  "novelDeleteTitle": "حذف الرواية",
+  "novelDeleteMsg": "حذف {n}؟ لا يمكن التراجع.",
+  "noWebNovels": "الروايات المحفوظة",
+  "selectAll": "تحديد الكل",
+  "deselectAll": "إلغاء تحديد الكل",
+  "searchResults": "نتائج البحث",
+  "returnToOriginal": "العودة إلى الموضع الأصلي",
+  "resumeReading": "استئناف عند {n}%",
+  "resumeMove": "انتقال",
+  "resumeClose": "إغلاق",
+  "chapterPrefix": "الفصل {n}",
+  "chapterAlt": "الفصل {n}"
+}

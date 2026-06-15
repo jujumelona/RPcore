@@ -1,0 +1,15 @@
+{
+  "wizardInitStatus": "กำลังเริ่มต้นโมเดล...",
+  "wizardLoadingStatus": "กำลังโหลดโมเดล...",
+  "wizardReadyStatus": "พร้อมแล้ว",
+  "wizardModuleError": "ไม่สามารถใช้งานโมดูลได้",
+  "wizardInitFail": "การเริ่มต้นล้มเหลว",
+  "wizardNoModel": "ยังไม่ได้ดาวน์โหลดโมเดล AI กรุณาไปที่หน้าของฉันและดาวน์โหลดก่อน",
+  "wizardGenTitle": "กำลังสร้างเรื่อง...",
+  "wizardGenSub": "AI กำลังกรอกข้อมูลในตัวแก้ไขเรื่องราว",
+  "wizardGenSubLong": "จำนวนโทเคนสูงอาจใช้เวลานาน",
+  "wizardGenSubWait": "กรุณารอสักครู่",
+  "wizardErrTitle": "เกิดข้อผิดพลาด",
+  "wizardErrRetry": "ลองอีกครั้ง",
+  "wizardPctComplete": "% เสร็จแล้ว"
+}

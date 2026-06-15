@@ -1,0 +1,19 @@
+{
+  "emotionState": "感情状態",
+  "innerState": "キャラクターの現在の内面",
+  "tapFullscreen": "フルスクリーンにタップ",
+  "representative": "代表",
+  "basicInfo": "基本情報",
+  "personality": "性格",
+  "habitsFeatures": "習慣 & 特徴",
+  "currentSituation": "現在の状況",
+  "like": "いいね",
+  "namePlaceholder": "名前",
+  "agePlaceholder": "年齢",
+  "genderPlaceholder": "性別",
+  "jobPlaceholder": "職業",
+  "viewAll": "すべて見る",
+  "player": "プレイヤー",
+  "aiCharacter": "AIキャラクター",
+  "photos": "写真"
+}

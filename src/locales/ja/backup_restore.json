@@ -1,0 +1,20 @@
+{
+  "backupRestoreTitle": "バックアップ / 復元",
+  "selectSections": "含める項目",
+  "backup_settings": "設定",
+  "backup_readingStats": "リーディング統計",
+  "backup_contentFilterRules": "コンテンツフィルター",
+  "backup_notificationPrefs": "通知設定",
+  "backup_drafts": "下書き",
+  "backupBtn": "バックアップ",
+  "restoreBtn": "復元",
+  "backupSuccess": "バックアップ完了",
+  "backupFailed": "バックアップ失敗",
+  "restoreConfirmTitle": "復元の確認",
+  "restoreConfirmMsg": "選択したデータが上書きされます。続けますか？",
+  "restoreSuccess": "復元完了",
+  "noFileSelected": "ファイルが選択されていません",
+  "invalidBackup": "無効なバックアップファイル",
+  "cancel": "キャンセル",
+  "backupHint": "バックアップはダウンロードフォルダに保存されます。復元時は選択した項目のみ上書きされます。"
+}

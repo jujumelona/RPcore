@@ -1,0 +1,17 @@
+{
+  "worldSetting": "Welteinstellungen",
+  "worldSettingHint": "Nur unveränderliche Einstellungen aller Kapitel schreiben.\nKapitelspezifische Infos in das Zusatzinfo-Feld des Kapitels.",
+  "personality": "Persönlichkeit",
+  "speechPattern": "Sprechweise/Verhalten",
+  "habit": "Gewohnheiten",
+  "currentSituation": "Aktuelle Situation",
+  "initialEmotion": "Anfangsgefühl gegenüber dem Nutzer",
+  "chapterGoal": "Kapitelziel",
+  "triggerCondition": "Auslösebedingung",
+  "background": "Hintergrund",
+  "additionalInfo": "Zusatzinfo",
+  "gender": "Geschlecht",
+  "genderMale": "Männlich",
+  "genderFemale": "Weiblich",
+  "genderOther": "Andere"
+}

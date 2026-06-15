@@ -1,0 +1,21 @@
+{
+  "adminAnnouncementTitle": "Ankündigung erstellen",
+  "adminAnnouncementSourceStep": "1. Originale Ankündigung schreiben",
+  "adminAnnouncementTranslateStep": "2. Mit einem externen Modell übersetzen",
+  "adminAnnouncementValidateStep": "3. JSON einfügen und prüfen",
+  "adminAnnouncementSourceTitle": "Titel",
+  "adminAnnouncementSourceBody": "Inhalt",
+  "adminAnnouncementTitlePlaceholder": "Originaltitel",
+  "adminAnnouncementBodyPlaceholder": "Originalinhalt",
+  "adminAnnouncementCopyPrompt": "Übersetzungs-Prompt kopieren",
+  "adminAnnouncementPromptCopied": "Der Prompt wurde kopiert. Füge ihn in dein Übersetzungsmodell ein.",
+  "adminAnnouncementPromptHint": "Kopiere den Prompt, übersetze extern und füge das JSON-Ergebnis unten ein.",
+  "adminAnnouncementValidateJson": "JSON prüfen",
+  "adminAnnouncementValidJson": "Alle Sprachblöcke sind gültig.",
+  "adminAnnouncementSubmit": "Ankündigung veröffentlichen",
+  "adminAnnouncementCreated": "Die Ankündigung wurde erstellt.",
+  "adminAnnouncementPreview": "Übersetzungsvorschau",
+  "adminAnnouncementReady": "Prüfe das JSON vor dem Veröffentlichen.",
+  "adminAnnouncementParseFailed": "JSON konnte nicht geparst werden. Füge nur das saubere JSON aus dem Modell ein.",
+  "adminAnnouncementMissingBlocks": "Fehlende Sprachblöcke: {codes}"
+}

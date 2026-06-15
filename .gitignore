@@ -1,0 +1,117 @@
+# OS files
+.DS_Store
+Thumbs.db
+db.json
+Desktop.ini
+
+# Node / package manager
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.npm/
+
+# Environment variables & secrets (CRITICAL: Do not upload to GitHub!)
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.env
+!.env.template
+
+# Expo
+.expo/
+dist/
+web-build/
+
+# Android
+android/app/build/
+android/.gradle/
+android/.kotlin/
+android/hs_err_pid*.log
+*.apk
+*.aar
+*.jar
+*.keystore
+google-services.json
+google-services*.json
+
+
+# IDE / Editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Logs and test results
+logs/
+*.log
+coverage/
+temp_eslint.json
+tmp/
+tmp-unicode-test.json
+tmp-unicode-test.txt
+
+# Temp csv files
+.codex_broken_scan.csv
+.codex_missing_locale_keys.csv
+
+# Non-app utility, fix, and debug scripts / archives
+fix_*.js
+fix-*.js
+fix*.js
+fix.js
+fix_*.py
+*.py
+*.zip
+temp_*.json
+tmp*.json
+tokens_metro.js
+bundle_debug.js
+*.bat
+*.ps1
+*.sh
+window_dump.xml
+__uidump*.xml
+HARNESS.md
+tsconfig.temp.json
+
+# Specific fix/utility files
+add-translation.js
+auto-fix.js
+check-bundle-size.js
+convert-all-translations*.js
+copy-remaining.js
+emergency_restore.js
+remove_emojis.js
+remove_icons.js
+report-eslint.js
+restore_hi_only.js
+run-eslint.js
+simple-copy.js
+test-kv-sync.js
+unify_fonts_perfect.js
+tsc_output.txt
+tsc_output_utf8.txt
+
+# Server, Backend, and Admin web directories
+backend-infra/
+myworker/
+admin-web/
+
+# Build assets and non-mobile components
+tmp-assets/
+web/
+
+# Tests, Mocks, Migrations and developer scripts
+__tests__/
+unit/
+artifacts/
+migrations/
+mocks/
+scripts/
+setup/

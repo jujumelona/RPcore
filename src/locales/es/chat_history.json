@@ -1,0 +1,12 @@
+{
+  "historySearchTitle": "Buscar historial",
+  "searchPlaceholder": "Buscar en el chat...",
+  "filterAll": "Todo",
+  "resultCount": "{n} resultados",
+  "noSearchResult": "Sin resultados",
+  "noSearchResultHint": "Prueba otras palabras clave",
+  "noHistory": "Sin historial de chat",
+  "roleUser": "Yo",
+  "multiCharTitle": "Gestión de personajes",
+  "multiCharEmpty": "Sin personajes registrados"
+}

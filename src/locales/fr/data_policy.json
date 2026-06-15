@@ -1,0 +1,193 @@
+{
+  "title": "Politique des donnees",
+  "lastUpdatedLabel": "Derniere mise a jour",
+  "sensitive": "Sensible",
+  "dataCollectionTitle": "Donnees collectees et finalite",
+  "dataIntro": "Nous collectons uniquement les donnees minimales necessaires au fonctionnement de l application et au maintien de votre compte entre les appareils.",
+  "dataLocalOnly": "L historique des conversations et les fichiers telecharges peuvent rester sur votre appareil sauf si vous choisissez une fonction de synchronisation.",
+  "dataGroups": [
+    {
+      "category": "Informations du compte",
+      "items": [
+        {
+          "name": "Adresse e-mail",
+          "purpose": "Utilisee pour la connexion et la recuperation du compte.",
+          "retention": "Supprimee lorsque le compte est supprime.",
+          "sensitive": false
+        },
+        {
+          "name": "Pseudo et image de profil",
+          "purpose": "Affiches dans votre profil et les fonctions communautaires.",
+          "retention": "Supprimee lorsque le compte est supprime.",
+          "sensitive": false
+        }
+      ]
+    },
+    {
+      "category": "Donnees de lecture et de chat",
+      "items": [
+        {
+          "name": "Historique de chat et de lecture",
+          "purpose": "Restaure les conversations, les marque-pages et la progression de lecture.",
+          "retention": "Supprimee lorsque vous supprimez le compte ou effacez les donnees locales.",
+          "sensitive": true
+        },
+        {
+          "name": "Activite de la bibliotheque",
+          "purpose": "Maintient les favoris, les suivis et les recommandations synchronises.",
+          "retention": "Supprimee lorsque le compte est supprime.",
+          "sensitive": false
+        }
+      ]
+    },
+    {
+      "category": "Donnees de l appareil",
+      "items": [
+        {
+          "name": "Systeme de l appareil et version de l application",
+          "purpose": "Utilisees pour la compatibilite et l assistance.",
+          "retention": "Conservee uniquement le temps necessaire au support et au diagnostic.",
+          "sensitive": false
+        },
+        {
+          "name": "Cache local",
+          "purpose": "Accelere le chargement et la reprise.",
+          "retention": "Nettoyee automatiquement apres une periode d inactivite.",
+          "sensitive": true
+        }
+      ]
+    }
+  ],
+  "permissionsTitle": "Autorisations de l application",
+  "permissionsIntro": "Les autorisations suivantes ne sont demandees que lors de l utilisation d une fonction associee.",
+  "permissionsDeniedNote": "Si vous refusez une autorisation facultative, le service principal fonctionne toujours, mais cette fonction peut etre limitee.",
+  "permissions": [
+    {
+      "permission": "INTERNET",
+      "android": true,
+      "ios": false,
+      "reason": "Necessaire pour charger les histoires, synchroniser votre bibliotheque et joindre les services reseau.",
+      "sensitive": false
+    },
+    {
+      "permission": "Photos / Storage",
+      "android": true,
+      "ios": true,
+      "reason": "Demandee uniquement lorsque vous choisissez des fichiers ou televersez une image.",
+      "sensitive": true
+    },
+    {
+      "permission": "Notifications",
+      "android": true,
+      "ios": true,
+      "reason": "Utilisee pour les annonces et les mises a jour des contenus suivis.",
+      "sensitive": false
+    },
+    {
+      "permission": "Camera (optional)",
+      "android": true,
+      "ios": true,
+      "reason": "Demandee uniquement lorsque vous prenez une photo de profil ou televersez une photo dans l application.",
+      "sensitive": true
+    }
+  ],
+  "retentionTitle": "Conservation des donnees",
+  "retentionRows": [
+    {
+      "label": "Historique de chat",
+      "value": "Conserve sur l appareil ou supprime lors de la suppression du compte."
+    },
+    {
+      "label": "Informations du compte (serveur)",
+      "value": "Supprimees dans les 30 jours suivant une suppression verifiee."
+    },
+    {
+      "label": "Journaux analytiques",
+      "value": "Conserves sous forme agregee ou anonymisee jusqu a 12 mois."
+    },
+    {
+      "label": "Cache local",
+      "value": "Supprime automatiquement apres inactivite ou suppression de l application."
+    },
+    {
+      "label": "Chiffrement",
+      "value": "AES-256 sur le serveur et stockage securise sur l appareil lorsque disponible."
+    }
+  ],
+  "legalRetention": "Les enregistrements a conserver pour des raisons legales, comptables ou de prevention de la fraude sont stockes pendant la duree requise puis supprimes.",
+  "childPrivacyTitle": "Vie privee des enfants",
+  "ageRestriction": "Non destine aux utilisateurs de moins de 13 ans",
+  "childPrivacyIntro": "Ce service est destine aux utilisateurs de 13 ans et plus. Nous ne collectons pas sciemment les donnees personnelles d enfants en dessous de l age minimum applicable.",
+  "childPrivacyLawNote": "Si vous pensez qu un enfant nous a transmis des donnees personnelles par erreur, contactez l adresse ci-dessous afin que nous puissions les examiner et les supprimer.",
+  "coppaRequestSubject": "Demande de suppression de donnees d enfant",
+  "applicableLawsLabel": "Lois applicables",
+  "applicableLawsValue": "COPPA (Etats-Unis), article 8 du RGPD (UE) et regles locales de protection de la vie privee des enfants selon le cas.",
+  "thirdPartyTitle": "Partage avec des tiers",
+  "thirdPartyIntro": "Nous partageons des donnees limitees uniquement avec des partenaires qui nous aident a exploiter le service, mesurer sa stabilite ou diffuser de la publicite fondee sur le consentement.",
+  "thirdParties": [
+    {
+      "name": "Firebase",
+      "purpose": "Authentification, notifications et diffusion cloud de base.",
+      "policy": "https://firebase.google.com/support/privacy",
+      "transfers": "Regions cloud mondiales"
+    },
+    {
+      "name": "Google AdMob",
+      "purpose": "Diffusion de publicite basee sur le consentement.",
+      "policy": "https://policies.google.com/privacy",
+      "transfers": "Regions cloud mondiales"
+    },
+    {
+      "name": "Sentry",
+      "purpose": "Signalement d erreurs et surveillance de la stabilite.",
+      "policy": "https://sentry.io/privacy/",
+      "transfers": "Regions cloud mondiales"
+    }
+  ],
+  "transferRegionLabel": "Region de traitement",
+  "privacyPolicyLabel": "Politique de confidentialite",
+  "deletionTitle": "Suppression et retrait",
+  "deletionIntro": "Lorsque vous demandez la suppression, les donnees du compte, la progression de lecture, les marque-pages et l historique synchronise sont supprimes ou programmes pour suppression.",
+  "deletionBackupNote": "Les sauvegardes chiffrees sont supprimees selon le calendrier de conservation du fournisseur une fois la demande terminee.",
+  "method1": "Methode 1 - Demande par e-mail",
+  "method1Desc": "Envoyez une demande de suppression par e-mail et nous la traiterons apres verification du compte.",
+  "method2": "Methode 2 - Supprimer dans l application",
+  "method2Desc": "Si vous etes connecte, le bouton ci-dessous efface immediatement les donnees locales et lance la suppression du compte.",
+  "deleteAccount": "Supprimer definitivement le compte et les donnees",
+  "deleteRequestSubject": "Demande de suppression de donnees",
+  "deleteConfirmTitle": "Supprimer le compte et les donnees",
+  "deleteConfirmMessage": "La suppression du compte supprime aussi les donnees synchronisees, la progression de lecture et l historique local.\nCette action est irreversible.\n\nVoulez-vous continuer ?",
+  "deleteConfirmAction": "Supprimer definitivement",
+  "cancelAction": "Annuler",
+  "okAction": "OK",
+  "deleteErrorTitle": "Echec de la suppression",
+  "deleteError": "Un probleme est survenu lors de la suppression du compte. Veuillez contacter l assistance.",
+  "deleteProcessingAnnouncement": "Traitement de la demande de suppression du compte.",
+  "deleteCompletedAnnouncement": "Suppression du compte terminee.",
+  "rightsTitle": "Vos droits",
+  "rights": [
+    {
+      "title": "Acces",
+      "desc": "Vous pouvez demander une copie des donnees que nous detenons sur vous."
+    },
+    {
+      "title": "Correction",
+      "desc": "Vous pouvez nous demander de corriger des donnees inexactes ou incompletes."
+    },
+    {
+      "title": "Suppression",
+      "desc": "Vous pouvez demander la suppression des donnees de votre compte et de l historique synchronise."
+    },
+    {
+      "title": "Portabilite",
+      "desc": "Vous pouvez demander vos donnees dans un format portable lorsque cela s applique."
+    }
+  ],
+  "rightsNote": "Pour exercer ces droits, contactez fdje0303@gmail.com. Nous repondons generalement dans un delai de 30 jours.",
+  "dpoTitle": "Delegue a la protection des donnees",
+  "dpoEmailLabel": "E-mail",
+  "dpoPolicyWebsiteLabel": "Site de la politique",
+  "dpoResponseTimeLabel": "Delai de reponse",
+  "dpoResponseTimeValue": "Sous 3 jours ouvrables",
+  "footerLastUpdated": "Politique des donnees mise a jour le : {date}"
+}

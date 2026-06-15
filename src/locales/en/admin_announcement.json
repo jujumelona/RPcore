@@ -1,0 +1,21 @@
+{
+    "adminAnnouncementTitle":  "Create Announcement",
+    "adminAnnouncementSourceStep":  "1. Write source announcement",
+    "adminAnnouncementTranslateStep":  "2. Translate with an external model",
+    "adminAnnouncementValidateStep":  "3. Paste and validate JSON",
+    "adminAnnouncementSourceTitle":  "Title",
+    "adminAnnouncementSourceBody":  "Body",
+    "adminAnnouncementTitlePlaceholder":  "Original title",
+    "adminAnnouncementBodyPlaceholder":  "Original body",
+    "adminAnnouncementCopyPrompt":  "Copy Translation Prompt",
+    "adminAnnouncementPromptCopied":  "Prompt copied. Paste it into your translation model.",
+    "adminAnnouncementPromptHint":  "Copy the prompt, translate externally, then paste the JSON result below.",
+    "adminAnnouncementValidateJson":  "Validate JSON",
+    "adminAnnouncementValidJson":  "All language blocks are valid.",
+    "adminAnnouncementSubmit":  "Publish Announcement",
+    "adminAnnouncementCreated":  "Announcement created.",
+    "adminAnnouncementPreview":  "Translation Preview",
+    "adminAnnouncementReady":  "Validate the JSON before publishing.",
+    "adminAnnouncementParseFailed":  "JSON parsing failed. Paste clean JSON from the model.",
+    "adminAnnouncementMissingBlocks":  "Missing language blocks: {codes}"
+}

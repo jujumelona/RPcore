@@ -1,0 +1,8 @@
+{
+  "imgPermTitle": "图片访问权限",
+  "imgPermMsg": "需要相册访问权限。",
+  "imgPermAllow": "允许",
+  "imgPermDeny": "拒绝",
+  "imgPermNeeded": "没有相册访问权限。",
+  "imgPermLibrary": "需要安装react-native-image-picker。"
+}

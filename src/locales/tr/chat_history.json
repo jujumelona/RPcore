@@ -1,0 +1,12 @@
+{
+  "historySearchTitle": "Geçmişte ara",
+  "searchPlaceholder": "Sohbette ara...",
+  "filterAll": "Tümü",
+  "resultCount": "{n} sonuç",
+  "noSearchResult": "Sonuç bulunamadı",
+  "noSearchResultHint": "Farklı kelimeler deneyin",
+  "noHistory": "Sohbet geçmişi yok",
+  "roleUser": "Ben",
+  "multiCharTitle": "Karakter yönetimi",
+  "multiCharEmpty": "Kayıtlı karakter yok"
+}

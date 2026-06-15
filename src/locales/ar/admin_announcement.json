@@ -1,0 +1,21 @@
+{
+  "adminAnnouncementTitle": "إنشاء إعلان",
+  "adminAnnouncementSourceStep": "1. اكتب الإعلان الأصلي",
+  "adminAnnouncementTranslateStep": "2. ترجم باستخدام نموذج خارجي",
+  "adminAnnouncementValidateStep": "3. الصق ملف JSON وتحقق منه",
+  "adminAnnouncementSourceTitle": "العنوان",
+  "adminAnnouncementSourceBody": "المحتوى",
+  "adminAnnouncementTitlePlaceholder": "العنوان الأصلي",
+  "adminAnnouncementBodyPlaceholder": "المحتوى الأصلي",
+  "adminAnnouncementCopyPrompt": "نسخ طلب الترجمة",
+  "adminAnnouncementPromptCopied": "تم نسخ الطلب. الصقه في نموذج الترجمة لديك.",
+  "adminAnnouncementPromptHint": "انسخ الطلب وترجمه خارجيًا ثم الصق نتيجة JSON أدناه.",
+  "adminAnnouncementValidateJson": "التحقق من JSON",
+  "adminAnnouncementValidJson": "جميع كتل اللغات صالحة.",
+  "adminAnnouncementSubmit": "نشر الإعلان",
+  "adminAnnouncementCreated": "تم إنشاء الإعلان.",
+  "adminAnnouncementPreview": "معاينة الترجمات",
+  "adminAnnouncementReady": "تحقق من JSON قبل النشر.",
+  "adminAnnouncementParseFailed": "فشل تحليل JSON. الصق فقط JSON النظيف الذي أعاده النموذج.",
+  "adminAnnouncementMissingBlocks": "كتل اللغات المفقودة: {codes}"
+}

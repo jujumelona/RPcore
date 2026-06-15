@@ -1,0 +1,12 @@
+{
+  "historySearchTitle": "Cerca cronologia",
+  "searchPlaceholder": "Cerca nella chat...",
+  "filterAll": "Tutto",
+  "resultCount": "{n} risultati",
+  "noSearchResult": "Nessun risultato",
+  "noSearchResultHint": "Prova altre parole chiave",
+  "noHistory": "Nessuna cronologia",
+  "roleUser": "Io",
+  "multiCharTitle": "Gestione personaggi",
+  "multiCharEmpty": "Nessun personaggio registrato"
+}

@@ -1,0 +1,11 @@
+{
+  "genre": "Жанр:",
+  "intro": "Введение",
+  "worldSetting": "Мир",
+  "noValue": "Нет",
+  "reviewPanelTitle": "Панель проверки историй",
+  "htmlPreview": "Предпросмотр HTML",
+  "previewAction": "Предпросмотр",
+  "previousRejectReason": "Предыдущая причина отклонения",
+  "endingLabel": "Концовка"
+}

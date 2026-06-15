@@ -1,0 +1,66 @@
+{
+  "statusLabels": {
+    "open": "Открыто",
+    "reviewing": "На проверке",
+    "resolved": "Решено",
+    "rejected": "Отклонено",
+    "auto_hidden": "Скрыто автоматически"
+  },
+  "priorityLabels": {
+    "critical": "Критический",
+    "high": "Высокий",
+    "medium": "Средний",
+    "low": "Низкий"
+  },
+  "targetTypeLabels": {
+    "story": "История",
+    "post": "Пост",
+    "user": "Пользователь",
+    "comment": "Комментарий"
+  },
+  "filterActionable": "Требует действия",
+  "filterAll": "Все",
+  "hintLabels": {
+    "immediate_escalation": "Требуется немедленная эскалация",
+    "already_hidden_pending_review": "Уже скрыто, ожидает проверки",
+    "high_risk_reason": "Причина высокого риска в очереди операторов",
+    "aged_unresolved_report": "Старая нерешённая жалоба",
+    "needs_follow_up_soon": "Скоро потребуется дальнейшее действие",
+    "standard_moderation_review": "Стандартная модерационная проверка"
+  },
+  "systemResolutionNotes": {
+    "open": "Мобильный администратор снова открыл жалобу.",
+    "reviewing": "Мобильный администратор начал проверку.",
+    "resolved": "Мобильный администратор решил жалобу.",
+    "rejected": "Мобильный администратор отклонил жалобу.",
+    "auto_hidden": "Мобильный администратор скрыл контент."
+  },
+  "noReportDetail": "Подробная заметка к жалобе не указана.",
+  "reportPrefix": "Жалоба",
+  "reporterPrefix": "Заявитель",
+  "assigneePrefix": "Назначен",
+  "resolutionLabel": "Примечание по решению",
+  "actionReview": "Проверить",
+  "actionHide": "Скрыть",
+  "actionResolve": "Решить",
+  "actionReject": "Отклонить",
+  "actionReopen": "Переоткрыть",
+  "changingStatus": "Обновление статуса...",
+  "reportQueueTitle": "Очередь жалоб",
+  "actionableLabel": "Требует действия",
+  "criticalLabel": "Критический",
+  "autoHiddenLabel": "Скрыто автоматически",
+  "moderationQueueSummaryTitle": "Сводка очереди модерации",
+  "immediateActionLabel": "Немедленное действие",
+  "importantReportsLabel": "Критические жалобы",
+  "totalReportsLabel": "Всего жалоб",
+  "currentResultsLabel": "Текущие результаты",
+  "reportSearchPlaceholder": "Поиск по заголовку, ID, причине или заметке жалобы",
+  "noReports": "Сейчас нет жалоб для проверки.",
+  "noMatchingReports": "Нет жалоб, соответствующих выбранным фильтрам.",
+  "statusChangeTitle": "Изменить статус жалобы",
+  "statusChangeMessage": "Изменить статус жалобы для \"{target}\" на \"{status}\"?",
+  "statusChangeConfirm": "Изменить",
+  "statusChangeFailedTitle": "Изменение не удалось",
+  "statusChangeFailedBody": "Не удалось обновить статус жалобы. Попробуйте ещё раз."
+}

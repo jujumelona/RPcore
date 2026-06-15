@@ -1,0 +1,7 @@
+{
+  "timeJustNowShort": "Ahora",
+  "timeMinAgoShort": "{n} min",
+  "timeHourAgoShort": "{n} h",
+  "timeDayAgoShort": "{n} d",
+  "timeWeekAgoShort": "{n} sem"
+}

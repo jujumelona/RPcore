@@ -1,0 +1,18 @@
+{
+  "languageSettings": "Paramètres de langue",
+  "appLanguage": "Langue de l'app",
+  "aiLanguage": "Langue de réponse IA",
+  "languageChanged": "Langue modifiée",
+  "syncLanguages": "Synchroniser langue app et IA",
+  "syncDone": "Langues synchronisées !",
+  "alsoChangeAI": "Modifier aussi la langue de l'IA ?",
+  "aiWillRespond": "L'IA répondra en",
+  "languageTip": "Conseil : Vous pouvez configurer la langue de l'app et de l'IA séparément.",
+  "languageSystemTitle": "Système d'imposition de langue",
+  "langFeature1": "• L'IA répond uniquement dans la langue sélectionnée",
+  "langFeature2": "• Fonctionne même si vous écrivez dans une autre langue",
+  "langFeature3": "• Précision garantie à 99%+",
+  "langFeature4": "• Vérification de langue en temps réel",
+  "autoDetected": "Détecté automatiquement selon votre localisation",
+  "rtlSupportLabel": "Prise en charge RTL"
+}

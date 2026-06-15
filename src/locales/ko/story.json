@@ -1,0 +1,20 @@
+{
+  "story": "스토리",
+  "storyLoading": "스토리 로딩 중...",
+  "storyCreating": "스토리 생성 중...",
+  "startStory": "스토리 시작",
+  "continueHere": "여기서 이어하기",
+  "chapter": "챕터",
+  "characters": "등장 인물",
+  "character": "캐릭터",
+  "myStories": "내 스토리",
+  "ongoingStories": "진행 중인 스토리",
+  "recommendedStories": "추천 스토리",
+  "reportStory": "스토리 신고하기",
+  "blockStory": "스토리 차단하기",
+  "storyProgress": "진행 상황",
+  "progressRate": "진행률",
+  "endingsFound": "발견한 엔딩",
+  "messageCount": "대화 수",
+  "visitedChapters": "방문한 챕터"
+}

@@ -1,0 +1,10 @@
+{
+  "headerLangLabel": "翻譯語言: ",
+  "headerRule": "規則: 在原始鍵前加上 LANG_{{語言代碼}}_。禁止翻譯 {U}/{u}。不要說明和 Markdown，只輸出鍵:值。",
+  "ruleStory": "附加規則: TAGS 保留 # 符號，自然翻譯",
+  "ruleCharacter": "附加規則: 姓名按目標語言地區本地化，年齡僅輸出數字",
+  "ruleIntro": "附加規則: 區分旁白風格（第三人稱描述）和角色風格（第一人稱對話）",
+  "speakerNarrator": "旁白",
+  "speakerUser": "使用者",
+  "speakerCharPrefix": "角色"
+}

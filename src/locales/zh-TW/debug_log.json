@@ -1,0 +1,6 @@
+{
+  "debugLogTitle": "偵錯日誌",
+  "logLines": "{n}?",
+  "autoScrollOn": "自動捲動 開",
+  "autoScrollOff": "自動捲動 關"
+}

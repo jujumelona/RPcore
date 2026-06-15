@@ -1,0 +1,17 @@
+{
+  "notifSettingsTitle": "Impostazioni notifiche",
+  "notifGlobal": "Tutte le notifiche",
+  "notifCategories": "Categorie",
+  "notifCat_new_follower": "Nuovo follower",
+  "notifCat_like": "Like",
+  "notifCat_comment": "Commento",
+  "notifCat_mention": "Menzione",
+  "notifCat_story_update": "Aggiornamento story",
+  "notifCat_chapter_release": "Nuovo capitolo",
+  "notifCat_system": "Sistema",
+  "notifDND": "Non disturbare",
+  "notifDNDEnable": "Non disturbare",
+  "notifDNDStart": "Inizio",
+  "notifDNDEnd": "Fine",
+  "notifTimezone": "Fuso orario"
+}

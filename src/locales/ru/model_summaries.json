@@ -1,0 +1,20 @@
+{
+  "modelSummaryMini1": "RAM 3GB+ · Hanya untuk perangkat lama",
+  "modelSummaryMini2": "Kualitas sangat terbatas · Tidak disarankan",
+  "modelSummaryMini3": "~270МБ",
+  "modelSummaryLight1": "RAM 6GB+ · Akselerasi GPU/NPU",
+  "modelSummaryLight2": " Respons cepat · Cocok untuk chat dasar",
+  "modelSummaryLight3": "~700МБ",
+  "modelSummaryStandard1": "RAM 8GB+ disarankan · Akselerasi GPU/NPU",
+  "modelSummaryStandard2": "Keseimbangan kecepatan & kualitas · Penggunaan umum",
+  "modelSummaryStandard3": "~2ГБ",
+  "modelSummaryPro1": "RAM 12GB+ · Akselerasi GPU/NPU",
+  "modelSummaryPro2": "Inferensi kualitas tertinggi",
+  "modelSummaryPro3": "~4ГБ",
+  "modelSummaryReasoning1": "RAM 8GB+ · Ускорение HTP / GPU",
+  "modelSummaryReasoning2": "Наилучшее качество · Рекомендуется",
+  "modelSummaryReasoning3": "~2.5GB · Контекст 8K",
+  "modelSummaryEmergency1": "RAM 4GB+ · Режим CPU",
+  "modelSummaryEmergency2": "Экономия батареи · Базовое качество",
+  "modelSummaryEmergency3": "~200MB · Контекст 4K"
+}

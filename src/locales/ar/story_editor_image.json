@@ -1,0 +1,8 @@
+{
+  "imgPermTitle": "إذن الوصول إلى الصور",
+  "imgPermMsg": "مطلوب الوصول إلى المعرض.",
+  "imgPermAllow": "سماح",
+  "imgPermDeny": "رفض",
+  "imgPermNeeded": "مطلوب إذن الوصول إلى المعرض.",
+  "imgPermLibrary": "مطلوب react-native-image-picker."
+}

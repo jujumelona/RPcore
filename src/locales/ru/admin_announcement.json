@@ -1,0 +1,21 @@
+{
+  "adminAnnouncementTitle": "Создать объявление",
+  "adminAnnouncementSourceStep": "1. Напишите исходное объявление",
+  "adminAnnouncementTranslateStep": "2. Переведите его внешней моделью",
+  "adminAnnouncementValidateStep": "3. Вставьте и проверьте JSON",
+  "adminAnnouncementSourceTitle": "Заголовок",
+  "adminAnnouncementSourceBody": "Текст",
+  "adminAnnouncementTitlePlaceholder": "Исходный заголовок",
+  "adminAnnouncementBodyPlaceholder": "Исходный текст",
+  "adminAnnouncementCopyPrompt": "Скопировать промпт для перевода",
+  "adminAnnouncementPromptCopied": "Промпт скопирован. Вставьте его в вашу модель перевода.",
+  "adminAnnouncementPromptHint": "Скопируйте промпт, переведите во внешней модели и вставьте ниже результат JSON.",
+  "adminAnnouncementValidateJson": "Проверить JSON",
+  "adminAnnouncementValidJson": "Все языковые блоки корректны.",
+  "adminAnnouncementSubmit": "Опубликовать объявление",
+  "adminAnnouncementCreated": "Объявление создано.",
+  "adminAnnouncementPreview": "Предпросмотр переводов",
+  "adminAnnouncementReady": "Перед публикацией сначала проверьте JSON.",
+  "adminAnnouncementParseFailed": "Не удалось разобрать JSON. Вставьте только чистый JSON, возвращённый моделью.",
+  "adminAnnouncementMissingBlocks": "Отсутствуют языковые блоки: {codes}"
+}

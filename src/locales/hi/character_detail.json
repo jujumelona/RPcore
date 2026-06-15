@@ -1,0 +1,19 @@
+{
+  "emotionState": "भावनात्मक स्थिति",
+  "innerState": "पात्र की वर्तमान आंतरिक स्थिति",
+  "tapFullscreen": "फुलस्क्रीन के लिए टैप करें",
+  "representative": "प्रतिनिधि",
+  "basicInfo": "बुनियादी जानकारी",
+  "personality": "व्यक्तित्व",
+  "habitsFeatures": "आदतें और विशेषताएं",
+  "currentSituation": "वर्तमान स्थिति",
+  "like": "पसंद",
+  "namePlaceholder": "नाम",
+  "agePlaceholder": "उम्र",
+  "genderPlaceholder": "लिंग",
+  "jobPlaceholder": "नौकरी",
+  "viewAll": "सब देखें",
+  "player": "खिलाड़ी",
+  "aiCharacter": "AI पात्र",
+  "photos": "फ़ोटो"
+}

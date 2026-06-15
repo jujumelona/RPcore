@@ -1,0 +1,9 @@
+{
+  "inputPlaceholder": "Écris un message...",
+  "inputConvertingNovel": "Conversion en cours...",
+  "inputModelLoading": "Chargement du modèle...",
+  "inputGpuPreparing": "Préparation GPU...",
+  "inputTyping": "{char} répond...",
+  "inputChoosing": "Choisissez une option",
+  "inputReplyingTo": "Répondre à @{name}"
+}

@@ -1,0 +1,10 @@
+{
+  "headerLangLabel": "Çeviri dilleri: ",
+  "headerRule": "Kural: Orijinal anahtarın önüne LANG_{{dil_kodu}}_ ekle. {U}/{u} çevirme. Yalnızca anahtar:değer çıkar, açıklama veya markdown olmadan.",
+  "ruleStory": "Ek kural: TAGS'ta # simgesini koru, doğal çevir",
+  "ruleCharacter": "Ek kural: İsmi hedef dil bölgesine göre yerelleştir, yaş yalnızca rakam olsun",
+  "ruleIntro": "Ek kural: Anlatıcı stilini (3. şahıs betimleme) karakter stilinden (1. şahıs diyalog) ayırt et",
+  "speakerNarrator": "Anlatıcı",
+  "speakerUser": "Kullanıcı",
+  "speakerCharPrefix": "Karakter"
+}

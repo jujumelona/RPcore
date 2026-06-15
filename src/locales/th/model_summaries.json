@@ -1,0 +1,20 @@
+{
+  "modelSummaryMini1": "RAM 3GB+ · Chỉ dành cho thiết bị cũ",
+  "modelSummaryMini2": "Chất lượng rất hạn chế · Không khuyến nghị",
+  "modelSummaryMini3": "~270MB",
+  "modelSummaryLight1": "RAM 6GB+ · Tăng tốc GPU/NPU",
+  "modelSummaryLight2": " Phản hồi nhanh · Phù hợp chat cơ bản",
+  "modelSummaryLight3": "~700MB",
+  "modelSummaryStandard1": "RAM 8GB+ khuyến nghị · Tăng tốc GPU/NPU",
+  "modelSummaryStandard2": "Cân bằng tốc độ & chất lượng · Sử dụng chung",
+  "modelSummaryStandard3": "~2GB",
+  "modelSummaryPro1": "RAM 12GB+ · Tăng tốc GPU/NPU",
+  "modelSummaryPro2": "Suy luận chất lượng cao nhất",
+  "modelSummaryPro3": "~4GB",
+  "modelSummaryReasoning1": "RAM 8GB+ · เร่งความเร็ว HTP / GPU",
+  "modelSummaryReasoning2": "คุณภาพดีที่สุด · แนะนำ",
+  "modelSummaryReasoning3": "~2.5GB · บริบท 8K",
+  "modelSummaryEmergency1": "RAM 4GB+ · โหมด CPU",
+  "modelSummaryEmergency2": "ประหยัดแบตเตอรี่ · คุณภาพพื้นฐาน",
+  "modelSummaryEmergency3": "~200MB · บริบท 4K"
+}

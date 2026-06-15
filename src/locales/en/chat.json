@@ -1,0 +1,9 @@
+{
+  "typeMessage": "Type a message...",
+  "send": "Send",
+  "thinking": "Thinking...",
+  "typing": "Typing...",
+  "newChat": "New Chat",
+  "startChat": "Start Chat",
+  "noChats": "No conversations yet"
+}

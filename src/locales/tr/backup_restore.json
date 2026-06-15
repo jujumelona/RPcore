@@ -1,0 +1,20 @@
+{
+  "backupRestoreTitle": "Yedekleme / Geri Yükleme",
+  "selectSections": "Dahil edilecekler",
+  "backup_settings": "Ayarlar",
+  "backup_readingStats": "İstatistikler",
+  "backup_contentFilterRules": "Filtreler",
+  "backup_notificationPrefs": "Bildirimler",
+  "backup_drafts": "Taslaklar",
+  "backupBtn": "Yedeği dışa aktar",
+  "restoreBtn": "Geri yükle",
+  "backupSuccess": "Yedek kaydedildi",
+  "backupFailed": "Yedekleme başarısız",
+  "restoreConfirmTitle": "Geri yüklemeyi onayla",
+  "restoreConfirmMsg": "Seçilen veriler üzerine yazılacak. Devam edilsin mi?",
+  "restoreSuccess": "Geri yükleme tamamlandı",
+  "noFileSelected": "Dosya seçilmedi",
+  "invalidBackup": "Geçersiz yedek dosyası",
+  "cancel": "İptal",
+  "backupHint": "Yedekler indirilenler klasörüne kaydedilir."
+}

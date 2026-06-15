@@ -1,0 +1,12 @@
+{
+  "wizardStepGenre": "Жанр / Тема",
+  "wizardStepPremise": "Основная предпосылка",
+  "wizardStepCharCount": "Количество персонажей",
+  "wizardStepCharDetail": "Детали персонажа",
+  "wizardStepWorld": "Настройки мира",
+  "wizardStepTone": "Тон",
+  "wizardStepChapter": "Количество глав",
+  "wizardStepFlow": "Поток истории",
+  "wizardStepBranch": "Частота ветвлений",
+  "wizardStepTokens": "Длина генерации"
+}

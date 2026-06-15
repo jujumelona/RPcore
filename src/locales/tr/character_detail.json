@@ -1,0 +1,19 @@
+{
+  "emotionState": "Duygu durumu",
+  "innerState": "Karakterin mevcut iç durumu",
+  "tapFullscreen": "Tam ekran için dokun",
+  "representative": "Temsili",
+  "basicInfo": "Temel bilgiler",
+  "personality": "Kişilik",
+  "habitsFeatures": "Alışkanlıklar ve özellikler",
+  "currentSituation": "Mevcut durum",
+  "like": "Beğen",
+  "namePlaceholder": "Ad",
+  "agePlaceholder": "Yaş",
+  "genderPlaceholder": "Cinsiyet",
+  "jobPlaceholder": "Meslek",
+  "viewAll": "Tümünü gör",
+  "player": "Oyuncu",
+  "aiCharacter": "AI karakter",
+  "photos": "Fotoğraflar"
+}

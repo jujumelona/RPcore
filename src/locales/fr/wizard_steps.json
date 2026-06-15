@@ -1,0 +1,12 @@
+{
+  "wizardStepGenre": "Genre / Thème",
+  "wizardStepPremise": "Prémisse principale",
+  "wizardStepCharCount": "Nombre de personnages",
+  "wizardStepCharDetail": "Détail des personnages",
+  "wizardStepWorld": "Cadre du monde",
+  "wizardStepTone": "Ton",
+  "wizardStepChapter": "Nombre de chapitres",
+  "wizardStepFlow": "Flux d'histoire",
+  "wizardStepBranch": "Fréquence des embranchements",
+  "wizardStepTokens": "Longueur de génération"
+}

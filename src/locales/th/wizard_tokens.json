@@ -1,0 +1,10 @@
+{
+  "wizardTokenQ": "เลือกความยาวการสร้าง AI",
+  "wizardTokenHint": "1 โทเคนประมาณ 0.5-1 ตัวอักษร โทเคนมากขึ้น = รายละเอียดมากขึ้นแต่รอนานขึ้น",
+  "wizardTokenFastDesc": "เร็ว สั้น กระชับ",
+  "wizardTokenNormalDesc": "ปกติ สมดุล",
+  "wizardTokenDetailDesc": "ละเอียด คำบรรยายชัดเจน",
+  "wizardTokenFullDesc": "ละเอียดมาก ใช้เวลานานกว่า",
+  "wizardTokenUnit": "โทเคน",
+  "wizardTokenDirect": "หรือพิมพ์โดยตรง (512-8192)"
+}

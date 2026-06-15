@@ -1,0 +1,21 @@
+{
+  "adminAnnouncementTitle": "お知らせ作成",
+  "adminAnnouncementSourceStep": "1. 元のお知らせを作成",
+  "adminAnnouncementTranslateStep": "2. 外部モデルで翻訳",
+  "adminAnnouncementValidateStep": "3. JSONを貼り付けて検証",
+  "adminAnnouncementSourceTitle": "タイトル",
+  "adminAnnouncementSourceBody": "本文",
+  "adminAnnouncementTitlePlaceholder": "元のタイトル",
+  "adminAnnouncementBodyPlaceholder": "元の本文",
+  "adminAnnouncementCopyPrompt": "翻訳プロンプトをコピー",
+  "adminAnnouncementPromptCopied": "プロンプトをコピーしました。翻訳モデルに貼り付けてください。",
+  "adminAnnouncementPromptHint": "プロンプトをコピーして外部で翻訳し、下にJSON結果を貼り付けてください。",
+  "adminAnnouncementValidateJson": "JSONを検証",
+  "adminAnnouncementValidJson": "すべての言語ブロックが有効です。",
+  "adminAnnouncementSubmit": "お知らせを公開",
+  "adminAnnouncementCreated": "お知らせを作成しました。",
+  "adminAnnouncementPreview": "翻訳プレビュー",
+  "adminAnnouncementReady": "公開前にJSONを検証してください。",
+  "adminAnnouncementParseFailed": "JSONの解析に失敗しました。モデルが返した純粋なJSONだけを貼り付けてください。",
+  "adminAnnouncementMissingBlocks": "不足している言語ブロック: {codes}"
+}

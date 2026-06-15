@@ -1,0 +1,66 @@
+{
+  "statusLabels": {
+    "open": "Aberto",
+    "reviewing": "Em análise",
+    "resolved": "Resolvido",
+    "rejected": "Rejeitado",
+    "auto_hidden": "Ocultado automaticamente"
+  },
+  "priorityLabels": {
+    "critical": "Crítico",
+    "high": "Alto",
+    "medium": "Médio",
+    "low": "Baixo"
+  },
+  "targetTypeLabels": {
+    "story": "História",
+    "post": "Postagem",
+    "user": "Usuário",
+    "comment": "Comentário"
+  },
+  "filterActionable": "Requer ação",
+  "filterAll": "Todos",
+  "hintLabels": {
+    "immediate_escalation": "Requer escalonamento imediato",
+    "already_hidden_pending_review": "Já está oculto e aguardando revisão",
+    "high_risk_reason": "Motivo de alto risco na fila operacional",
+    "aged_unresolved_report": "Denúncia antiga sem resolução",
+    "needs_follow_up_soon": "Precisa de acompanhamento em breve",
+    "standard_moderation_review": "Revisão de moderação padrão"
+  },
+  "systemResolutionNotes": {
+    "open": "O administrador móvel reabriu a denúncia.",
+    "reviewing": "O administrador móvel iniciou a revisão.",
+    "resolved": "O administrador móvel resolveu a denúncia.",
+    "rejected": "O administrador móvel rejeitou a denúncia.",
+    "auto_hidden": "O administrador móvel ocultou o conteúdo."
+  },
+  "noReportDetail": "Nenhuma observação detalhada foi fornecida.",
+  "reportPrefix": "Denúncia",
+  "reporterPrefix": "Denunciante",
+  "assigneePrefix": "Responsável",
+  "resolutionLabel": "Nota de resolução",
+  "actionReview": "Revisar",
+  "actionHide": "Ocultar",
+  "actionResolve": "Resolver",
+  "actionReject": "Rejeitar",
+  "actionReopen": "Reabrir",
+  "changingStatus": "Atualizando status...",
+  "reportQueueTitle": "Fila de denúncias",
+  "actionableLabel": "Requer ação",
+  "criticalLabel": "Crítico",
+  "autoHiddenLabel": "Ocultado automaticamente",
+  "moderationQueueSummaryTitle": "Resumo da fila de moderação",
+  "immediateActionLabel": "Ação imediata",
+  "importantReportsLabel": "Denúncias críticas",
+  "totalReportsLabel": "Total de denúncias",
+  "currentResultsLabel": "Resultados atuais",
+  "reportSearchPlaceholder": "Buscar título, ID, motivo ou nota da denúncia",
+  "noReports": "Não há denúncias para revisar agora.",
+  "noMatchingReports": "Nenhuma denúncia corresponde aos filtros selecionados.",
+  "statusChangeTitle": "Alterar status da denúncia",
+  "statusChangeMessage": "Alterar a denúncia de \"{target}\" para \"{status}\"?",
+  "statusChangeConfirm": "Alterar",
+  "statusChangeFailedTitle": "Falha na alteração",
+  "statusChangeFailedBody": "Não foi possível atualizar o status da denúncia. Tente novamente."
+}

@@ -1,0 +1,20 @@
+{
+  "modelSummaryMini1": "RAM 3GB+ · للأجهزة القديمة فقط",
+  "modelSummaryMini2": "جودة محدودة جداً · غير موصى به",
+  "modelSummaryMini3": "~270MB",
+  "modelSummaryLight1": "RAM 6GB+ · تسريع GPU/NPU",
+  "modelSummaryLight2": " استجابة سريعة · مناسب للمحادثة الأساسية",
+  "modelSummaryLight3": "~700MB",
+  "modelSummaryStandard1": "RAM 8GB+ موصى به · تسريع GPU/NPU",
+  "modelSummaryStandard2": "توازن بين السرعة والجودة · للاستخدام العام",
+  "modelSummaryStandard3": "~2GB",
+  "modelSummaryPro1": "RAM 12GB+ · تسريع GPU/NPU",
+  "modelSummaryPro2": "أعلى جودة استدلال",
+  "modelSummaryPro3": "~4GB",
+  "modelSummaryReasoning1": "RAM 8GB+ · HTP / GPU एक्सेलेरेटेड",
+  "modelSummaryReasoning2": "सर्वोत्तम गुणवत्ता · अनुशंसित",
+  "modelSummaryReasoning3": "~2.5GB · कॉन्टेक्स्ट 8K",
+  "modelSummaryEmergency1": "RAM 4GB+ · CPU मोड",
+  "modelSummaryEmergency2": "बैटरी कुशल · बेसिक गुणवत्ता",
+  "modelSummaryEmergency3": "~200MB · कॉन्टेक्स्ट 4K"
+}

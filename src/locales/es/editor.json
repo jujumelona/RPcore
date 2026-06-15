@@ -1,0 +1,17 @@
+{
+  "worldSetting": "Configuración del mundo",
+  "worldSettingHint": "Escribe solo la configuración invariable de todos los capítulos.\nLa info que cambia por capítulo va en el campo de info adicional.",
+  "personality": "Personalidad",
+  "speechPattern": "Forma de hablar/actuar",
+  "habit": "Hábitos",
+  "currentSituation": "Situación actual",
+  "initialEmotion": "Emoción inicial hacia el usuario",
+  "chapterGoal": "Objetivo del capítulo",
+  "triggerCondition": "Condición de activación",
+  "background": "Fondo",
+  "additionalInfo": "Info adicional",
+  "gender": "Género",
+  "genderMale": "Masculino",
+  "genderFemale": "Femenino",
+  "genderOther": "Otro"
+}

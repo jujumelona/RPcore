@@ -1,0 +1,20 @@
+{
+  "story": "Story",
+  "storyLoading": "Loading story...",
+  "storyCreating": "Creating story...",
+  "startStory": "Start Story",
+  "continueHere": "Continue here",
+  "chapter": "Chapter",
+  "characters": "Characters",
+  "character": "Character",
+  "myStories": "My Stories",
+  "ongoingStories": "Ongoing Stories",
+  "recommendedStories": "Recommended Stories",
+  "reportStory": "Report Story",
+  "blockStory": "Block Story",
+  "storyProgress": "Progress",
+  "progressRate": "Progress",
+  "endingsFound": "Endings",
+  "messageCount": "Messages",
+  "visitedChapters": "Chapters"
+}

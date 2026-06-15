@@ -1,0 +1,17 @@
+{
+  "worldSetting": "विश्व सेटिंग",
+  "worldSettingHint": "केवल सभी अध्यायों में अपरिवर्तनीय सेटिंग लिखें।\nअध्याय-विशिष्ट जानकारी अध्याय के अतिरिक्त जानकारी फ़ील्ड में जाती है।",
+  "personality": "व्यक्तित्व",
+  "speechPattern": "बोलने/व्यवहार का तरीका",
+  "habit": "आदतें",
+  "currentSituation": "वर्तमान स्थिति",
+  "initialEmotion": "उपयोगकर्ता के प्रति प्रारंभिक भावना",
+  "chapterGoal": "अध्याय लक्ष्य",
+  "triggerCondition": "सक्रियण शर्त",
+  "background": "पृष्ठभूमि",
+  "additionalInfo": "अतिरिक्त जानकारी",
+  "gender": "लिंग",
+  "genderMale": "पुरुष",
+  "genderFemale": "महिला",
+  "genderOther": "अन्य"
+}

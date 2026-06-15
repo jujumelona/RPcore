@@ -1,0 +1,7 @@
+{
+  "aiModalTitle": " AI 스토리 도우미",
+  "aiModalHint": "원하는 스토리나 장르, 하고 싶은 것을 자유롭게 적어주세요.\nAI가 제작 페이지를 자동으로 채워드립니다.",
+  "aiModalPlaceholder": "예) 집착남 공작과의 계약결혼 로맨스 판타지.\n냉소적이지만 나만 바라보는 캐릭터.",
+  "aiModalBtn": " 자동 작성 시작",
+  "aiModalBtnLoading": "AI 생성 중..."
+}

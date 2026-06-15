@@ -1,0 +1,66 @@
+{
+  "statusLabels": {
+    "open": "已受理",
+    "reviewing": "審核中",
+    "resolved": "已解決",
+    "rejected": "已駁回",
+    "auto_hidden": "自動隱藏"
+  },
+  "priorityLabels": {
+    "critical": "緊急",
+    "high": "高",
+    "medium": "中",
+    "low": "低"
+  },
+  "targetTypeLabels": {
+    "story": "故事",
+    "post": "貼文",
+    "user": "使用者",
+    "comment": "留言"
+  },
+  "filterActionable": "需要處理",
+  "filterAll": "全部",
+  "hintLabels": {
+    "immediate_escalation": "需要立即升級處理",
+    "already_hidden_pending_review": "內容已隱藏，等待審核",
+    "high_risk_reason": "因高風險原因等待營運審核",
+    "aged_unresolved_report": "這則檢舉已長時間未處理",
+    "needs_follow_up_soon": "需要盡快跟進",
+    "standard_moderation_review": "依一般審核流程處理即可"
+  },
+  "systemResolutionNotes": {
+    "open": "行動端管理員重新開啟了此檢舉。",
+    "reviewing": "行動端管理員已開始審核。",
+    "resolved": "行動端管理員已解決此檢舉。",
+    "rejected": "行動端管理員已駁回此檢舉。",
+    "auto_hidden": "行動端管理員已隱藏此內容。"
+  },
+  "noReportDetail": "未提供詳細檢舉說明。",
+  "reportPrefix": "檢舉",
+  "reporterPrefix": "檢舉人",
+  "assigneePrefix": "負責人",
+  "resolutionLabel": "處理備註",
+  "actionReview": "審核",
+  "actionHide": "隱藏",
+  "actionResolve": "解決",
+  "actionReject": "駁回",
+  "actionReopen": "重新開啟",
+  "changingStatus": "正在更新狀態...",
+  "reportQueueTitle": "檢舉佇列",
+  "actionableLabel": "需要處理",
+  "criticalLabel": "緊急",
+  "autoHiddenLabel": "自動隱藏",
+  "moderationQueueSummaryTitle": "檢舉佇列摘要",
+  "immediateActionLabel": "立即處理",
+  "importantReportsLabel": "重要檢舉",
+  "totalReportsLabel": "檢舉總數",
+  "currentResultsLabel": "目前結果",
+  "reportSearchPlaceholder": "搜尋檢舉標題、ID、原因或備註",
+  "noReports": "目前沒有需要審核的檢舉。",
+  "noMatchingReports": "沒有符合篩選條件的檢舉。",
+  "statusChangeTitle": "變更檢舉狀態",
+  "statusChangeMessage": "要將「{target}」的檢舉改為「{status}」嗎？",
+  "statusChangeConfirm": "變更",
+  "statusChangeFailedTitle": "變更失敗",
+  "statusChangeFailedBody": "無法更新檢舉狀態，請再試一次。"
+}

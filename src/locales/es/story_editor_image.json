@@ -1,0 +1,8 @@
+{
+  "imgPermTitle": "Permiso de acceso a imágenes",
+  "imgPermMsg": "Se requiere acceso a la galería.",
+  "imgPermAllow": "Permitir",
+  "imgPermDeny": "Denegar",
+  "imgPermNeeded": "Se requiere permiso de acceso a la galería.",
+  "imgPermLibrary": "Se requiere react-native-image-picker."
+}

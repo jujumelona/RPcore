@@ -1,0 +1,8 @@
+{
+  "modelNameMini": "迷你模型 (270M)",
+  "modelNameLight": "轻量模型",
+  "modelNameStandard": "标准模型",
+  "modelNamePro": "专业模型",
+  "modelNameReasoning": "推理模型 (E2B)",
+  "modelNameEmergency": "应急模型 (270M)"
+}

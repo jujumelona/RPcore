@@ -1,0 +1,20 @@
+{
+  "modelSummaryMini1": "RAM 3GB+ · למכשירים ישנים בלבד",
+  "modelSummaryMini2": "איכות מוגבלת מאוד · לא מומלץ",
+  "modelSummaryMini3": "~270MB",
+  "modelSummaryLight1": "RAM 6GB+ · האצת GPU/NPU",
+  "modelSummaryLight2": " תגובה מהירה · מתאים לצ'אט בסיסי",
+  "modelSummaryLight3": "~700MB",
+  "modelSummaryStandard1": "RAM 8GB+ מומלץ · האצת GPU/NPU",
+  "modelSummaryStandard2": "איזון בין מהירות לאיכות · שימוש כללי",
+  "modelSummaryStandard3": "~2GB",
+  "modelSummaryPro1": "RAM 12GB+ · האצת GPU/NPU",
+  "modelSummaryPro2": "הסקה באיכות הגבוהה ביותר",
+  "modelSummaryPro3": "~4GB",
+  "modelSummaryReasoning1": "RAM 8GB+ · تسريع HTP / GPU",
+  "modelSummaryReasoning2": "أفضل جودة · موصى به",
+  "modelSummaryReasoning3": "~2.5GB · سياق 8K",
+  "modelSummaryEmergency1": "RAM 4GB+ · وضع CPU",
+  "modelSummaryEmergency2": "كفاءة في البطارية · جودة أساسية",
+  "modelSummaryEmergency3": "~200MB · سياق 4K"
+}

@@ -1,0 +1,10 @@
+{
+  "createTab": "Oluştur",
+  "createTip": "İstediğiniz hikayeyi veya türü özgürce yazın.\nAI oluşturma sayfasını otomatik dolduracak.",
+  "tempSave": "Taslak",
+  "publish": "Yayınla",
+  "title": "Başlık",
+  "description": "Açıklama",
+  "tags": "Etiketler",
+  "generate": "Oluştur"
+}

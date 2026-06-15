@@ -1,0 +1,6 @@
+{
+  "debugLogTitle": "Журнал отладки",
+  "logLines": "{n} строк",
+  "autoScrollOn": "Автопрокрутка ВКЛ",
+  "autoScrollOff": "Автопрокрутка ВЫКЛ"
+}

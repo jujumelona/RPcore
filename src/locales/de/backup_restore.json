@@ -1,0 +1,20 @@
+{
+  "backupRestoreTitle": "Backup / Wiederherstellen",
+  "selectSections": "Einzuschließende Elemente",
+  "backup_settings": "Einstellungen",
+  "backup_readingStats": "Statistiken",
+  "backup_contentFilterRules": "Filter",
+  "backup_notificationPrefs": "Benachrichtigungen",
+  "backup_drafts": "Entwürfe",
+  "backupBtn": "Backup exportieren",
+  "restoreBtn": "Wiederherstellen",
+  "backupSuccess": "Backup gespeichert",
+  "backupFailed": "Backup fehlgeschlagen",
+  "restoreConfirmTitle": "Wiederherstellung bestätigen",
+  "restoreConfirmMsg": "Ausgewählte Daten werden überschrieben. Fortfahren?",
+  "restoreSuccess": "Wiederherstellung abgeschlossen",
+  "noFileSelected": "Keine Datei ausgewählt",
+  "invalidBackup": "Ungültige Backup-Datei",
+  "cancel": "Abbrechen",
+  "backupHint": "Backups werden im Download-Ordner gespeichert."
+}

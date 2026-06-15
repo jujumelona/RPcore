@@ -1,0 +1,20 @@
+{
+  "modelSummaryMini1": "RAM 3GB+ · Только для старых устройств",
+  "modelSummaryMini2": "Очень ограниченное качество · Не рекомендуется",
+  "modelSummaryMini3": "~270MB",
+  "modelSummaryLight1": "RAM 6GB+ · Ускорение GPU/NPU",
+  "modelSummaryLight2": " Быстрый отклик · Хорош для базового чата",
+  "modelSummaryLight3": "~700MB",
+  "modelSummaryStandard1": "RAM 8GB+ рекомендуется · Ускорение GPU/NPU",
+  "modelSummaryStandard2": "Баланс скорости и качества · Общее использование",
+  "modelSummaryStandard3": "~2GB",
+  "modelSummaryPro1": "RAM 12GB+ · Ускорение GPU/NPU",
+  "modelSummaryPro2": "Вывод наивысшего качества",
+  "modelSummaryPro3": "~4GB",
+  "modelSummaryReasoning1": "RAM 8GB+ · Accelerazione HTP / GPU",
+  "modelSummaryReasoning2": "Migliore Qualità · Consigliato",
+  "modelSummaryReasoning3": "~2.5GB · Contesto 8K",
+  "modelSummaryEmergency1": "RAM 4GB+ · Modalità CPU",
+  "modelSummaryEmergency2": "Efficienza batteria · Qualità base",
+  "modelSummaryEmergency3": "~200MB · Contesto 4K"
+}

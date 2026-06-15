@@ -1,0 +1,12 @@
+{
+  "wizardChipGenre": "ジャンル",
+  "wizardChipPlot": "あらすじ",
+  "wizardChipChar": "人物",
+  "wizardChipWorld": "世界観",
+  "wizardChipTone": "雰囲気",
+  "wizardChipChapter": "チャプター",
+  "wizardChipFlow": "流れ",
+  "wizardChipBranch": "分岐",
+  "wizardChipTokens": "トークン",
+  "wizardChipChapterUnit": "チャプター"
+}

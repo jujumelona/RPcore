@@ -1,0 +1,9 @@
+{
+  "licenseNotFound": "Lizenzinformationen nicht bestätigt — bitte direkt im Repository prüfen.",
+  "title": "Open-Source-Lizenzen",
+  "cautionItems": "Diese Einträge erfordern besondere Aufmerksamkeit.",
+  "license": "Lizenz",
+  "version": "Version",
+  "stats": "Lizenzstatistiken",
+  "libSearch": "Nach Bibliotheksname suchen..."
+}

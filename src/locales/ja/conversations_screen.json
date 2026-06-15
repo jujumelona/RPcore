@@ -1,0 +1,18 @@
+{
+  "conversations2": "会話",
+  "scraps": "スクラップ",
+  "noScraps2": "スクラップした会話はありません",
+  "searchPlaceholder": "検索",
+  "browseStories": "ストーリーを見る",
+  "searchConversations": "会話を検索...",
+  "numUnreadMessages": "{n}件未読",
+  "deleteConv": "会話を削除",
+  "latestOrder": "最新",
+  "noSearchResults2": "検索結果がありません",
+  "swipeToDelete": "スワイプして削除",
+  "searchNoResultsSubtitle": "別の検索語を試してください",
+  "homeToStartChat": "ホームでストーリーを選んで最初の会話を始めましょう",
+  "exploreStories": "ストーリーを見る",
+  "deletedConv": "\"{n}\" を削除しました",
+  "undo": "元に戻す"
+}

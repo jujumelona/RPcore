@@ -1,0 +1,12 @@
+{
+  "toastTitleRequired": "الرجاء إدخال عنوان",
+  "toastSaveOk": "تم الحفظ ",
+  "toastSaveFail": "فشل الحفظ: ",
+  "toastMaxChars": "الحد الأقصى 10 أحرف",
+  "toastChapterMin": "تحتاج إلى فصلين على الأقل لتلخيصها كرواية ويب",
+  "toastNoStory": "الرجاء إدخال القصة التي تريدها",
+  "toastAiApplied": "تم تطبيق اقتراحات الذكاء الاصطناعي ",
+  "toastAiFail": "فشل توليد الذكاء الاصطناعي: ",
+  "toastServerErr": "خطأ في الخادم ",
+  "selectStylePresetRequired": "يرجى اختيار إعداد نمط مسبق."
+}

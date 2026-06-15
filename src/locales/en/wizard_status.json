@@ -1,0 +1,15 @@
+{
+  "wizardInitStatus": "Initializing model...",
+  "wizardLoadingStatus": "Loading model...",
+  "wizardReadyStatus": "Ready",
+  "wizardModuleError": "Native module unavailable",
+  "wizardInitFail": "Initialization failed",
+  "wizardNoModel": "No AI model downloaded. Please go to My Page and download one first.",
+  "wizardGenTitle": "Crafting story...",
+  "wizardGenSub": "AI is filling the story editor",
+  "wizardGenSubLong": "High token count may take a while",
+  "wizardGenSubWait": "Please wait a moment",
+  "wizardErrTitle": "Error Occurred",
+  "wizardErrRetry": "Retry",
+  "wizardPctComplete": "% done"
+}

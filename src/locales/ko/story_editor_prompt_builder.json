@@ -1,0 +1,10 @@
+{
+  "headerLangLabel": "번역 언어: ",
+  "headerRule": "규칙: 원본 키 앞에 LANG_{{언어코드}}_ 붙여서 출력. {U}/{u} 번역 금지. 설명·마크다운 없이 키:값만.",
+  "ruleStory": "추가 규칙: TAGS는 # 기호 유지, 자연스럽게 번역",
+  "ruleCharacter": "추가 규칙: 이름은 해당 언어권으로 현지화, 나이는 숫자만",
+  "ruleIntro": "추가 규칙: 나레이터(3인칭 묘사)와 캐릭터(1인칭 대사) 문체 구분",
+  "speakerNarrator": "나레이터",
+  "speakerUser": "유저",
+  "speakerCharPrefix": "캐릭터"
+}

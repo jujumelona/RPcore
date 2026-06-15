@@ -1,0 +1,19 @@
+{
+  "emotionState": "감정 상태",
+  "innerState": "현재 캐릭터의 내면",
+  "tapFullscreen": "탭하면 전체화면",
+  "representative": "대표",
+  "basicInfo": "기본 정보",
+  "personality": "성격",
+  "habitsFeatures": "습관 & 특징",
+  "currentSituation": "현재 상황",
+  "like": "좋아요",
+  "namePlaceholder": "이름",
+  "agePlaceholder": "나이",
+  "genderPlaceholder": "성별",
+  "jobPlaceholder": "직업",
+  "viewAll": "전체보기",
+  "player": "플레이어",
+  "aiCharacter": "AI 캐릭터",
+  "photos": "사진"
+}

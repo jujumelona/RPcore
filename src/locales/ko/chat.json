@@ -1,0 +1,9 @@
+{
+  "typeMessage": "메시지를 입력하세요...",
+  "send": "전송",
+  "thinking": "생각 중...",
+  "typing": "입력 중...",
+  "newChat": "새 대화",
+  "startChat": "대화 시작하기",
+  "noChats": "대화가 없습니다"
+}

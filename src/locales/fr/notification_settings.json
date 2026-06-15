@@ -1,0 +1,17 @@
+{
+  "notifSettingsTitle": "Paramètres de notification",
+  "notifGlobal": "Toutes les notifications",
+  "notifCategories": "Catégories",
+  "notifCat_new_follower": "Nouveau follower",
+  "notifCat_like": "Like",
+  "notifCat_comment": "Commentaire",
+  "notifCat_mention": "Mention",
+  "notifCat_story_update": "Mise à jour story",
+  "notifCat_chapter_release": "Nouveau chapitre",
+  "notifCat_system": "Système",
+  "notifDND": "Ne pas déranger",
+  "notifDNDEnable": "Ne pas déranger",
+  "notifDNDStart": "Début",
+  "notifDNDEnd": "Fin",
+  "notifTimezone": "Fuseau horaire"
+}

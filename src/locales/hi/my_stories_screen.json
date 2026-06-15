@@ -1,0 +1,10 @@
+{
+  "myStoriesTotal": "कुल",
+  "myStoriesPublished": "प्रकाशित",
+  "myStoriesViews": "देखे गए",
+  "myStoriesLikes": "लाइक",
+  "myStoriesDraftCount": "ड्राफ्ट {n}",
+  "deleteSelectedTitle": "कहानियां हटाएं",
+  "deleteSelectedConfirm": "{n} कहानियां हटाएं?\nहटाई गई कहानियां वापस नहीं लाई जा सकतीं।",
+  "deleteFailed": "हटाया नहीं जा सका।"
+}

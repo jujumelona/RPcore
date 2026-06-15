@@ -1,0 +1,20 @@
+{
+  "modelSummaryMini1": "RAM 3GB+ · Tylko dla starych urządzeń",
+  "modelSummaryMini2": "Bardzo ograniczona jakość · Niezalecane",
+  "modelSummaryMini3": "~270MB",
+  "modelSummaryLight1": "RAM 6GB+ · Akceleracja GPU/NPU",
+  "modelSummaryLight2": "Szybka odpowiedź · Dobry do podstawowego czatu",
+  "modelSummaryLight3": "~700MB",
+  "modelSummaryStandard1": "RAM 8GB+ zalecane · Akceleracja GPU/NPU",
+  "modelSummaryStandard2": "Balans szybkości i jakości · Użytek ogólny",
+  "modelSummaryStandard3": "~2GB",
+  "modelSummaryPro1": "RAM 12GB+ · Akceleracja GPU/NPU",
+  "modelSummaryPro2": "Wnioskowanie najwyższej jakości",
+  "modelSummaryPro3": "~4GB",
+  "modelSummaryReasoning1": "RAM 8GB+ · HTP / GPU Hızlandırmalı",
+  "modelSummaryReasoning2": "En İyi Kalite · Önerilir",
+  "modelSummaryReasoning3": "~2.5GB · Bağlam 8K",
+  "modelSummaryEmergency1": "RAM 4GB+ · CPU Modu",
+  "modelSummaryEmergency2": "Pil Verimli · Temel Kalite",
+  "modelSummaryEmergency3": "~200MB · Bağlam 4K"
+}

@@ -1,0 +1,10 @@
+{
+  "wizardTokenQ": "KI-Generierungslänge auswählen",
+  "wizardTokenHint": "1 Token ≈ 0,5-1 Zeichen. Mehr Tokens = mehr Detail, aber längere Wartezeit.",
+  "wizardTokenFastDesc": "Schnell, kurz und knapp",
+  "wizardTokenNormalDesc": "Normal, ausgewogen",
+  "wizardTokenDetailDesc": "Detailliert, lebhafte Beschreibung",
+  "wizardTokenFullDesc": "Sehr detailliert, dauert länger",
+  "wizardTokenUnit": "tokens",
+  "wizardTokenDirect": "Oder direkt eingeben (512-8192)"
+}

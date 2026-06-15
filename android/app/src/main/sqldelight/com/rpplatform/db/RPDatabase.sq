@@ -1,0 +1,68 @@
+-- RPDatabase.sq
+-- 2026?형 고성??채팅, 캐릭???RAG(검??증강 ?성) ?키?
+
+-- 캐릭???보
+CREATE TABLE characterEntity (
+    id TEXT PRIMARY KEY NOT NULL,
+    name TEXT NOT NULL,
+    personality TEXT,
+    imagePath TEXT,
+    basePrompt TEXT,
+    loveScore INTEGER DEFAULT 0,
+    updatedAt INTEGER NOT NULL
+);
+
+-- 채팅 메시지 (?만 ????
+CREATE TABLE chatMessageEntity (
+    id TEXT PRIMARY KEY NOT NULL,
+    storyId TEXT NOT NULL,
+    speakerId TEXT NOT NULL,
+    content TEXT NOT NULL,
+    timestamp INTEGER NOT NULL,
+    isImportant INTEGER DEFAULT 0,
+    emotionDeltas TEXT, -- JSON String
+    embedding BLOB      -- 벡터 검?용 ?베??(RAG)
+);
+
+-- ????약 (메모??약 ??기 기억??
+CREATE TABLE conversationSummaryEntity (
+    id TEXT PRIMARY KEY NOT NULL,
+    storyId TEXT NOT NULL,
+    summary TEXT NOT NULL,
+    startTimestamp INTEGER NOT NULL,
+    endTimestamp INTEGER NOT NULL,
+    importance INTEGER DEFAULT 5
+);
+
+-- ?덱???정 (검????렬 최적??
+CREATE INDEX idx_chat_story_time ON chatMessageEntity(storyId, timestamp DESC);
+CREATE INDEX idx_summary_story ON conversationSummaryEntity(storyId, endTimestamp DESC);
+
+-- 쿼리 ?의
+selectAllCharacters:
+SELECT * FROM characterEntity ORDER BY name;
+
+insertCharacter:
+INSERT OR REPLACE INTO characterEntity(id, name, personality, imagePath, basePrompt, updatedAt)
+VALUES (?, ?, ?, ?, ?, ?);
+
+getMessagesByStory:
+SELECT * FROM chatMessageEntity WHERE storyId = ? ORDER BY timestamp ASC;
+
+-- RAG?? 중요 메시지 ??약?기반 컨텍?트 추출
+getContextForAI:
+SELECT content FROM chatMessageEntity
+WHERE storyId = ? AND (isImportant = 1 OR timestamp > ?)
+ORDER BY timestamp DESC LIMIT 20;
+
+insertMessage:
+INSERT INTO chatMessageEntity(id, storyId, speakerId, content, timestamp, isImportant, emotionDeltas, embedding)
+VALUES (?, ?, ?, ?, ?, ?, ?, ?);
+
+insertSummary:
+INSERT INTO conversationSummaryEntity(id, storyId, summary, startTimestamp, endTimestamp, importance)
+VALUES (?, ?, ?, ?, ?, ?);
+
+-- ?래??메시지 ?? (메모?관리용)
+deleteOldMessages:
+DELETE FROM chatMessageEntity WHERE storyId = ? AND timestamp < ? AND isImportant = 0;

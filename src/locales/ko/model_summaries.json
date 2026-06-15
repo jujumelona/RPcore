@@ -1,0 +1,20 @@
+{
+  "modelSummaryMini1": "RAM 3GB+ · 구형/저사양 기기 전용",
+  "modelSummaryMini2": "품질 매우 제한적 · 비권장",
+  "modelSummaryMini3": "~270MB",
+  "modelSummaryLight1": "RAM 6GB+ · GPU/NPU 가속",
+  "modelSummaryLight2": " 빠른 응답 · 기본 채팅에 적합",
+  "modelSummaryLight3": "~700MB",
+  "modelSummaryStandard1": "RAM 8GB+ 권장 · GPU/NPU 가속",
+  "modelSummaryStandard2": "속도와 품질의 균형 · 일반 사용에 최적",
+  "modelSummaryStandard3": "~2GB",
+  "modelSummaryPro1": "RAM 12GB+ · GPU/NPU 가속",
+  "modelSummaryPro2": "최고 품질 추론",
+  "modelSummaryPro3": "~4GB",
+  "modelSummaryReasoning1": "RAM 8GB+ · HTP / GPU 가속",
+  "modelSummaryReasoning2": "최고 품질 · 권장",
+  "modelSummaryReasoning3": "~2.5GB · 컨텍스트 8K",
+  "modelSummaryEmergency1": "RAM 4GB+ · CPU 모드",
+  "modelSummaryEmergency2": "배터리 효율 · 기본 품질",
+  "modelSummaryEmergency3": "~200MB · 컨텍스트 4K"
+}

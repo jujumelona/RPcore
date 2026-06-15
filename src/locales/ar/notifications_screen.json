@@ -1,0 +1,15 @@
+{
+  "tabNotification": "الإشعارات",
+  "tabAnnouncement": "الإعلانات",
+  "noNotifications": "لا توجد إشعارات",
+  "noAnnouncements": "لا توجد إعلانات",
+  "notifReadAll": "تحديد الكل كمقروء",
+  "notifEmptySub": "ستظهر الأنشطة الجديدة هنا",
+  "timeJustNow": "الآن",
+  "timeMinAgo": "منذ {n} دقيقة",
+  "timeHourAgo": "منذ {n} ساعة",
+  "timeDayAgo": "منذ {n} أيام",
+  "noRecentSearches": "لا توجد عمليات بحث حديثة",
+  "noRecentSearchesSub": "ابحث عن القصص والمؤلفين والوسوم",
+  "rtlLayout": "rtl"
+}

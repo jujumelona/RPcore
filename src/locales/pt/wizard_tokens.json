@@ -1,0 +1,10 @@
+{
+  "wizardTokenQ": "Selecione o comprimento de geração da IA",
+  "wizardTokenHint": "1 token ≈ 0,5-1 caractere. Mais tokens = mais detalhes, mas mais espera.",
+  "wizardTokenFastDesc": "Rápido, curto e breve",
+  "wizardTokenNormalDesc": "Normal, equilibrado",
+  "wizardTokenDetailDesc": "Detalhado, descrição vívida",
+  "wizardTokenFullDesc": "Muito detalhado, demora mais",
+  "wizardTokenUnit": "tokens",
+  "wizardTokenDirect": "Ou digite diretamente (512-8192)"
+}

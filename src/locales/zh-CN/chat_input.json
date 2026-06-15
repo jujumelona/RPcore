@@ -1,0 +1,9 @@
+{
+  "inputPlaceholder": "输入消息...",
+  "inputConvertingNovel": "转换中...",
+  "inputModelLoading": "加载模型中...",
+  "inputGpuPreparing": "准备GPU...",
+  "inputTyping": "{char} 回复中...",
+  "inputChoosing": "请选择一个选项",
+  "inputReplyingTo": "回复@{name}"
+}

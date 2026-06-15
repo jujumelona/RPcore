@@ -1,0 +1,18 @@
+{
+  "languageSettings": "भाषा सेटिंग्स",
+  "appLanguage": "ऐप भाषा",
+  "aiLanguage": "AI प्रतिक्रिया भाषा",
+  "languageChanged": "भाषा बदली गई",
+  "syncLanguages": "ऐप और AI भाषा सिंक करें",
+  "syncDone": "भाषाएं सिंक हो गईं!",
+  "alsoChangeAI": "AI भाषा भी बदलें?",
+  "aiWillRespond": "AI इस भाषा में जवाब देगा:",
+  "languageTip": "टिप: आप ऐप और AI भाषा अलग-अलग सेट कर सकते हैं।",
+  "languageSystemTitle": "भाषा प्रवर्तन प्रणाली",
+  "langFeature1": "• AI केवल चयनित भाषा में जवाब देता है",
+  "langFeature2": "• अन्य भाषा में टाइप करने पर भी काम करता है",
+  "langFeature3": "• 99%+ सटीकता की गारंटी",
+  "langFeature4": "• रियल-टाइम भाषा सत्यापन",
+  "autoDetected": "आपके स्थान के आधार पर स्वचालित रूप से पहचाना गया",
+  "rtlSupportLabel": "RTL समर्थन"
+}

@@ -1,0 +1,20 @@
+{
+  "backupRestoreTitle": "備份 / 還原",
+  "selectSections": "包含項目",
+  "backup_settings": "設定",
+  "backup_readingStats": "閱讀統計",
+  "backup_contentFilterRules": "內容過濾",
+  "backup_notificationPrefs": "通知設定",
+  "backup_drafts": "草稿",
+  "backupBtn": "匯出備份",
+  "restoreBtn": "還原備份",
+  "backupSuccess": "備份已儲存",
+  "backupFailed": "備份失敗",
+  "restoreConfirmTitle": "確認還原",
+  "restoreConfirmMsg": "選取的資料將被覆蓋。繼續嗎？",
+  "restoreSuccess": "還原完成",
+  "noFileSelected": "未選擇檔案",
+  "invalidBackup": "無效的備份檔案",
+  "cancel": "取消",
+  "backupHint": "備份檔案儲存至下載資料夾。還原時僅覆蓋選取的項目。"
+}

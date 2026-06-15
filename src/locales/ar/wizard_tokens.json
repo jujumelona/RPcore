@@ -1,0 +1,10 @@
+{
+  "wizardTokenQ": "اختر طول توليد الذكاء الاصطناعي",
+  "wizardTokenHint": "1 رمز ≈ 0.5-1 حرف. المزيد من الرموز = مزيد من التفاصيل لكن انتظار أطول.",
+  "wizardTokenFastDesc": "سريع، قصير وموجز",
+  "wizardTokenNormalDesc": "طبيعي، متوازن",
+  "wizardTokenDetailDesc": "تفصيلي، وصف حي",
+  "wizardTokenFullDesc": "تفصيلي جداً، يستغرق وقتاً أطول",
+  "wizardTokenUnit": "رمز",
+  "wizardTokenDirect": "أو اكتب مباشرة (512-8192)"
+}

@@ -1,0 +1,66 @@
+{
+  "statusLabels": {
+    "open": "เปิด",
+    "reviewing": "กำลังตรวจสอบ",
+    "resolved": "แก้ไขแล้ว",
+    "rejected": "ปฏิเสธ",
+    "auto_hidden": "ซ่อนอัตโนมัติ"
+  },
+  "priorityLabels": {
+    "critical": "วิกฤต",
+    "high": "สูง",
+    "medium": "กลาง",
+    "low": "ต่ำ"
+  },
+  "targetTypeLabels": {
+    "story": "เรื่องราว",
+    "post": "โพสต์",
+    "user": "ผู้ใช้",
+    "comment": "ความคิดเห็น"
+  },
+  "filterActionable": "ต้องดำเนินการ",
+  "filterAll": "ทั้งหมด",
+  "hintLabels": {
+    "immediate_escalation": "ต้องยกระดับทันที",
+    "already_hidden_pending_review": "ถูกซ่อนไว้แล้วและรอการตรวจสอบ",
+    "high_risk_reason": "เหตุผลมีความเสี่ยงสูงในคิวผู้ดูแล",
+    "aged_unresolved_report": "รายงานนี้ค้างโดยยังไม่แก้ไขมานาน",
+    "needs_follow_up_soon": "ต้องติดตามต่อในเร็ว ๆ นี้",
+    "standard_moderation_review": "ตรวจสอบตามขั้นตอนปกติได้"
+  },
+  "systemResolutionNotes": {
+    "open": "ผู้ดูแลบนมือถือเปิดรายงานนี้อีกครั้ง",
+    "reviewing": "ผู้ดูแลบนมือถือเริ่มตรวจสอบแล้ว",
+    "resolved": "ผู้ดูแลบนมือถือแก้ไขรายงานแล้ว",
+    "rejected": "ผู้ดูแลบนมือถือปฏิเสธรายงานแล้ว",
+    "auto_hidden": "ผู้ดูแลบนมือถือซ่อนเนื้อหาแล้ว"
+  },
+  "noReportDetail": "ไม่มีหมายเหตุรายละเอียดของรายงาน",
+  "reportPrefix": "รายงาน",
+  "reporterPrefix": "ผู้รายงาน",
+  "assigneePrefix": "ผู้รับผิดชอบ",
+  "resolutionLabel": "บันทึกการดำเนินการ",
+  "actionReview": "ตรวจสอบ",
+  "actionHide": "ซ่อน",
+  "actionResolve": "แก้ไข",
+  "actionReject": "ปฏิเสธ",
+  "actionReopen": "เปิดใหม่",
+  "changingStatus": "กำลังอัปเดตสถานะ...",
+  "reportQueueTitle": "คิวรายงาน",
+  "actionableLabel": "ต้องดำเนินการ",
+  "criticalLabel": "วิกฤต",
+  "autoHiddenLabel": "ซ่อนอัตโนมัติ",
+  "moderationQueueSummaryTitle": "สรุปคิวการดูแล",
+  "immediateActionLabel": "ต้องดำเนินการทันที",
+  "importantReportsLabel": "รายงานสำคัญ",
+  "totalReportsLabel": "รายงานทั้งหมด",
+  "currentResultsLabel": "ผลลัพธ์ปัจจุบัน",
+  "reportSearchPlaceholder": "ค้นหาชื่อรายงาน ID เหตุผล หรือบันทึก",
+  "noReports": "ขณะนี้ไม่มีรายงานให้ตรวจสอบ",
+  "noMatchingReports": "ไม่มีรายงานที่ตรงกับตัวกรองที่เลือก",
+  "statusChangeTitle": "เปลี่ยนสถานะรายงาน",
+  "statusChangeMessage": "เปลี่ยนรายงานของ \"{target}\" เป็น \"{status}\" หรือไม่?",
+  "statusChangeConfirm": "เปลี่ยน",
+  "statusChangeFailedTitle": "เปลี่ยนไม่สำเร็จ",
+  "statusChangeFailedBody": "ไม่สามารถอัปเดตสถานะรายงานได้ กรุณาลองอีกครั้ง"
+}

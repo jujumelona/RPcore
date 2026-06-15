@@ -1,0 +1,17 @@
+{
+  "numSaved": "{n}件保存済み",
+  "numDeleted": "{n}件削除完了",
+  "numShared": "{n}件共有",
+  "novelDeleteTitle": "ウェブ小説削除",
+  "novelDeleteMsg": "{n}件を削除しますか？元に戻せません。",
+  "noWebNovels": "保存済みウェブ小説",
+  "selectAll": "すべて選択",
+  "deselectAll": "選択解除",
+  "searchResults": "検索結果",
+  "returnToOriginal": "元の位置に戻る",
+  "resumeReading": "{n}%地点から再開",
+  "resumeMove": "移動",
+  "resumeClose": "閉じる",
+  "chapterPrefix": "第{n}話",
+  "chapterAlt": "第 {n} 章"
+}

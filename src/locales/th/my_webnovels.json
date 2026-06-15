@@ -1,0 +1,17 @@
+{
+  "numSaved": "บันทึกแล้ว {n} รายการ",
+  "numDeleted": "ลบแล้ว {n} รายการ",
+  "numShared": "แชร์ {n} รายการ",
+  "novelDeleteTitle": "ลบนิยาย",
+  "novelDeleteMsg": "ลบ {n} รายการ? ไม่สามารถยกเลิกได้",
+  "noWebNovels": "นิยายที่บันทึกไว้",
+  "selectAll": "เลือกทั้งหมด",
+  "deselectAll": "ยกเลิกการเลือกทั้งหมด",
+  "searchResults": "ผลการค้นหา",
+  "returnToOriginal": "กลับไปยังตำแหน่งเดิม",
+  "resumeReading": "อ่านต่อที่ {n}%",
+  "resumeMove": "ไป",
+  "resumeClose": "ปิด",
+  "chapterPrefix": "ตอนที่ {n}",
+  "chapterAlt": "ตอนที่ {n}"
+}

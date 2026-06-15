@@ -1,0 +1,17 @@
+{
+  "numSaved": "{n}개 저장됨",
+  "numDeleted": "{n}개 삭제 완료",
+  "numShared": "{n}개 공유",
+  "novelDeleteTitle": "웹소설 삭제",
+  "novelDeleteMsg": "{n}개를 삭제할까요? 되돌릴 수 없습니다.",
+  "noWebNovels": "저장된 웹소설",
+  "selectAll": "전체 선택",
+  "deselectAll": "전체 해제",
+  "searchResults": "검색 결과",
+  "returnToOriginal": "원래 위치로 돌아가기",
+  "resumeReading": "{n}% 지점에서 재개",
+  "resumeMove": "이동",
+  "resumeClose": "닫기",
+  "chapterPrefix": "제{n}화",
+  "chapterAlt": "챕터 {n}"
+}

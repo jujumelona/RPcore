@@ -1,0 +1,18 @@
+{
+  "conversations2": "बातचीत",
+  "scraps": "स्क्रैप",
+  "noScraps2": "कोई सहेजी गई बातचीत नहीं है",
+  "searchPlaceholder": "खोजें",
+  "browseStories": "कहानियाँ देखें",
+  "searchConversations": "बातचीत खोजें...",
+  "numUnreadMessages": "{n} अपठित",
+  "deleteConv": "बातचीत हटाएँ",
+  "latestOrder": "नवीनतम",
+  "noSearchResults2": "कोई परिणाम नहीं मिला",
+  "swipeToDelete": "हटाने के लिए स्वाइप करें",
+  "searchNoResultsSubtitle": "कोई दूसरा खोज शब्द आज़माएँ",
+  "homeToStartChat": "अपनी पहली बातचीत शुरू करने के लिए होम से एक कहानी चुनें",
+  "exploreStories": "कहानियाँ देखें",
+  "deletedConv": "\"{n}\" हटाया गया",
+  "undo": "वापस लें"
+}

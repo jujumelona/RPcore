@@ -1,0 +1,193 @@
+{
+  "title": "資料政策",
+  "lastUpdatedLabel": "最後更新",
+  "sensitive": "敏感",
+  "dataCollectionTitle": "資料蒐集與用途",
+  "dataIntro": "我們只蒐集執行應用程式以及讓你的帳號在多台裝置間正常運作所需的最少資料。",
+  "dataLocalOnly": "除非你選擇使用同步功能，否則對話記錄與已下載檔案可能仍會保留在你的裝置上。",
+  "dataGroups": [
+    {
+      "category": "帳號資訊",
+      "items": [
+        {
+          "name": "電子郵件地址",
+          "purpose": "用於登入與帳號復原。",
+          "retention": "帳號刪除時會刪除。",
+          "sensitive": false
+        },
+        {
+          "name": "暱稱與個人頭像",
+          "purpose": "顯示於你的個人檔案與社群功能中。",
+          "retention": "帳號刪除時會刪除。",
+          "sensitive": false
+        }
+      ]
+    },
+    {
+      "category": "閱讀與聊天資料",
+      "items": [
+        {
+          "name": "聊天與閱讀紀錄",
+          "purpose": "用於還原對話、書籤與閱讀進度。",
+          "retention": "當你刪除帳號或清除本機資料時會移除。",
+          "sensitive": true
+        },
+        {
+          "name": "書庫活動",
+          "purpose": "用於同步收藏、追蹤與推薦。",
+          "retention": "帳號刪除時會刪除。",
+          "sensitive": false
+        }
+      ]
+    },
+    {
+      "category": "裝置資料",
+      "items": [
+        {
+          "name": "裝置系統與應用程式版本",
+          "purpose": "用於相容性檢查與支援。",
+          "retention": "僅在支援與診斷所需期間保留。",
+          "sensitive": false
+        },
+        {
+          "name": "本機快取",
+          "purpose": "用於加快載入與續讀。",
+          "retention": "一段時間未使用後會自動清理。",
+          "sensitive": true
+        }
+      ]
+    }
+  ],
+  "permissionsTitle": "應用程式權限",
+  "permissionsIntro": "以下權限只會在使用相關功能時要求。",
+  "permissionsDeniedNote": "如果你拒絕某項選用權限，核心服務仍可使用，但該功能可能會受到限制。",
+  "permissions": [
+    {
+      "permission": "INTERNET",
+      "android": true,
+      "ios": false,
+      "reason": "用於載入故事、同步你的書庫以及連線到網路服務。",
+      "sensitive": false
+    },
+    {
+      "permission": "Photos / Storage",
+      "android": true,
+      "ios": true,
+      "reason": "僅在你選擇檔案或上傳圖片時要求。",
+      "sensitive": true
+    },
+    {
+      "permission": "Notifications",
+      "android": true,
+      "ios": true,
+      "reason": "用於公告與已追蹤內容的更新通知。",
+      "sensitive": false
+    },
+    {
+      "permission": "Camera (optional)",
+      "android": true,
+      "ios": true,
+      "reason": "僅在你拍攝個人頭像或在應用程式內上傳圖片時要求。",
+      "sensitive": true
+    }
+  ],
+  "retentionTitle": "資料保存",
+  "retentionRows": [
+    {
+      "label": "聊天紀錄",
+      "value": "保存在裝置上，或於帳號刪除時一併移除。"
+    },
+    {
+      "label": "帳號資訊（伺服器）",
+      "value": "在確認刪除後 30 天內移除。"
+    },
+    {
+      "label": "分析記錄",
+      "value": "以彙整或匿名化形式最多保存 12 個月。"
+    },
+    {
+      "label": "本機快取",
+      "value": "在長期未使用或移除應用程式後自動刪除。"
+    },
+    {
+      "label": "加密",
+      "value": "伺服器使用 AES-256，裝置端在可用時使用安全儲存。"
+    }
+  ],
+  "legalRetention": "因法律、會計或防止詐欺原因必須保存的紀錄，會在法定期限內保留，之後刪除。",
+  "childPrivacyTitle": "兒童隱私",
+  "ageRestriction": "不適用於 13 歲以下使用者",
+  "childPrivacyIntro": "本服務面向 13 歲以上使用者。我們不會故意蒐集低於適用最低年齡兒童的個人資料。",
+  "childPrivacyLawNote": "如果你認為有兒童誤將個人資料傳送給我們，請透過下方地址與我們聯絡，以便我們檢查並刪除相關資訊。",
+  "coppaRequestSubject": "兒童資料刪除申請",
+  "applicableLawsLabel": "適用法律",
+  "applicableLawsValue": "COPPA（美國）、GDPR 第 8 條（歐盟）以及適用地區的兒童隱私規則。",
+  "thirdPartyTitle": "與第三方分享",
+  "thirdPartyIntro": "我們僅會與協助我們營運服務、衡量穩定性或提供基於同意廣告的合作夥伴分享有限資料。",
+  "thirdParties": [
+    {
+      "name": "Firebase",
+      "purpose": "身分驗證、通知與基本雲端傳遞。",
+      "policy": "https://firebase.google.com/support/privacy",
+      "transfers": "全球雲端區域"
+    },
+    {
+      "name": "Google AdMob",
+      "purpose": "基於同意的廣告投放。",
+      "policy": "https://policies.google.com/privacy",
+      "transfers": "全球雲端區域"
+    },
+    {
+      "name": "Sentry",
+      "purpose": "錯誤回報與穩定性監控。",
+      "policy": "https://sentry.io/privacy/",
+      "transfers": "全球雲端區域"
+    }
+  ],
+  "transferRegionLabel": "處理區域",
+  "privacyPolicyLabel": "隱私權政策",
+  "deletionTitle": "刪除與退出",
+  "deletionIntro": "當你提出刪除申請時，帳號資料、閱讀進度、書籤與同步紀錄將被刪除或排定刪除。",
+  "deletionBackupNote": "加密備份會在申請完成後依照服務提供者的保存計畫刪除。",
+  "method1": "方式 1 - 以電子郵件申請",
+  "method1Desc": "透過電子郵件送出刪除申請，我們會在驗證帳號後處理。",
+  "method2": "方式 2 - 在應用程式內刪除",
+  "method2Desc": "如果你已登入，下方按鈕會立即清除本機資料並開始刪除帳號。",
+  "deleteAccount": "永久刪除帳號與資料",
+  "deleteRequestSubject": "資料刪除申請",
+  "deleteConfirmTitle": "刪除帳號與資料",
+  "deleteConfirmMessage": "刪除帳號也會移除同步資料、閱讀進度與本機紀錄。\n此操作無法復原。\n\n你要繼續嗎？",
+  "deleteConfirmAction": "永久刪除",
+  "cancelAction": "取消",
+  "okAction": "確定",
+  "deleteErrorTitle": "刪除失敗",
+  "deleteError": "刪除帳號時發生問題。請聯絡支援團隊。",
+  "deleteProcessingAnnouncement": "正在處理帳號刪除申請。",
+  "deleteCompletedAnnouncement": "帳號刪除已完成。",
+  "rightsTitle": "你的權利",
+  "rights": [
+    {
+      "title": "存取",
+      "desc": "你可以申請取得我們持有的你的資料副本。"
+    },
+    {
+      "title": "更正",
+      "desc": "你可以要求我們更正不正確或不完整的資料。"
+    },
+    {
+      "title": "刪除",
+      "desc": "你可以申請刪除你的帳號資料與同步紀錄。"
+    },
+    {
+      "title": "可攜性",
+      "desc": "在適用情況下，你可以要求以可攜格式取得你的資料。"
+    }
+  ],
+  "rightsNote": "如需行使這些權利，請聯絡 fdje0303@gmail.com。我們通常會在 30 天內回覆。",
+  "dpoTitle": "資料保護負責人",
+  "dpoEmailLabel": "電子郵件",
+  "dpoPolicyWebsiteLabel": "政策網站",
+  "dpoResponseTimeLabel": "回覆時間",
+  "dpoResponseTimeValue": "3 個工作天內",
+  "footerLastUpdated": "資料政策最後更新：{date}"
+}

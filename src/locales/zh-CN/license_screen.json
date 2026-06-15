@@ -1,0 +1,9 @@
+{
+  "licenseNotFound": "许可证信息未确认 — 请直接在存储库中确认。",
+  "title": "开源许可证",
+  "cautionItems": "这些项目需要特别注意。",
+  "license": "许可证",
+  "version": "版本",
+  "stats": "许可证统计",
+  "libSearch": "按库名搜索..."
+}

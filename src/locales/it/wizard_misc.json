@@ -1,0 +1,6 @@
+{
+  "wizardCharCountDirect": "O digita un numero direttamente (max 10)",
+  "wizardCharDetailProgress": "Inserimento {idx} / {total}",
+  "wizardCharDetailExample1": "es. Leon - Duca freddo e arrogante - Partner di matrimonio contrattuale",
+  "wizardCharDetailExample2": "es. Sio - Cameriera allegra e vivace - Accompagnatrice del protagonista"
+}

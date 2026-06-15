@@ -1,0 +1,7 @@
+{
+  "aiModalTitle": " AI Story Assistant",
+  "aiModalHint": "Describe the story or genre you want.\nAI will auto-fill the creation page.",
+  "aiModalPlaceholder": "e.g. Obsessive duke romance fantasy. Cold but devoted character.",
+  "aiModalBtn": " Start Auto-fill",
+  "aiModalBtnLoading": "AI generating..."
+}

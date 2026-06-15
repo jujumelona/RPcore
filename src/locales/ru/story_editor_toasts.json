@@ -1,0 +1,12 @@
+{
+  "toastTitleRequired": "Пожалуйста, введите заголовок",
+  "toastSaveOk": "Сохранено ",
+  "toastSaveFail": "Ошибка сохранения: ",
+  "toastMaxChars": "Максимально допустимо 10 символов",
+  "toastChapterMin": "Для создания резюме веб-романа нужно не менее 2 глав",
+  "toastNoStory": "Пожалуйста, введите желаемую историю",
+  "toastAiApplied": "Предложения ИИ применены ",
+  "toastAiFail": "Ошибка генерации ИИ: ",
+  "toastServerErr": "Ошибка сервера ",
+  "selectStylePresetRequired": "Выберите стилевой пресет."
+}

@@ -1,0 +1,20 @@
+{
+  "story": "कहानी",
+  "storyLoading": "कहानी लोड हो रही है...",
+  "storyCreating": "कहानी बन रही है...",
+  "startStory": "कहानी शुरू करें",
+  "continueHere": "यहाँ से जारी रखें",
+  "chapter": "अध्याय",
+  "characters": "पात्र",
+  "character": "पात्र",
+  "myStories": "मेरी कहानियां",
+  "ongoingStories": "चल रही कहानियां",
+  "recommendedStories": "अनुशंसित कहानियां",
+  "reportStory": "कहानी रिपोर्ट करें",
+  "blockStory": "कहानी ब्लॉक करें",
+  "storyProgress": "प्रगति",
+  "progressRate": "प्रगति",
+  "endingsFound": "अंत मिले",
+  "messageCount": "संदेश",
+  "visitedChapters": "अध्याय देखे"
+}

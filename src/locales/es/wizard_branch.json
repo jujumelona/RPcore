@@ -1,0 +1,12 @@
+{
+  "wizardBranchQ": "¿Con qué frecuencia deben aparecer las elecciones?",
+  "wizardBranchHint": "Las elecciones permiten a los lectores dar forma a la historia. Cada elección cambia el camino y las emociones.",
+  "wizardBranchNoneLabel": "Casi ninguna",
+  "wizardBranchNoneDesc": "Historia lineal, sin elecciones",
+  "wizardBranchRareLabel": "Ocasionalmente",
+  "wizardBranchRareDesc": "Una elección importante cada 2-3 capítulos",
+  "wizardBranchModLabel": "Moderado",
+  "wizardBranchModDesc": "Al menos una elección por capítulo",
+  "wizardBranchFreqLabel": "Frecuente",
+  "wizardBranchFreqDesc": "Las elecciones aparecen a menudo en medio de la conversación"
+}

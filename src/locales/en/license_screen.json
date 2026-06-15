@@ -1,0 +1,9 @@
+{
+  "licenseNotFound": "License info unconfirmed — please check the repository directly.",
+  "title": "Open Source Licenses",
+  "cautionItems": "These items require special attention.",
+  "license": "License",
+  "version": "Version",
+  "stats": "License Statistics",
+  "libSearch": "Search by library name..."
+}

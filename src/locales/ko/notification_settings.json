@@ -1,0 +1,17 @@
+{
+  "notifSettingsTitle": "알림 설정",
+  "notifGlobal": "전체 알림",
+  "notifCategories": "카테고리",
+  "notifCat_new_follower": "새 팔로워",
+  "notifCat_like": "좋아요",
+  "notifCat_comment": "댓글",
+  "notifCat_mention": "멘션",
+  "notifCat_story_update": "스토리 업데이트",
+  "notifCat_chapter_release": "신규 챕터",
+  "notifCat_system": "시스템",
+  "notifDND": "방해금지 모드",
+  "notifDNDEnable": "방해금지",
+  "notifDNDStart": "시작",
+  "notifDNDEnd": "종료",
+  "notifTimezone": "타임존"
+}

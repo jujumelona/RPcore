@@ -1,0 +1,10 @@
+{
+  "myStoriesTotal": "Total",
+  "myStoriesPublished": "Publicadas",
+  "myStoriesViews": "Visualizações",
+  "myStoriesLikes": "Curtidas",
+  "myStoriesDraftCount": "Rascunhos {n}",
+  "deleteSelectedTitle": "Excluir hist?rias",
+  "deleteSelectedConfirm": "Excluir {n} hist?rias?\nAs hist?rias exclu?das n?o podem ser recuperadas.",
+  "deleteFailed": "Falha ao excluir."
+}

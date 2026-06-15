@@ -1,0 +1,21 @@
+{
+  "guideStoryTitle": "The title shown in the story list.\ne.g. A Contract Marriage with the Arrogant Duke",
+  "guideStoryDesc": "The introduction shown below the story cover.\nWrite one or two sentences to hook readers.",
+  "guideStoryHashtag": "Enter hashtags starting with # separated by commas or spaces.\ne.g. #romance #obsession #fantasy",
+  "guideStoreCover": "The cover image shown in the story list.\n\nRecommended ratio: 2:3 (portrait, e.g. 400×600px)\n→ Optimized for card-style vertical layout\n→ Landscape images may be cropped top/bottom",
+  "guideCharName": "The character's name.",
+  "guideCharImage": "Character profile image (max 5).\nThe first image is used as the default.\nTap  at the top-right of an image to remove it.\n\nRecommended ratio: 1:1 or 3:4\n→ Optimized for circular profile crop\n→ Crop with face centered",
+  "guideCharEmotion": "Sets this character's initial emotion toward the user (you).\nDrag or tap the circle to adjust.\nPositive emotions are closer to +100, negative to -100.",
+  "guideCharPersonality": "Describe this character's personality and speech style in detail.",
+  "guideCharExample": "Write a short example situation showing the character's speech and personality.",
+  "guideCoreKeywords": "Enter keywords (comma-separated) that trigger this Story Core to be sent to the AI.",
+  "guideCoreContent": "The content sent to the AI when a keyword is detected.",
+  "guideWorldSetting": "Write only unchanging lore that stays constant across all chapters.\nThis is a fixed prompt the AI always references.\n※ Info that changes per chapter goes in the Chapter Extra Info field.",
+  "guideAiGoal": "Write the AI's overall purpose or direction for this chapter.\ne.g. Tries to build trust with the protagonist, but keeps distance fearing their past will be exposed.",
+  "guideCharGoal": "The goal this character pursues in this chapter.\nEach character can have different goals, creating a more layered story.\ne.g. Approaches the protagonist to steal a secret document.",
+  "guidePrevSummary": "Key events the AI must remember from the previous chapter.\nUsed by AI to understand story continuity.\nBrief and focused on key events, relationship and emotion changes is best.",
+  "guideChapterInfo": "Changes or extra info the AI needs to know for this chapter.\n※ This field resets when the chapter changes.",
+  "guideChapterTrigger": "The condition that triggers the next chapter.\nAdd multiple conditions — any one being met will trigger the transition.\n\nCombine Cache Depletion with emotion or conversation count conditions for better memory retention and smoother progression.",
+  "guideIntro": "The first content shown when the chat begins.\nTap Narration / Character / User buttons to add as the appropriate speech bubble.\nInner thought: ##text## | Action: **text**",
+  "guideBackground": "Sets the background image for the game.\nAdd multiple conditions — any one OR condition met triggers a background switch.\n\nRecommended ratio: 9:16 (fullscreen portrait, e.g. 1080×1920px)\n→ Fits smartphone full-screen\n→ 16:9 landscape may show letterboxing"
+}

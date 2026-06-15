@@ -1,0 +1,12 @@
+{
+  "emoE1Neg": "Ódio(-100)",
+  "emoE1Pos": "Simpatia(+100)",
+  "emoE2Neg": "Desconfiança(-100)",
+  "emoE2Pos": "Confiança(+100)",
+  "emoE3Neg": "Inferior/Submisso(-100)",
+  "emoE3Pos": "Superior/Dominante(+100)",
+  "emoE4Neg": "Calmo/Apático(-100)",
+  "emoE4Pos": "Intenso/Explosivo(+100)",
+  "emoE5Neg": "Distante(-100)",
+  "emoE5Pos": "Apegado/Obcecado(+100)"
+}

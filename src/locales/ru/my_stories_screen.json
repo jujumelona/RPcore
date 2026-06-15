@@ -1,0 +1,10 @@
+{
+  "myStoriesTotal": "Всего",
+  "myStoriesPublished": "Опубликовано",
+  "myStoriesViews": "Просмотры",
+  "myStoriesLikes": "Лайки",
+  "myStoriesDraftCount": "Черновики {n}",
+  "deleteSelectedTitle": "Удалить истории",
+  "deleteSelectedConfirm": "Удалить {n} историй?\nУдалённые истории нельзя восстановить.",
+  "deleteFailed": "Не удалось удалить."
+}

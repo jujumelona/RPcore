@@ -1,0 +1,9 @@
+{
+  "inputPlaceholder": "Mesaj yaz...",
+  "inputConvertingNovel": "Dönüştürülüyor...",
+  "inputModelLoading": "Model yükleniyor...",
+  "inputGpuPreparing": "GPU hazırlanıyor...",
+  "inputTyping": "{char} yanıtlıyor...",
+  "inputChoosing": "Lütfen bir seçenek seçin",
+  "inputReplyingTo": "@{name} kişisine yanıt"
+}

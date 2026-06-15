@@ -1,0 +1,12 @@
+{
+  "wizardBranchQ": "كم مرة ينبغي أن تظهر الخيارات؟",
+  "wizardBranchHint": "الخيارات تتيح للقراء تشكيل القصة. كل خيار يغير المسار والمشاعر.",
+  "wizardBranchNoneLabel": "نادراً جداً",
+  "wizardBranchNoneDesc": "قصة خطية، بدون خيارات",
+  "wizardBranchRareLabel": "أحياناً",
+  "wizardBranchRareDesc": "خيار رئيسي واحد كل 2-3 فصول",
+  "wizardBranchModLabel": "معتدل",
+  "wizardBranchModDesc": "خيار واحد على الأقل في كل فصل",
+  "wizardBranchFreqLabel": "متكرر",
+  "wizardBranchFreqDesc": "تظهر الخيارات كثيراً في منتصف المحادثة"
+}

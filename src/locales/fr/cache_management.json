@@ -1,0 +1,16 @@
+{
+  "cacheTitle": "Gestion du cache",
+  "totalCache": "Cache total",
+  "cache_images": "Cache images",
+  "cache_chapters": "Cache chapitres",
+  "cache_temp": "Fichiers temporaires",
+  "cache_logs": "Journaux",
+  "cacheClearTitle": "Vider le cache",
+  "cacheClearMsg": "sera supprimé. Continuer ?",
+  "cacheClearAllTitle": "Tout supprimer",
+  "cacheClearAllMsg": "Supprimer tout le cache ?",
+  "delete": "Supprimer",
+  "deleteAll": "Tout supprimer",
+  "cancel": "Annuler",
+  "clearAllCache": "Vider tout le cache"
+}

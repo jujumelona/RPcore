@@ -1,0 +1,14 @@
+{
+  "defaultNotif1Title": "مرحباً!",
+  "defaultNotif1Body": "مرحباً بك في RPcore. ابدأ قصتك الأولى!",
+  "defaultNotif2Title": "قصة جديدة تم تحديثها",
+  "defaultNotif2Body": "A new story from a followed author is out!",
+  "defaultNotif3Title": "Popular Story",
+  "defaultNotif3Body": "Check out the most popular stories now!",
+  "defaultAnnounce1Title": "RPcore Beta",
+  "defaultAnnounce1Body": "RPcore is in beta. New features coming continuously.",
+  "defaultAnnounce2Title": "توسيع دعم اللغات",
+  "defaultAnnounce2Body": "Now supports 15 languages. Set app and AI language separately in Settings.",
+  "defaultAnnounce3Title": "إرشادات المجتمع",
+  "defaultAnnounce3Body": "Communities are language-separated. Please post in the local language."
+}

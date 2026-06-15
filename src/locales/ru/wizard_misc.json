@@ -1,0 +1,6 @@
+{
+  "wizardCharCountDirect": "Или введите число напрямую (макс. 10)",
+  "wizardCharDetailProgress": "Ввод {idx} / {total}",
+  "wizardCharDetailExample1": "Напр.: Леон - Холодный высокомерный герцог - Партнёр по брачному контракту",
+  "wizardCharDetailExample2": "Напр.: Сио - Весёлая жизнерадостная служанка - Помощница протагониста"
+}

@@ -1,0 +1,9 @@
+{
+  "licenseNotFound": "Infos de licence non confirmées — vérifiez directement dans le dépôt.",
+  "title": "Licences open source",
+  "cautionItems": "Ces éléments nécessitent une attention particulière.",
+  "license": "Licence",
+  "version": "Version",
+  "stats": "Statistiques des licences",
+  "libSearch": "Rechercher par nom de bibliothèque..."
+}

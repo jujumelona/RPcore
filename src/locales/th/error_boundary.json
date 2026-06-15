@@ -1,0 +1,17 @@
+{
+  "engineErrorFatal": "เกิดข้อผิดพลาดในเครื่องยนต์ AI",
+  "engineErrorUnstable": "เครื่องยนต์ AI ไม่เสถียรชั่วคราว",
+  "engineRestartHint": "กรุณารีสตาร์ทเครื่องยนต์",
+  "engineMemoryHint": "ลองล้างหน่วยความจำ",
+  "engineClearingMem": "กำลังล้าง...",
+  "engineClearMemBtn": "ล้างหน่วยความจำ",
+  "engineRestartingBtn": "กำลังรีสตาร์ท...",
+  "engineRestartBtn": "รีสตาร์ทเครื่องยนต์",
+  "unexpectedError": "เกิดข้อผิดพลาดที่ไม่คาดคิด",
+  "componentLabel": "คอมโพเนนต์",
+  "errorMessageLabel": "ข้อความผิดพลาด",
+  "errorStackLabel": "สแต็กเทรซข้อผิดพลาด",
+  "componentErrorLabel": "ข้อผิดพลาดคอมโพเนนต์",
+  "retryWithCount": "ลองใหม่ ({count})",
+  "maxRetriesExceeded": "เกินจำนวนครั้งที่ลองใหม่สูงสุด กรุณารีสตาร์ทแอปพลิเคชัน"
+}

@@ -1,0 +1,20 @@
+{
+  "modelSummaryMini1": "RAM 3GB+ · Réservé aux anciens appareils",
+  "modelSummaryMini2": "Qualité très limitée · Non recommandé",
+  "modelSummaryMini3": "~270MB",
+  "modelSummaryLight1": "RAM 6GB+ · Accélération GPU/NPU",
+  "modelSummaryLight2": " Réponse rapide · Bien pour le chat basique",
+  "modelSummaryLight3": "~700MB",
+  "modelSummaryStandard1": "RAM 8GB+ recommandé · Accélération GPU/NPU",
+  "modelSummaryStandard2": "Équilibre vitesse/qualité · Usage général",
+  "modelSummaryStandard3": "~2GB",
+  "modelSummaryPro1": "RAM 12GB+ · Accélération GPU/NPU",
+  "modelSummaryPro2": "Inférence de haute qualité",
+  "modelSummaryPro3": "~4GB",
+  "modelSummaryReasoning1": "RAM 8GB+ · Aceleração HTP / GPU",
+  "modelSummaryReasoning2": "Melhor Qualidade · Recomendado",
+  "modelSummaryReasoning3": "~2.5GB · Contexto 8K",
+  "modelSummaryEmergency1": "RAM 4GB+ · Modo CPU",
+  "modelSummaryEmergency2": "Eficiência de bateria · Qualidade básica",
+  "modelSummaryEmergency3": "~200MB · Contexto 4K"
+}

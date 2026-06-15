@@ -1,0 +1,10 @@
+{
+  "myStoriesTotal": "Toplam",
+  "myStoriesPublished": "Yay?nda",
+  "myStoriesViews": "G?r?nt?lenme",
+  "myStoriesLikes": "Be?eni",
+  "myStoriesDraftCount": "Taslak {n}",
+  "deleteSelectedTitle": "Hikayeleri sil",
+  "deleteSelectedConfirm": "{n} hikaye silinsin mi?\nSilinen hikayeler geri y?klenemez.",
+  "deleteFailed": "Silinemedi."
+}

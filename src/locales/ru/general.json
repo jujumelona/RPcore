@@ -1,0 +1,8 @@
+{
+  "unknownError": "Неизвестная ошибка",
+  "editComment": "Редактировать комментарий",
+  "storyProgressLabel": "Гл.{n} в процессе",
+  "storyInProgressShort": "В процессе",
+  "authorFallback": "Автор",
+  "charLabel2": "Персонаж"
+}

@@ -1,0 +1,8 @@
+{
+  "imgPermTitle": "छवि एक्सेस अनुमति",
+  "imgPermMsg": "गैलरी एक्सेस आवश्यक है।",
+  "imgPermAllow": "अनुमति दें",
+  "imgPermDeny": "अस्वीकार करें",
+  "imgPermNeeded": "गैलरी एक्सेस अनुमति आवश्यक है।",
+  "imgPermLibrary": "react-native-image-picker आवश्यक है।"
+}

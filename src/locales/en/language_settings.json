@@ -1,0 +1,18 @@
+{
+  "languageSettings": "Language Settings",
+  "appLanguage": "App Language",
+  "aiLanguage": "AI Response Language",
+  "languageChanged": "Language Changed",
+  "syncLanguages": "Sync App & AI Language",
+  "syncDone": "Languages synchronized!",
+  "alsoChangeAI": "Also change AI language?",
+  "aiWillRespond": "AI will respond in",
+  "languageTip": "Tip: App language and AI response language can be set separately.",
+  "languageSystemTitle": "Language Enforcement System",
+  "langFeature1": "• AI only responds in the selected language",
+  "langFeature2": "• Works even if you type in a different language",
+  "langFeature3": "• 99%+ accuracy guaranteed",
+  "langFeature4": "• Real-time language verification & auto-correction",
+  "autoDetected": "Auto-detected from your location",
+  "rtlSupportLabel": "RTL Support"
+}

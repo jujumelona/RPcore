@@ -1,0 +1,18 @@
+{
+  "conversations2": "对话",
+  "scraps": "摘录",
+  "noScraps2": "没有收藏的对话",
+  "searchPlaceholder": "搜索",
+  "browseStories": "浏览故事",
+  "searchConversations": "搜索对话...",
+  "numUnreadMessages": "{n} 条未读",
+  "deleteConv": "删除对话",
+  "latestOrder": "最新",
+  "noSearchResults2": "未找到结果",
+  "swipeToDelete": "滑动删除",
+  "searchNoResultsSubtitle": "换个搜索词试试",
+  "homeToStartChat": "在首页选择一个故事开始你的第一次对话",
+  "exploreStories": "浏览故事",
+  "deletedConv": "已删除\"{n}\"",
+  "undo": "撤销"
+}

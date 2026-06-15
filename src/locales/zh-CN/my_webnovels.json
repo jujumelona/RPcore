@@ -1,0 +1,17 @@
+{
+  "numSaved": "已保存{n}个",
+  "numDeleted": "已删除{n}个",
+  "numShared": "分享{n}个",
+  "novelDeleteTitle": "删除网文",
+  "novelDeleteMsg": "删除{n}个？此操作无法撤销。",
+  "noWebNovels": "已保存网文",
+  "selectAll": "全选",
+  "deselectAll": "取消全选",
+  "searchResults": "搜索结果",
+  "returnToOriginal": "返回原位置",
+  "resumeReading": "从{n}%处继续",
+  "resumeMove": "前往",
+  "resumeClose": "关闭",
+  "chapterPrefix": "第{n}话",
+  "chapterAlt": "第 {n} 章"
+}

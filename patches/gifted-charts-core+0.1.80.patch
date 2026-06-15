@@ -1,0 +1,16 @@
+diff --git a/node_modules/gifted-charts-core/dist/index.js b/node_modules/gifted-charts-core/dist/index.js
+index cbbf1d3..d01ef0b 100644
+--- a/node_modules/gifted-charts-core/dist/index.js
++++ b/node_modules/gifted-charts-core/dist/index.js
+@@ -31,9 +31,9 @@ export { useRadarChart } from './RadarChart';
+ /***********************************************************************************************************************
+ /************************************             Common Components                 ************************************
+ /***********************************************************************************************************************/
+-export { useAnimatedThreeDBar } from './components/AnimatedThreeDBar';
++export { useAnimatedThreeDBar } from './components/AnimatedThreeDBar/index';
+ export { getHorizSectionVals } from './components/BarAndLineChartsWrapper/getHorizSectionsVals';
+-export { useBarAndLineChartsWrapper } from './components/BarAndLineChartsWrapper';
++export { useBarAndLineChartsWrapper } from './components/BarAndLineChartsWrapper/index';
+ export { getTopAndLeftForStripAndLabel } from './components/common/StripAndLabel';
+ /***********************************************************************************************************************
+ /*********************************          common utils, constants and types           ********************************

@@ -1,0 +1,20 @@
+{
+  "backupRestoreTitle": "백업 / 복원",
+  "selectSections": "포함할 항목",
+  "backup_settings": "설정",
+  "backup_readingStats": "리딩 통계",
+  "backup_contentFilterRules": "콘텐츠 필터",
+  "backup_notificationPrefs": "알림 설정",
+  "backup_drafts": "드래프트",
+  "backupBtn": "백업 내보내기",
+  "restoreBtn": "백업 복원",
+  "backupSuccess": "백업 저장 완료",
+  "backupFailed": "백업 저장 실패",
+  "restoreConfirmTitle": "복원 확인",
+  "restoreConfirmMsg": "선택한 데이터를 덮어씁니다. 계속하시겠습니까?",
+  "restoreSuccess": "복원 완료",
+  "noFileSelected": "파일을 선택하지 않았습니다",
+  "invalidBackup": "유효하지 않은 백업 파일",
+  "cancel": "취소",
+  "backupHint": "백업 파일은 다운로드 폴더에 저장됩니다. 복원 시 선택한 항목만 덮어씁니다."
+}

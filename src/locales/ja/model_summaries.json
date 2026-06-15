@@ -1,0 +1,20 @@
+{
+  "modelSummaryMini1": "RAM 3GB+ · 旧型/低スペック端末専用",
+  "modelSummaryMini2": "品質は非常に限定的 · 非推奨",
+  "modelSummaryMini3": "~270MB",
+  "modelSummaryLight1": "RAM 6GB+ · GPU/NPU加速",
+  "modelSummaryLight2": " 高速応答 · 基本チャットに最適",
+  "modelSummaryLight3": "~700MB",
+  "modelSummaryStandard1": "RAM 8GB+推奨 · GPU/NPU加速",
+  "modelSummaryStandard2": "速度と品質のバランス · 一般利用に最適",
+  "modelSummaryStandard3": "~2GB",
+  "modelSummaryPro1": "RAM 12GB+ · GPU/NPU加速",
+  "modelSummaryPro2": "最高品質の推論",
+  "modelSummaryPro3": "~4GB",
+  "modelSummaryReasoning1": "RAM 8GB+ · HTP / GPU 加速",
+  "modelSummaryReasoning2": "最高品質 · 推奨",
+  "modelSummaryReasoning3": "~2.5GB · コンテキスト 8K",
+  "modelSummaryEmergency1": "RAM 4GB+ · CPUモード",
+  "modelSummaryEmergency2": "省電力 · 基本品質",
+  "modelSummaryEmergency3": "~200MB · コンテキスト 4K"
+}

@@ -1,0 +1,9 @@
+{
+  "inputPlaceholder": "संदेश टाइप करें...",
+  "inputConvertingNovel": "परिवर्तित हो रहा है...",
+  "inputModelLoading": "मॉडल लोड हो रहा है...",
+  "inputGpuPreparing": "GPU तैयार हो रहा है...",
+  "inputTyping": "{char} जवाब दे रहा है...",
+  "inputChoosing": "कृपया एक विकल्प चुनें",
+  "inputReplyingTo": "@{name} को जवाब"
+}

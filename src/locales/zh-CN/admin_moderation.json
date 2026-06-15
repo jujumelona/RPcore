@@ -1,0 +1,66 @@
+{
+  "statusLabels": {
+    "open": "已受理",
+    "reviewing": "审核中",
+    "resolved": "已解决",
+    "rejected": "已驳回",
+    "auto_hidden": "自动隐藏"
+  },
+  "priorityLabels": {
+    "critical": "紧急",
+    "high": "高",
+    "medium": "中",
+    "low": "低"
+  },
+  "targetTypeLabels": {
+    "story": "故事",
+    "post": "帖子",
+    "user": "用户",
+    "comment": "评论"
+  },
+  "filterActionable": "需要处理",
+  "filterAll": "全部",
+  "hintLabels": {
+    "immediate_escalation": "需要立即升级处理",
+    "already_hidden_pending_review": "内容已隐藏，等待审核",
+    "high_risk_reason": "因高风险原因等待运营审核",
+    "aged_unresolved_report": "该举报长时间未处理",
+    "needs_follow_up_soon": "需要尽快跟进",
+    "standard_moderation_review": "按常规审核流程处理即可"
+  },
+  "systemResolutionNotes": {
+    "open": "移动端管理员重新开启了该举报。",
+    "reviewing": "移动端管理员已开始审核。",
+    "resolved": "移动端管理员已解决该举报。",
+    "rejected": "移动端管理员已驳回该举报。",
+    "auto_hidden": "移动端管理员已隐藏该内容。"
+  },
+  "noReportDetail": "没有提供详细举报说明。",
+  "reportPrefix": "举报",
+  "reporterPrefix": "举报人",
+  "assigneePrefix": "负责人",
+  "resolutionLabel": "处理备注",
+  "actionReview": "审核",
+  "actionHide": "隐藏",
+  "actionResolve": "解决",
+  "actionReject": "驳回",
+  "actionReopen": "重新开启",
+  "changingStatus": "正在更新状态...",
+  "reportQueueTitle": "举报队列",
+  "actionableLabel": "需要处理",
+  "criticalLabel": "紧急",
+  "autoHiddenLabel": "自动隐藏",
+  "moderationQueueSummaryTitle": "举报队列摘要",
+  "immediateActionLabel": "立即处理",
+  "importantReportsLabel": "重要举报",
+  "totalReportsLabel": "举报总数",
+  "currentResultsLabel": "当前结果",
+  "reportSearchPlaceholder": "搜索举报标题、ID、原因或备注",
+  "noReports": "当前没有需要审核的举报。",
+  "noMatchingReports": "没有符合筛选条件的举报。",
+  "statusChangeTitle": "修改举报状态",
+  "statusChangeMessage": "要将“{target}”的举报改为“{status}”吗？",
+  "statusChangeConfirm": "修改",
+  "statusChangeFailedTitle": "修改失败",
+  "statusChangeFailedBody": "无法更新举报状态，请重试。"
+}

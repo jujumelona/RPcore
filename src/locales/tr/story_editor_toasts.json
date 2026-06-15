@@ -1,0 +1,12 @@
+{
+  "toastTitleRequired": "Lütfen bir başlık girin",
+  "toastSaveOk": "Kaydedildi ",
+  "toastSaveFail": "Kaydetme başarısız: ",
+  "toastMaxChars": "Maksimum 10 karakter izin verilir",
+  "toastChapterMin": "Web romanı olarak özetlemek için en az 2 bölüm gerekli",
+  "toastNoStory": "Lütfen istediğiniz hikayeyi girin",
+  "toastAiApplied": "AI önerileri uygulandı ",
+  "toastAiFail": "AI üretimi başarısız: ",
+  "toastServerErr": "Sunucu hatası ",
+  "selectStylePresetRequired": "Lütfen bir stil ön ayarı seçin."
+}

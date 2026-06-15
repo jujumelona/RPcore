@@ -1,0 +1,66 @@
+{
+  "statusLabels": {
+    "open": "Offen",
+    "reviewing": "In Prüfung",
+    "resolved": "Gelöst",
+    "rejected": "Abgelehnt",
+    "auto_hidden": "Automatisch verborgen"
+  },
+  "priorityLabels": {
+    "critical": "Kritisch",
+    "high": "Hoch",
+    "medium": "Mittel",
+    "low": "Niedrig"
+  },
+  "targetTypeLabels": {
+    "story": "Geschichte",
+    "post": "Beitrag",
+    "user": "Nutzer",
+    "comment": "Kommentar"
+  },
+  "filterActionable": "Aktion erforderlich",
+  "filterAll": "Alle",
+  "hintLabels": {
+    "immediate_escalation": "Sofortige Eskalation erforderlich",
+    "already_hidden_pending_review": "Bereits verborgen, Prüfung steht noch aus",
+    "high_risk_reason": "Hochriskanter Grund in der Operator-Warteschlange",
+    "aged_unresolved_report": "Ältere ungelöste Meldung",
+    "needs_follow_up_soon": "Benötigt baldige Nachverfolgung",
+    "standard_moderation_review": "Standardmäßige Moderationsprüfung"
+  },
+  "systemResolutionNotes": {
+    "open": "Der mobile Admin hat die Meldung erneut geöffnet.",
+    "reviewing": "Der mobile Admin hat die Prüfung gestartet.",
+    "resolved": "Der mobile Admin hat die Meldung gelöst.",
+    "rejected": "Der mobile Admin hat die Meldung abgelehnt.",
+    "auto_hidden": "Der mobile Admin hat den Inhalt verborgen."
+  },
+  "noReportDetail": "Es wurde keine detaillierte Meldungsnotiz angegeben.",
+  "reportPrefix": "Meldung",
+  "reporterPrefix": "Melder",
+  "assigneePrefix": "Zugewiesen",
+  "resolutionLabel": "Lösungsnotiz",
+  "actionReview": "Prüfen",
+  "actionHide": "Verbergen",
+  "actionResolve": "Lösen",
+  "actionReject": "Ablehnen",
+  "actionReopen": "Erneut öffnen",
+  "changingStatus": "Status wird aktualisiert...",
+  "reportQueueTitle": "Meldungswarteschlange",
+  "actionableLabel": "Aktion erforderlich",
+  "criticalLabel": "Kritisch",
+  "autoHiddenLabel": "Automatisch verborgen",
+  "moderationQueueSummaryTitle": "Zusammenfassung der Moderationswarteschlange",
+  "immediateActionLabel": "Sofortige Aktion",
+  "importantReportsLabel": "Kritische Meldungen",
+  "totalReportsLabel": "Gesamtmeldungen",
+  "currentResultsLabel": "Aktuelle Ergebnisse",
+  "reportSearchPlaceholder": "Titel, ID, Grund oder Notiz der Meldung suchen",
+  "noReports": "Zurzeit gibt es keine Meldungen zur Prüfung.",
+  "noMatchingReports": "Keine Meldungen entsprechen den ausgewählten Filtern.",
+  "statusChangeTitle": "Meldungsstatus ändern",
+  "statusChangeMessage": "Die Meldung für \"{target}\" auf \"{status}\" ändern?",
+  "statusChangeConfirm": "Ändern",
+  "statusChangeFailedTitle": "Änderung fehlgeschlagen",
+  "statusChangeFailedBody": "Der Meldungsstatus konnte nicht aktualisiert werden. Bitte versuche es erneut."
+}

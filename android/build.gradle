@@ -1,0 +1,53 @@
+buildscript {
+    ext {
+        buildToolsVersion     = "36.0.0"
+        minSdkVersion         = 24
+        compileSdkVersion     = 36
+        targetSdkVersion      = 36
+        ndkVersion            = "27.1.12297006"
+
+        kotlinVersion         = "2.1.20"
+        hiltVersion           = "2.56.1"
+        sqlDelightVersion     = "2.1.0"
+        objectBoxVersion      = "4.1.0"
+        serializationVersion  = "1.8.1"
+    }
+    repositories {
+        google()
+        mavenCentral()
+    }
+    dependencies {
+        classpath('com.android.tools.build:gradle:8.9.1')
+        classpath('com.facebook.react:react-native-gradle-plugin')
+        classpath("org.jetbrains.kotlin:kotlin-gradle-plugin:${rootProject.ext.kotlinVersion}")
+        classpath("org.jetbrains.kotlin:kotlin-serialization:${rootProject.ext.kotlinVersion}")
+        classpath("org.jetbrains.kotlin:compose-compiler-gradle-plugin:${rootProject.ext.kotlinVersion}")
+        classpath("com.google.dagger:hilt-android-gradle-plugin:${rootProject.ext.hiltVersion}")
+        classpath("app.cash.sqldelight:gradle-plugin:${rootProject.ext.sqlDelightVersion}")
+        classpath("com.google.devtools.ksp:com.google.devtools.ksp.gradle.plugin:2.1.20-1.0.31")
+        classpath('com.google.gms:google-services:4.4.4')
+        classpath('com.google.firebase:firebase-crashlytics-gradle:3.0.2')
+        classpath('com.google.firebase:perf-plugin:1.4.2')
+        classpath("io.objectbox:objectbox-gradle-plugin:${rootProject.ext.objectBoxVersion}")
+    }
+}
+
+allprojects {
+    repositories {
+        google()
+        mavenCentral()
+        maven { url 'https://www.jitpack.io' }
+        maven { url "$rootDir/../node_modules/@notifee/react-native/android/libs" }
+    }
+}
+
+subprojects {
+    tasks.withType(org.jetbrains.kotlin.gradle.tasks.KotlinCompile).configureEach {
+        compilerOptions {
+            freeCompilerArgs.addAll(["-Xbackend-threads=1"])
+        }
+    }
+}
+
+apply plugin: "expo-root-project"
+apply plugin: "com.facebook.react.rootproject"

@@ -1,0 +1,13 @@
+{
+  "wizardBranchQ": "How often should choices appear?",
+  "wizardBranchHint": "Choices let readers shape the story. Each choice changes the story path.",
+  "wizardBranchNoneLabel": "Almost None",
+  "wizardBranchNoneDesc": "Linear story, no choices",
+  "wizardBranchRareLabel": "Occasionally",
+  "wizardBranchRareDesc": "One major choice every 2-3 chapters",
+  "wizardBranchModLabel": "Moderate",
+  "wizardBranchModDesc": "At least one choice per chapter",
+  "wizardBranchFreqLabel": "Frequent",
+  "wizardBranchFreqDesc": "Choices appear often mid-conversation"
+}
+

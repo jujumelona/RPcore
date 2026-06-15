@@ -1,0 +1,12 @@
+{
+  "historySearchTitle": "歷史搜尋",
+  "searchPlaceholder": "搜尋聊天記錄...",
+  "filterAll": "全部",
+  "resultCount": "{n}筆結果",
+  "noSearchResult": "無搜尋結果",
+  "noSearchResultHint": "試試其他關鍵字",
+  "noHistory": "暫無聊天記錄",
+  "roleUser": "我",
+  "multiCharTitle": "角色管理",
+  "multiCharEmpty": "暫無註冊角色"
+}

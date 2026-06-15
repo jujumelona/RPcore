@@ -1,0 +1,15 @@
+{
+  "wizardInitStatus": "正在初始化模型...",
+  "wizardLoadingStatus": "正在載入模型...",
+  "wizardReadyStatus": "就緒",
+  "wizardModuleError": "原生模組不可用",
+  "wizardInitFail": "初始化失敗",
+  "wizardNoModel": "尚未下載AI模型。請前往我的主頁先下載一個。",
+  "wizardGenTitle": "正在創作故事...",
+  "wizardGenSub": "AI正在填充故事編輯器",
+  "wizardGenSubLong": "Token數量較高，可能需要一些時間",
+  "wizardGenSubWait": "請稍等片刻",
+  "wizardErrTitle": "發生錯誤",
+  "wizardErrRetry": "重試",
+  "wizardPctComplete": "% 完成"
+}

@@ -1,0 +1,21 @@
+{
+  "phStoryTitle": "Saisissez le titre de l'histoire",
+  "phStoryDesc": "Saisissez la description de l'histoire",
+  "phStoryHashtag": "#romance #fantaisie #obsession",
+  "phCharName": "Nom du personnage",
+  "phPersonality": "Decrivez en detail la personnalite, le style de parole et les traits",
+  "phCoreKeyword": "guilde_magique, academie",
+  "phCoreContent": "Infos a envoyer a l'IA quand ce mot-cle apparait",
+  "phWorldSetting": "Ecrivez le cadre du monde, le contexte et les regles absolues.",
+  "phChapterName": "Nom du chapitre",
+  "phAiGoal": "Direction generale que l'IA doit suivre dans ce chapitre",
+  "phCharGoal": "Objectif dans ce chapitre",
+  "phChapterInfo": "Changements que l'IA doit connaitre (reinitialises au changement de chapitre)",
+  "phPrevSummary0": "S'il y a un prologue ou un passe avant le chapitre 1, ecrivez-le ici.",
+  "phPrevSummary": "Resumer les evenements cles et les changements emotionnels que l'IA doit retenir du chapitre precedent.",
+  "phIntroInput": "Saisir le contenu...",
+  "phBgName": "Nom de l'arriere-plan",
+  "phCharGender": "ex. Femme, Homme, Non binaire",
+  "phPersonalityDeep": "Motivation interne et schemas emotionnels...",
+  "phCharExample": "2-3 lignes de dialogue pour montrer le ton du personnage"
+}

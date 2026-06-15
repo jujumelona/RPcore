@@ -1,0 +1,20 @@
+{
+  "story": "故事",
+  "storyLoading": "故事載入中...",
+  "storyCreating": "故事生成中...",
+  "startStory": "開始故事",
+  "continueHere": "從這裡繼續",
+  "chapter": "章節",
+  "characters": "登場人物",
+  "character": "角色",
+  "myStories": "我的故事",
+  "ongoingStories": "進行中的故事",
+  "recommendedStories": "推薦故事",
+  "reportStory": "檢舉故事",
+  "blockStory": "封鎖故事",
+  "storyProgress": "進度",
+  "progressRate": "進度",
+  "endingsFound": "已解鎖結局",
+  "messageCount": "對話數",
+  "visitedChapters": "已訪問章節"
+}

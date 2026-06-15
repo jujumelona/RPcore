@@ -1,0 +1,17 @@
+{
+  "engineErrorFatal": "AI-Motor-Fehler aufgetreten",
+  "engineErrorUnstable": "AI-Motor vorübergehend instabil",
+  "engineRestartHint": "Bitte den Motor neu starten.",
+  "engineMemoryHint": "Bitte Speicher leeren.",
+  "engineClearingMem": "Leere...",
+  "engineClearMemBtn": "Speicher leeren",
+  "engineRestartingBtn": "Neustart...",
+  "engineRestartBtn": "Motor neu starten",
+  "unexpectedError": "Ein unerwarteter Fehler ist aufgetreten",
+  "componentLabel": "Komponente",
+  "errorMessageLabel": "Fehlermeldung",
+  "errorStackLabel": "Fehler-Stacktrace",
+  "componentErrorLabel": "Komponentenfehler",
+  "retryWithCount": "Wiederholen ({count})",
+  "maxRetriesExceeded": "Maximale Wiederholungsversuche überschritten. Bitte starten Sie die App neu."
+}

@@ -1,0 +1,14 @@
+{
+  "defaultNotif1Title": "欢迎！ ",
+  "defaultNotif1Body": "欢迎来到RPcore。开始你的第一个故事吧！",
+  "defaultNotif2Title": "新故事更新了",
+  "defaultNotif2Body": "你关注的作者发布了新故事！",
+  "defaultNotif3Title": "热门故事推荐",
+  "defaultNotif3Body": "立即查看最受欢迎的故事！",
+  "defaultAnnounce1Title": "RPcore Beta服务",
+  "defaultAnnounce1Body": "RPcore目前处于测试阶段，将持续更新新功能。",
+  "defaultAnnounce2Title": "语言支持扩大",
+  "defaultAnnounce2Body": "现已支持15种语言，可在设置中分别设置应用和AI回复语言。",
+  "defaultAnnounce3Title": "社区使用规则",
+  "defaultAnnounce3Body": "社区按语言分开运营，请用对应语言发布内容。"
+}

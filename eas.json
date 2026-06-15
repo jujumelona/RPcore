@@ -1,0 +1,71 @@
+{
+  "cli": {
+    "version": ">= 16.0.0"
+  },
+  "build": {
+    "development": {
+      "developmentClient": true,
+      "distribution": "internal",
+      "channel": "development",
+      "env": {
+        "SENTRY_DSN": "https://30a1d4c31232426741dac4593679abf0@o4511022088257536.ingest.us.sentry.io/4511022103396352",
+        "ADMOB_APP_ID": "ca-app-pub-3940256099942544~3347511713",
+        "ADMOB_BANNER_ID": "ca-app-pub-3940256099942544/6300978111",
+        "ADMOB_NATIVE_HOME_ID": "ca-app-pub-3940256099942544/2247696110",
+        "ADMOB_NATIVE_WEBNOVEL_ID": "ca-app-pub-3940256099942544/2247696110",
+        "ADMOB_NATIVE_CHAT_ID": "ca-app-pub-3940256099942544/2247696110",
+        "GOOGLE_WEB_CLIENT_ID": "806767847275-o5vduumma9uciog9gqrh166elq3qvniu.apps.googleusercontent.com"
+      }
+    },
+    "preview": {
+      "distribution": "internal",
+      "channel": "preview",
+      "android": {
+        "buildType": "apk"
+      },
+      "env": {
+        "NODE_ENV": "production",
+        "SENTRY_DSN": "https://30a1d4c31232426741dac4593679abf0@o4511022088257536.ingest.us.sentry.io/4511022103396352",
+        "SENTRY_SKIP_AUTO_UPLOAD": "true",
+        "ADMOB_APP_ID": "ca-app-pub-3940256099942544~3347511713",
+        "ADMOB_BANNER_ID": "ca-app-pub-3940256099942544/6300978111",
+        "ADMOB_NATIVE_HOME_ID": "ca-app-pub-3940256099942544/2247696110",
+        "ADMOB_NATIVE_WEBNOVEL_ID": "ca-app-pub-3940256099942544/2247696110",
+        "ADMOB_NATIVE_CHAT_ID": "ca-app-pub-3940256099942544/2247696110",
+        "GOOGLE_WEB_CLIENT_ID": "806767847275-o5vduumma9uciog9gqrh166elq3qvniu.apps.googleusercontent.com"
+      }
+    },
+    "testlab": {
+      "distribution": "internal",
+      "channel": "testlab",
+      "android": {
+        "buildType": "apk"
+      },
+      "env": {
+        "NODE_ENV": "production",
+        "SENTRY_DSN": "https://30a1d4c31232426741dac4593679abf0@o4511022088257536.ingest.us.sentry.io/4511022103396352",
+        "SENTRY_SKIP_AUTO_UPLOAD": "true",
+        "ADMOB_APP_ID": "ca-app-pub-3940256099942544~3347511713",
+        "ADMOB_BANNER_ID": "ca-app-pub-3940256099942544/6300978111",
+        "ADMOB_NATIVE_HOME_ID": "ca-app-pub-3940256099942544/2247696110",
+        "ADMOB_NATIVE_WEBNOVEL_ID": "ca-app-pub-3940256099942544/2247696110",
+        "ADMOB_NATIVE_CHAT_ID": "ca-app-pub-3940256099942544/2247696110",
+        "GOOGLE_WEB_CLIENT_ID": "806767847275-o5vduumma9uciog9gqrh166elq3qvniu.apps.googleusercontent.com"
+      }
+    },
+    "production": {
+      "channel": "production",
+      "env": {
+        "NODE_ENV": "production",
+        "SENTRY_DSN": "https://30a1d4c31232426741dac4593679abf0@o4511022088257536.ingest.us.sentry.io/4511022103396352",
+        "AMPLITUDE_API_KEY": "710686f4a72a45904804fe61afb55a10",
+        "ADMOB_APP_ID": "ca-app-pub-9020691040370881~6462881546",
+        "ADMOB_BANNER_ID": "ca-app-pub-9020691040370881/1848344535",
+        "ADMOB_NATIVE_HOME_ID": "ca-app-pub-9020691040370881/3587933048",
+        "ADMOB_NATIVE_WEBNOVEL_ID": "ca-app-pub-9020691040370881/4381451608",
+        "ADMOB_NATIVE_CHAT_ID": "ca-app-pub-9020691040370881/7007614946",
+        "GOOGLE_WEB_CLIENT_ID": "806767847275-o5vduumma9uciog9gqrh166elq3qvniu.apps.googleusercontent.com"
+      }
+    }
+  }
+}

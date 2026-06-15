@@ -1,0 +1,193 @@
+{
+  "title": "Politica de dados",
+  "lastUpdatedLabel": "Ultima atualizacao",
+  "sensitive": "Sensivel",
+  "dataCollectionTitle": "Coleta de dados e finalidade",
+  "dataIntro": "Coletamos apenas os dados minimos necessarios para operar o app e manter sua conta funcionando entre dispositivos.",
+  "dataLocalOnly": "O historico de conversas e os arquivos baixados podem ficar no seu dispositivo, a menos que voce escolha um recurso de sincronizacao.",
+  "dataGroups": [
+    {
+      "category": "Informacoes da conta",
+      "items": [
+        {
+          "name": "Endereco de e-mail",
+          "purpose": "Usado para login e recuperacao da conta.",
+          "retention": "E excluido quando a conta e excluida.",
+          "sensitive": false
+        },
+        {
+          "name": "Apelido e imagem de perfil",
+          "purpose": "Exibidos no seu perfil e nos recursos da comunidade.",
+          "retention": "E excluido quando a conta e excluida.",
+          "sensitive": false
+        }
+      ]
+    },
+    {
+      "category": "Dados de leitura e chat",
+      "items": [
+        {
+          "name": "Historico de chat e leitura",
+          "purpose": "Restaura conversas, marcadores e progresso de leitura.",
+          "retention": "E removido quando voce exclui a conta ou limpa os dados locais.",
+          "sensitive": true
+        },
+        {
+          "name": "Atividade da biblioteca",
+          "purpose": "Mantem favoritos, seguimentos e recomendacoes sincronizados.",
+          "retention": "E excluida quando a conta e excluida.",
+          "sensitive": false
+        }
+      ]
+    },
+    {
+      "category": "Dados do dispositivo",
+      "items": [
+        {
+          "name": "Sistema do dispositivo e versao do app",
+          "purpose": "Usado para verificacoes de compatibilidade e suporte.",
+          "retention": "E mantido apenas pelo tempo necessario para suporte e diagnostico.",
+          "sensitive": false
+        },
+        {
+          "name": "Cache local",
+          "purpose": "Acelera o carregamento e a retomada.",
+          "retention": "E limpo automaticamente apos um periodo de inatividade.",
+          "sensitive": true
+        }
+      ]
+    }
+  ],
+  "permissionsTitle": "Permissoes do app",
+  "permissionsIntro": "As permissoes abaixo sao solicitadas apenas quando um recurso relacionado e usado.",
+  "permissionsDeniedNote": "Se voce negar uma permissao opcional, o servico principal continua funcionando, mas esse recurso pode ficar limitado.",
+  "permissions": [
+    {
+      "permission": "INTERNET",
+      "android": true,
+      "ios": false,
+      "reason": "Necessaria para carregar historias, sincronizar sua biblioteca e acessar servicos de rede.",
+      "sensitive": false
+    },
+    {
+      "permission": "Photos / Storage",
+      "android": true,
+      "ios": true,
+      "reason": "Solicitada apenas quando voce escolhe arquivos ou envia uma imagem.",
+      "sensitive": true
+    },
+    {
+      "permission": "Notifications",
+      "android": true,
+      "ios": true,
+      "reason": "Usada para anuncios e atualizacoes de conteudos seguidos.",
+      "sensitive": false
+    },
+    {
+      "permission": "Camera (optional)",
+      "android": true,
+      "ios": true,
+      "reason": "Solicitada apenas quando voce tira uma foto de perfil ou envia uma foto dentro do app.",
+      "sensitive": true
+    }
+  ],
+  "retentionTitle": "Retencao de dados",
+  "retentionRows": [
+    {
+      "label": "Historico de chat",
+      "value": "Fica no dispositivo ou e removido com a exclusao da conta."
+    },
+    {
+      "label": "Informacoes da conta (servidor)",
+      "value": "Sao removidas em ate 30 dias apos a exclusao verificada."
+    },
+    {
+      "label": "Logs analiticos",
+      "value": "Sao mantidos de forma agregada ou anonimizada por ate 12 meses."
+    },
+    {
+      "label": "Cache local",
+      "value": "E excluido automaticamente apos inatividade ou remocao do app."
+    },
+    {
+      "label": "Criptografia",
+      "value": "Servidor com AES-256 e armazenamento seguro no dispositivo quando disponivel."
+    }
+  ],
+  "legalRetention": "Registros que precisam ser mantidos por motivos legais, contabeis ou de prevencao a fraudes sao armazenados pelo periodo exigido e depois excluidos.",
+  "childPrivacyTitle": "Privacidade infantil",
+  "ageRestriction": "Nao destinado a usuarios menores de 13 anos",
+  "childPrivacyIntro": "Este servico e destinado a usuarios com 13 anos ou mais. Nao coletamos intencionalmente dados pessoais de criancas abaixo da idade minima aplicavel.",
+  "childPrivacyLawNote": "Se voce acredita que dados de uma crianca foram enviados por engano, entre em contato com o endereco abaixo para que possamos analisar e remover essas informacoes.",
+  "coppaRequestSubject": "Solicitacao de exclusao de dados infantis",
+  "applicableLawsLabel": "Leis aplicaveis",
+  "applicableLawsValue": "COPPA (EUA), artigo 8 do GDPR (UE) e regras locais de privacidade infantil quando aplicaveis.",
+  "thirdPartyTitle": "Compartilhamento com terceiros",
+  "thirdPartyIntro": "Compartilhamos dados limitados apenas com parceiros que nos ajudam a operar o servico, medir estabilidade ou fornecer publicidade baseada em consentimento.",
+  "thirdParties": [
+    {
+      "name": "Firebase",
+      "purpose": "Autenticacao, notificacoes e entrega basica em nuvem.",
+      "policy": "https://firebase.google.com/support/privacy",
+      "transfers": "Regioes globais de nuvem"
+    },
+    {
+      "name": "Google AdMob",
+      "purpose": "Entrega de publicidade baseada em consentimento.",
+      "policy": "https://policies.google.com/privacy",
+      "transfers": "Regioes globais de nuvem"
+    },
+    {
+      "name": "Sentry",
+      "purpose": "Relatorios de erro e monitoramento de estabilidade.",
+      "policy": "https://sentry.io/privacy/",
+      "transfers": "Regioes globais de nuvem"
+    }
+  ],
+  "transferRegionLabel": "Regiao de processamento",
+  "privacyPolicyLabel": "Politica de privacidade",
+  "deletionTitle": "Exclusao e encerramento",
+  "deletionIntro": "Quando voce solicita exclusao, dados da conta, progresso de leitura, marcadores e historico sincronizado sao removidos ou agendados para remocao.",
+  "deletionBackupNote": "Backups criptografados sao excluidos de acordo com o cronograma de retencao do provedor apos a conclusao da solicitacao.",
+  "method1": "Metodo 1 - Solicitacao por e-mail",
+  "method1Desc": "Envie uma solicitacao de exclusao por e-mail e processaremos apos verificar a conta.",
+  "method2": "Metodo 2 - Excluir dentro do app",
+  "method2Desc": "Se voce estiver conectado, o botao abaixo limpa os dados locais imediatamente e inicia a exclusao da conta.",
+  "deleteAccount": "Excluir conta e dados permanentemente",
+  "deleteRequestSubject": "Solicitacao de exclusao de dados",
+  "deleteConfirmTitle": "Excluir conta e dados",
+  "deleteConfirmMessage": "Ao excluir a conta, os dados sincronizados, o progresso de leitura e o historico local tambem serao removidos.\nEsta acao nao pode ser desfeita.\n\nDeseja continuar?",
+  "deleteConfirmAction": "Excluir permanentemente",
+  "cancelAction": "Cancelar",
+  "okAction": "OK",
+  "deleteErrorTitle": "Falha na exclusao",
+  "deleteError": "Algo deu errado ao excluir a conta. Entre em contato com o suporte.",
+  "deleteProcessingAnnouncement": "Processando solicitacao de exclusao da conta.",
+  "deleteCompletedAnnouncement": "Exclusao da conta concluida.",
+  "rightsTitle": "Seus direitos",
+  "rights": [
+    {
+      "title": "Acesso",
+      "desc": "Voce pode solicitar uma copia dos dados que mantemos sobre voce."
+    },
+    {
+      "title": "Correcao",
+      "desc": "Voce pode pedir a correcao de dados incorretos ou incompletos."
+    },
+    {
+      "title": "Exclusao",
+      "desc": "Voce pode solicitar a exclusao dos dados da conta e do historico sincronizado."
+    },
+    {
+      "title": "Portabilidade",
+      "desc": "Voce pode solicitar seus dados em formato portatil quando aplicavel."
+    }
+  ],
+  "rightsNote": "Para exercer esses direitos, contate fdje0303@gmail.com. Normalmente respondemos em ate 30 dias.",
+  "dpoTitle": "Responsavel pela protecao de dados",
+  "dpoEmailLabel": "E-mail",
+  "dpoPolicyWebsiteLabel": "Site da politica",
+  "dpoResponseTimeLabel": "Tempo de resposta",
+  "dpoResponseTimeValue": "Em ate 3 dias uteis",
+  "footerLastUpdated": "Politica de dados atualizada por ultima vez em: {date}"
+}

@@ -1,0 +1,18 @@
+{
+  "conversations2": "Konuşmalar",
+  "scraps": "Kırpıntılar",
+  "noScraps2": "Kaydedilmiş konuşma yok",
+  "searchPlaceholder": "Ara",
+  "browseStories": "Hikâyeleri keşfet",
+  "searchConversations": "Konuşmalarda ara...",
+  "numUnreadMessages": "{n} okunmadı",
+  "deleteConv": "Konuşmayı sil",
+  "latestOrder": "En yeni",
+  "noSearchResults2": "Sonuç bulunamadı",
+  "swipeToDelete": "Silmek için kaydır",
+  "searchNoResultsSubtitle": "Farklı bir arama terimi dene",
+  "homeToStartChat": "İlk konuşmanı başlatmak için Ana Sayfa'dan bir hikâye seç",
+  "exploreStories": "Hikâyeleri keşfet",
+  "deletedConv": "\"{n}\" silindi",
+  "undo": "Geri al"
+}

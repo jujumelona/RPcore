@@ -1,0 +1,7 @@
+{
+  "timeJustNowShort": "剛剛",
+  "timeMinAgoShort": "{n} 分鐘前",
+  "timeHourAgoShort": "{n} 小時前",
+  "timeDayAgoShort": "{n} 天前",
+  "timeWeekAgoShort": "{n} 週前"
+}

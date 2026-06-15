@@ -1,0 +1,17 @@
+{
+  "numSaved": "{n} gespeichert",
+  "numDeleted": "{n} gelöscht",
+  "numShared": "{n} teilen",
+  "novelDeleteTitle": "Roman löschen",
+  "novelDeleteMsg": "{n} löschen? Kann nicht rückgängig gemacht werden.",
+  "noWebNovels": "Gespeicherte Romane",
+  "selectAll": "Alle auswählen",
+  "deselectAll": "Alle abwählen",
+  "searchResults": "Suchergebnisse",
+  "returnToOriginal": "Zur ursprünglichen Position zurückkehren",
+  "resumeReading": "Bei {n}% fortsetzen",
+  "resumeMove": "Gehen",
+  "resumeClose": "Schließen",
+  "chapterPrefix": "Kapitel {n}",
+  "chapterAlt": "Kapitel {n}"
+}

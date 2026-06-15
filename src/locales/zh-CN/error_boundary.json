@@ -1,0 +1,17 @@
+{
+  "engineErrorFatal": "AI引擎发生错误",
+  "engineErrorUnstable": "AI引擎暂时不稳定",
+  "engineRestartHint": "请重启引擎。",
+  "engineMemoryHint": "请尝试清理内存。",
+  "engineClearingMem": "清理中...",
+  "engineClearMemBtn": "清理内存",
+  "engineRestartingBtn": "重启中...",
+  "engineRestartBtn": "重启引擎",
+  "unexpectedError": "发生意外错误",
+  "componentLabel": "组件",
+  "errorMessageLabel": "错误消息",
+  "errorStackLabel": "错误堆栈跟踪",
+  "componentErrorLabel": "组件错误",
+  "retryWithCount": "重试 ({count})",
+  "maxRetriesExceeded": "已超过最大重试次数。请重启应用。"
+}

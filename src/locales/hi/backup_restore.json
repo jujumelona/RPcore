@@ -1,0 +1,20 @@
+{
+  "backupRestoreTitle": "बैकअप / रिस्टोर",
+  "selectSections": "शामिल करने हेतु आइटम",
+  "backup_settings": "सेटिंग",
+  "backup_readingStats": "आँकड़े",
+  "backup_contentFilterRules": "फ़िल्टर",
+  "backup_notificationPrefs": "सूचनाएँ",
+  "backup_drafts": "ड्राफ्ट",
+  "backupBtn": "बैकअप निर्यात",
+  "restoreBtn": "रिस्टोर",
+  "backupSuccess": "बैकअप सहेजा गया",
+  "backupFailed": "बैकअप विफल",
+  "restoreConfirmTitle": "रिस्टोर की पुष्टि",
+  "restoreConfirmMsg": "चयनित डेटा ओवरराइट होगा। जारी रखें?",
+  "restoreSuccess": "रिस्टोर पूर्ण",
+  "noFileSelected": "कोई फ़ाइल चयनित नहीं",
+  "invalidBackup": "अमान्य बैकअप फ़ाइल",
+  "cancel": "रद्द करें",
+  "backupHint": "बैकअप डाउनलोड फ़ोल्डर में सहेजे जाते हैं।"
+}

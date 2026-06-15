@@ -1,0 +1,9 @@
+{
+  "inputPlaceholder": "พิมพ์ข้อความ...",
+  "inputConvertingNovel": "กำลังแปลง...",
+  "inputModelLoading": "กำลังโหลดโมเดล...",
+  "inputGpuPreparing": "กำลังเตรียม GPU...",
+  "inputTyping": "{char} กำลังตอบ...",
+  "inputChoosing": "กรุณาเลือกตัวเลือก",
+  "inputReplyingTo": "ตอบกลับ @{name}"
+}

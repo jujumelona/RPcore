@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuites>
+  <testsuite name="Test Suite" device="R3CW70TCR5P" tests="1" failures="1" time="13.0">
+    <testcase id="01_app_launch" name="01_app_launch" classname="01_app_launch" time="13.0" status="ERROR">
+      <failure>TypeError: undefined is not a function&#xd;
+	at &lt;js> :program(inline-script:1:0-12)&#xd;
+	at org.graalvm.polyglot.Context.eval(Context.java:416)&#xd;
+	at maestro.js.GraalJsEngine.evaluateScript(GraalJsEngine.kt:99)&#xd;
+	at maestro.js.GraalJsEngine.evaluateScript(GraalJsEngine.kt:26)&#xd;
+	at maestro.js.JsEngine.evaluateScript$default(JsEngine.kt:9)&#xd;
+	at maestro.orchestra.util.Env.evaluateScripts$lambda$0(Env.kt:16)&#xd;
+	at kotlin.text.Regex.replace(Regex.kt:198)&#xd;
+	at maestro.orchestra.util.Env.evaluateScripts(Env.kt:12)&#xd;
+	at maestro.orchestra.Condition.evaluateScripts(Condition.kt:19)&#xd;
+	at maestro.orchestra.AssertConditionCommand.evaluateScripts(Commands.kt:431)&#xd;
+	at maestro.orchestra.MaestroCommand.evaluateScripts(MaestroCommand.kt:189)&#xd;
+	at maestro.orchestra.Orchestra.executeCommands(Orchestra.kt:244)&#xd;
+	at maestro.orchestra.Orchestra.runFlow(Orchestra.kt:181)&#xd;
+	at maestro.cli.runner.TestSuiteInteractor.runFlow(TestSuiteInteractor.kt:243)&#xd;
+	at maestro.cli.runner.TestSuiteInteractor.runTestSuite(TestSuiteInteractor.kt:98)&#xd;
+	at maestro.cli.command.TestCommand.runMultipleFlows(TestCommand.kt:619)&#xd;
+	at maestro.cli.command.TestCommand.access$runMultipleFlows(TestCommand.kt:80)&#xd;
+	at maestro.cli.command.TestCommand$runShardSuite$1$1.invokeSuspend(TestCommand.kt:502)&#xd;
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:34)&#xd;
+	at kotlinx.coroutines.DispatchedTask.run(DispatchedTask.kt:104)&#xd;
+	at kotlinx.coroutines.EventLoopImplBase.processNextEvent(EventLoop.common.kt:277)&#xd;
+	at kotlinx.coroutines.BlockingCoroutine.joinBlocking(Builders.kt:95)&#xd;
+	at kotlinx.coroutines.BuildersKt__BuildersKt.runBlocking(Builders.kt:69)&#xd;
+	at kotlinx.coroutines.BuildersKt.runBlocking(Unknown Source)&#xd;
+	at kotlinx.coroutines.BuildersKt__BuildersKt.runBlocking$default(Builders.kt:48)&#xd;
+	at kotlinx.coroutines.BuildersKt.runBlocking$default(Unknown Source)&#xd;
+	at maestro.cli.command.TestCommand.runShardSuite$lambda$10(TestCommand.kt:501)&#xd;
+	at maestro.cli.session.MaestroSessionManager.newSession(MaestroSessionManager.kt:132)&#xd;
+	at maestro.cli.session.MaestroSessionManager.newSession$default(MaestroSessionManager.kt:66)&#xd;
+	at maestro.cli.command.TestCommand.runShardSuite(TestCommand.kt:476)&#xd;
+	at maestro.cli.command.TestCommand.access$runShardSuite(TestCommand.kt:80)&#xd;
+	at maestro.cli.command.TestCommand$handleSessions$1$results$1$1.invokeSuspend(TestCommand.kt:435)&#xd;
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:34)&#xd;
+	at kotlinx.coroutines.DispatchedTask.run(DispatchedTask.kt:104)&#xd;
+	at kotlinx.coroutines.internal.LimitedDispatcher$Worker.run(LimitedDispatcher.kt:111)&#xd;
+	at kotlinx.coroutines.scheduling.TaskImpl.run(Tasks.kt:99)&#xd;
+	at kotlinx.coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:585)&#xd;
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:802)&#xd;
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:706)&#xd;
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:693)&#xd;
+</failure>
+    </testcase>
+  </testsuite>
+</testsuites>

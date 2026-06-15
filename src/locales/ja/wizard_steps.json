@@ -1,0 +1,12 @@
+{
+  "wizardStepGenre": "ジャンル / テーマ",
+  "wizardStepPremise": "核心あらすじ",
+  "wizardStepCharCount": "登場人物数",
+  "wizardStepCharDetail": "登場人物情報",
+  "wizardStepWorld": "世界観",
+  "wizardStepTone": "雰囲気",
+  "wizardStepChapter": "チャプター数",
+  "wizardStepFlow": "ストーリーの流れ",
+  "wizardStepBranch": "分岐 / 選択肢頻度",
+  "wizardStepTokens": "生成トークン数"
+}

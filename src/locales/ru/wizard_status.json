@@ -1,0 +1,15 @@
+{
+  "wizardInitStatus": "Инициализация модели...",
+  "wizardLoadingStatus": "Загрузка модели...",
+  "wizardReadyStatus": "Готово",
+  "wizardModuleError": "Нативный модуль недоступен",
+  "wizardInitFail": "Ошибка инициализации",
+  "wizardNoModel": "Модель ИИ не загружена. Перейдите на страницу «Моя страница» и сначала загрузите модель.",
+  "wizardGenTitle": "Создаём историю...",
+  "wizardGenSub": "ИИ заполняет редактор историй",
+  "wizardGenSubLong": "Большое количество токенов может занять некоторое время",
+  "wizardGenSubWait": "Пожалуйста, подождите",
+  "wizardErrTitle": "Произошла ошибка",
+  "wizardErrRetry": "Повторить",
+  "wizardPctComplete": "% выполнено"
+}
